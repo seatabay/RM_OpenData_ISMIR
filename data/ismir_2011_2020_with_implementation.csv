@@ -1,0 +1,259 @@
+titles,year
+Uncovering audio patterns in music with Nonnegative Tucker Decomposition for structural segmentation,2020
+POP909: A Pop-Song Dataset for Music Arrangement Generation,2020
+Audio to Score Matching by Combining Phonetic and Duration Information.,2017
+Optical Music Recognition with Convolutional Sequence-to-Sequence Models.,2017
+Supervised Symbolic Music Style Translation Using Synthetic Data,2019
+Deep Music Analogy Via Latent Representation Disentanglement,2019
+Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks,2018
+"Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.",2017
+A Collection of Music Scores for Corpus Based Jingju Singing Research.,2017
+Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks.,2017
+Deep Salience Representations for F0 Estimation in Polyphonic Music.,2017
+An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets.,2017
+Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database.,2017
+Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis.,2017
+Transfer Learning for Music Classification and Regression Tasks.,2017
+A Formalization of Relative Local Tempo Variations in Collections of Performances.,2017
+Structured Training for Large-Vocabulary Chord Recognition.,2017
+Counterpoint by Convolution.,2017
+A Music Player with Song Selection Function for a Group of People.,2017
+FMA: A Dataset for Music Analysis.,2017
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation.,2017
+"PiPo, a Plugin Interface for Afferent Data Stream Processing Operators.",2017
+Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks.,2017
+Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.,2017
+A Metric for Music Notation Transcription Accuracy.,2017
+A Multiobjective Music Recommendation Approach for Aspect-Based Diversification.,2017
+Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation.,2017
+Automatic Stylistic Composition of Bach Chorales with Deep LSTM.,2017
+Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method.,2017
+Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme.,2017
+A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration.,2017
+Analysis of Interactive Intonation in Unaccompanied SATB Ensembles.,2017
+Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks.,2017
+Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data.,2017
+In Search of the Consensus Among Musical Pattern Discovery Algorithms.,2017
+Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network.,2017
+Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio.,2017
+Re-Visiting the Music Segmentation Problem with Crowdsourcing.,2017
+Melodic Similarity in Traditional French-Canadian Instrumental Dance Tunes.,2015
+Music Pattern Discovery with Variable Markov Oracle: A Unified Approach to Symbolic and Audio Representations.,2015
+Selective Acquisition Techniques for Enculturation-Based Melodic Phrase Segmentation.,2015
+Corpus Analysis Tools for Computational Hook Discovery.,2015
+A Software Framework for Musical Data Augmentation.,2015
+Drum Transcription Using Partially Fixed Non-Negative Matrix Factorization with Template Adaptation.,2015
+Beat and Downbeat Tracking Based on Rhythmic Patterns Applied to the Uruguayan Candombe Drumming.,2015
+Content-Aware Collaborative Music Recommendation Using Pre-trained Neural Networks.,2015
+Combining Features for Cover Song Identification.,2015
+Melody Extraction by Contour Classification.,2015
+Comparison of the Singing Style of Two Jingju Schools.,2015
+Improving Optical Music Recognition by Combining Outputs from Multiple Sources.,2015
+A Comparison of Symbolic Similarity Measures for Finding Occurrences of Melodic Segments.,2015
+Four Timely Insights on Automatic Chord Estimation.,2015
+Searching Lyrical Phrases in A-Capella Turkish Makam Recordings.,2015
+Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination.,2015
+AcousticBrainz: A Community Platform for Gathering Music Information Obtained from Audio.,2015
+SiMPle: Assessing Music Similarity Using Subsequences Joins.,2016
+Feature Learning for Chord Recognition: The Deep Chroma Extractor.,2016
+A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations.,2016
+AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles.,2016
+Downbeat Tracking Using Beat Synchronous Features with Recurrent Neural Networks.,2016
+Enhancing Cover Song Identification with Hierarchical Rank Aggregation.,2016
+Further Steps Towards a Standard Testbed for Optical Music Recognition.,2016
+Learning and Visualizing Music Specifications Using Pattern Graphs.,2016
+Tempo Estimation for Music Loops and a Simple Confidence Measure.,2016
+Brain Beats: Tempo Extraction from EEG Data.,2016
+Aligned Hierarchies: A Multi-Scale Structure-Based Representation for Music-Based Data Streams.,2016
+Analysing Scattering-Based Music Content Analysis Systems: Where's the Music?.,2016
+Two (Note) Heads Are Better Than One: Pen-Based Multimodal Interaction with Music Scores.,2016
+Systematic Exploration of Computational Music Structure Research.,2016
+A Comparison of Melody Extraction Methods Based on Source-Filter Modelling.,2016
+Deep Convolutional Networks on the Pitch Spiral For Music Instrument Recognition.,2016
+Global Properties of Expert and Algorithmic Hierarchical Music Analyses.,2016
+On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music.,2016
+Automatic Melodic Reduction Using a Supervised Probabilistic Context-Free Grammar.,2016
+Extracting Ground-Truth Information from MIDI Files: A MIDIfesto.,2016
+A Hybrid Gaussian-HMM-Deep Learning Approach for Automatic Chord Estimation with Very Large Vocabulary.,2016
+The Audio Degradation Toolbox and Its Application to Robustness Evaluation.,2013
+Visual Humdrum-Library for PWGL.,2013
+Optical Measure Recognition in Common Music Notation.,2013
+Musicbrainz for The World: The Chilean Experience.,2013
+Data Driven and Discriminative Projections for Large-Scale Cover Song Identification.,2013
+Placing Music Artists and Songs in Time Using Editorial Metadata and Web Mining Techniques.,2013
+Beta Process Sparse Nonnegative Matrix Factorization for Music.,2013
+Low-Rank Representation of Both Singing Voice and Music Accompaniment Via Learned Dictionaries.,2013
+Essentia: An Audio Analysis Library for Music Information Retrieval.,2013
+The Kiki-Bouba Challenge: Algorithmic Composition for Content-based MIR Research and Development.,2014
+Estimating Musical Time Information from Performed MIDI Files.,2014
+Towards Automatic Content-Based Separation of DJ Mixes into Single Tracks.,2014
+Codebook-based Scalable Music Tagging with Poisson Matrix Factorization.,2014
+Systematic Multi-scale Set-class Analysis.,2014
+Panako - A Scalable Acoustic Fingerprinting System Handling Time-Scale and Pitch Modification.,2014
+The Importance of F0 Tracking in Query-by-singing-humming.,2014
+In-depth Motivic Analysis based on Multiparametric Closed Pattern and Cyclic Sequence Mining.,2014
+MIR_EVAL: A Transparent Implementation of Common MIR Metrics.,2014
+"Tracking the ""Odd"": Meter Inference in a Culturally Diverse Music Corpus.",2014
+Information-Theoretic Measures of Music Listening Behaviour.,2014
+Classifying EEG Recordings of Rhythm Perception.,2014
+An Acoustic-Phonetic Approach to Vocal Melody Extraction.,2011
+"Automatic Assessment of Singer Traits in Popular Music: Gender, Age, Height and Race.",2011
+Structural Change on Multiple Time Scales as a Correlate of Musical Complexity.,2011
+The Million Song Dataset.,2011
+Evaluating Automatic Polyphonic Music Transcription,2018
+Onsets and Frames: Dual-Objective Piano Transcription,2018
+Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription,2018
+Functional Harmony Recognition of Symbolic Music Data with Multi-task Recurrent Neural Networks,2018
+A Single-step Approach to Musical Tempo Estimation using a Convolutional Neural Network,2018
+Meter Detection and Alignment of MIDI Performance,2018
+Frame-level Instrument Recognition by Timbre and Pitch,2018
+"Bridging Audio Analysis, Perception and Synthesis with Perceptually-regularized Variational Timbre Spaces",2018
+Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation,2018
+Cover Song Synthesis by Analogy,2018
+Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets,2018
+Optical Music Recognition in Mensural Notation with Region-based Convolutional Neural Networks,2018
+Camera-PrIMuS: Neural End-to-End Optical Music Recognition on Realistic Monophonic Scores,2018
+Deep Neural Networks with Voice Entry Estimation Heuristics for Voice Separation in Symbolic Music Representations,2018
+The Northwestern University Source Separation Library,2018
+Improving Peak-picking Using Multiple Time-step Loss Functions,2018
+Zero-Mean Convolutions for Level-Invariant Singing Voice Detection,2018
+Music Generation and Transformation with Moment Matching-Scattering Inverse Networks,2018
+Wave-U-Net: A Multi-Scale Neural Network for End-to-End Audio Source Separation,2018
+SE and SNL diagrams: Flexible data structures for MIR,2018
+Controlled Vocabularies for Music Metadata,2018
+"DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm.",2018
+OpenMIC-2018: An Open Data-set for Multiple Instrument Recognition,2018
+From Labeled to Unlabeled Data – On the Data Challenge in Automatic Drum Transcription,2018
+GuitarSet: A Dataset for Guitar Transcription,2018
+Musical-Linguistic Annotations of Il Lauro Secco,2018
+VocalSet: A Singing Voice Dataset,2018
+The NES Music Database: A multi-instrumental dataset with expressive performance attributes,2018
+Audio-Aligned Jazz Harmony Dataset for Automatic Chord Transcription and Corpus-based Research,2018
+Revisiting Singing Voice Detection: A quantitative review and the future outlook,2018
+Vocal Melody Extraction with Semantic Segmentation and Audio-symbolic Domain Transfer Learning,2018
+Analysis by Classification: A Comparative Study of Annotated and Algorithmically Extracted Patterns in Symbolic Music Data,2018
+Audio-to-Score Alignment using Transposition-invariant Features,2018
+Disambiguating Music Artists at Scale with Audio Metric Learning,2018
+End-to-end Learning for Music Audio Tagging at Scale,2018
+Audio Based Disambiguation of Music Genre Tags,2018
+Learning Domain-Adaptive Latent Representations of Music Signals Using Variational Autoencoders,2018
+Learning Interval Representations from Polyphonic Music Sequences,2018
+Representation Learning of Music Using Artist Labels,2018
+Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model,2018
+MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer,2018
+Understanding a Deep Machine Listening Model Through Feature Inversion,2018
+"Learning to Listen, Read, and Follow: Score Following as a Reinforcement Learning Game",2018
+Improving Polyphonic Music Models with Feature-rich Encoding,2020
+Composer Style Classification of Piano Sheet Music Images Using Language Model Pretraining,2020
+Camera-Based Piano Sheet Music Identification,2020
+Perceptual vs. automated judgements of music copyright infringement,2020
+SuPP & MaPP: Adaptable Structure-Based Representations for MIR Tasks,2020
+A corpus-based analysis of syncopated patterns in ragtime,2020
+A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory,2020
+Investigating U-Nets with various Intermediate Blocks for Spectrogram-based Singing Voice Separation,2020
+The Rhythmic Dictator: Does Gamification of Rhythm Dictation Exercises Help?,2020
+Learning to Read and Follow Music in Complete Score Sheet Images,2020
+Measuring disruption in song similarity networks,2020
+The Jazz Harmony Treebank,2020
+Learning Interpretable Representation for Controllable Polyphonic Music Generation ,2020
+PIANOTREE VAE: Structured Representation Learning for Polyphonic Music,2020
+Multilingual lyrics-to-audio alignment,2020
+Structural Segmentation of Dhrupad Vocal Bandish Audio based on Tempo,2020
+Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation,2020
+Modelling Hierarchical Key Structure With Pitch Scapes,2020
+Voice-Leading Schema Recognition Using Rhythm and Pitch Features,2020
+ASAP: a dataset of aligned scores and performances for piano transcription,2020
+Content based singing voice source separation via strong conditioning using aligned phonemes,2020
+A Simple Method for User-Driven Music Thumbnailing,2020
+Score-Informed Source Separation of Choral Music,2020
+Improved Handling of Repeats and Jumps in Audio--Sheet Image Synchronization,2020
+Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm,2020
+Mood Classification Using Listening Data,2020
+Sesquialtera in the Colombian bambuco: Perception and estimation of beat and meter,2020
+Semi-supervised learning using teacher-student models for vocal melody extraction,2020
+The MIDI Degradation Toolkit: Symbolic Music Augmentation and Correction,2020
+MusPy: A Toolkit for Symbolic Music Generation,2020
+Ultra-light deep MIR by trimming lottery tickets,2020
+Data Cleansing with Contrastive Learning for Vocal Note Event Annotations,2020
+Joyful for you and tender for us: the influence of individual characteristics and language on emotion labeling and classification,2020
+Multidimensional similarity modelling of complex drum loops using the GrooveToolbox,2020
+Music FaderNets: Controllable Music Generation Based On High-Level Features via Low-Level Feature Modelling,2020
+"Deconstruct, Analyse, Reconstruct: How to improve Tempo, Beat, and Downbeat Estimation",2020
+Neural Loop Combiner: Neural Network Models for Assessing the Compatibility of Loops,2020
+Rule Mining for Local Boundary Detection in Melodies,2020
+Butter Lyrics Over Hominy Grit: Comparing Audio and Psychology-Based Text Features in MIR Tasks,2020
+Mode classification and natural units in plainchant,2020
+"CONLON: A Pseudo-Song Generator Based on a New Pianoroll, Wasserstein Autoencoders, and Optimal Interpolations",2020
+The Freesound Loop Dataset and Annotation Tool,2020
+Less is more: Faster and better music version identification with embedding distillation,2020
+Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks,2020
+DRUMGAN: SYNTHESIS OF DRUM SOUNDS WITH TIMBRAL FEATURE CONDITIONING USING GENERATIVE ADVERSARIAL NETWORKS,2020
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing,2020
+Essentia.js: A JavaScript Library for Music and Audio Analysis on the Web,2020
+Deep Learning Based Source Separation Applied To Choir Ensembles,2020
+On the Characterization of Expressive Performance in Classical Music: First Results of the Con Espressione Game,2020
+dMelodies: A Music Dataset for Disentanglement Learning,2020
+Score-informed Networks for Music Performance Assessment,2020
+The multiple voices of musical emotions: source separation for improving music emotion recognition models and their interpretability,2020
+Hierarchical Timbre-painting and Articulation Generation,2020
+Multitask Learning  for Instrument Activation Aware Music Source Separation,2020
+The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-composed Music through Quantitative Measures,2020
+"Exact, Parallelizable Dynamic Time Warping Alignment with Linear Memory",2020
+A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment,2020
+Zero-shot Learning for Audio-based Music Classification and Tagging,2019
+Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition,2019
+An Attention Mechanism for Musical Instrument Recognition,2019
+MIDI-Sheet Music Alignment Using Bootleg Score Synthesis,2019
+The RomanText Format: A Flexible and Standard Method for Representing Roman Numerial Analyses,2019
+20 Years of Playlists: A Statistical Analysis on Popularity and Diversity,2019
+Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations,2019
+Evolution of the Informational Complexity of Contemporary Western Music,2019
+Deep Unsupervised Drum Transcription,2019
+Estimating Unobserved Audio Features for Target-Based Orchestration,2019
+Learning Soft-Attention Models for Tempo-invariant Audio-Sheet Music Retrieval,2019
+Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music,2019
+Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast,2019
+Community-Based Cover Song Detection,2019
+Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition,2019
+Guitar Tablature Estimation with a Convolutional Neural Network,2019
+Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice,2019
+Da-TACOS: A Dataset for Cover Song Identification and Understanding,2019
+Learning to Traverse Latent Spaces for Musical Score Inpainting,2019
+"The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale",2019
+Towards Interpretable Polyphonic Transcription with Invertible Neural Networks,2019
+Backtracking Search Heuristics for Solving the All-partition Array Problem,2019
+A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity,2019
+JosquIntab: A Dataset for Content-based Computational Analysis of Music in Lute Tablature,2019
+A Dataset of Rhythmic Pattern Reproductions and Baseline Automatic Assessment System,2019
+Blending Acoustic and Language Model Predictions for Automatic Music Transcription,2019
+Learning Similarity Metrics for Melody Retrieval,2019
+Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other,2019
+"The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music",2019
+Automatic Assessment of Sight-reading Exercises,2019
+A Bi-Directional Transformer for Musical Chord Recognition,2019
+LakhNES: Improving Multi-instrumental Music Generation with Cross-domain Pre-training,2019
+"Taking Form: A Representation Standard, Conversion Code, and Example Corpora for Recording, Visualizing, and Studying Analyses of Musical Form",2019
+Learning Complex Basis Functions for Invariant Representations of Audio,2019
+humdrumR: a New Take on an Old Approach to Computational Musicology,2019
+A Holistic Approach to Polyphonic Music Transcription with Neural Networks,2019
+Generalized Metrics for Single-f0 Estimation Evaluation,2019
+The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications,2019
+Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations,2019
+Approachable Music Composition with Machine Learning at Scale,2019
+Quantifying Disruptive Influence in the AllMusic Guide,2019
+Leveraging knowledge bases and parallel annotations for music genre translation,2019
+Generating Structured Drum Pattern Using Variational Autoencoder and Self-similarity Matrix,2019
+Quantifying Musical Style: Ranking Symbolic Music based on Similarity to a Style,2019
+Mosaic Style Transfer Using Sparse Autocorrelograms,2019
+Hierarchical Classification Networks for Singing Voice Segmentation and Transcription,2019
+VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance,2019
+MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music,2019
+A Convolutional Approach to Melody Line Identification in Symbolic Scores,2019
+Analyzing Drum Patterns Using Conditional Deep Belief Networks.,2012
+A Geometric Language for Representing Structure in Polyphonic Music.,2012
+Assigning a Confidence Threshold on Automatic Beat Annotation in Large Datasets.,2012
+Learning to Embed Songs and Tags for Playlist Prediction.,2012
+Extracting Semantic Information from an Online Carnatic Music Forum.,2012
+Multi-Template Shift-Variant Non-Negative Matrix Deconvolution for Semi-Automatic Music Transcription.,2012
+Inferring Chord Sequence Meanings via Lyrics: Process and Evaluation.,2012
+Robust Singer Identification in Polyphonic Music using Melody Enhancement and Uncertainty-based Learning.,2012

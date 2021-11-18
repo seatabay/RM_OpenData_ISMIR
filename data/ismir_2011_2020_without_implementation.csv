@@ -1,0 +1,838 @@
+,titles,year
+0,Multiscale Approaches To Music Audio Feature Learning.,2013
+1,Transfer Learning In Mir: Sharing Learned Latent Representations For Music Audio Classification And Similarity.,2013
+2,A Distributed Model For Multiple-Viewpoint Melodic Prediction.,2013
+3,Learning Rhythm And Melody Features With Deep Belief Networks.,2013
+4,A Comparative Study Of Indian And Western Music Forms.,2013
+5,Swara Histogram Based Structural Analysis And Identification Of Indian Classical Ragas.,2013
+6,Combining Modeling Of Singing Voice And Background Music For Automatic Separation Of Musical Mixtures.,2013
+7,On Finding Symbolic Themes Directly From Audio Files Using Dynamic Programming.,2013
+8,"Towards Light-Weight, Real-Time-Capable Singing Voice Detection.",2013
+9,The Use Of Melodic Scales In Bollywood Music: An Empirical Study.,2013
+10,Bilevel Sparse Models for Polyphonic Music Transcription.,2013
+11,JProductionCritic: An Educational Tool for Detecting Technical Errors in Audio Mixes.,2013
+12,Combining Timbric and Rhythmic Features for Semantic Music Tagging.,2013
+14,Do Online Social Tags Predict Perceived or Induced Emotional Responses to Music?,2013
+15,A Video Compression-Based Approach to Measure Music Structural Similarity.,2013
+16,Dunya: A System to Browse Audio Music Collections Exploiting Cultural Context.,2013
+17,An Analysis of Chorus Features in Popular Song.,2013
+19,Source Separation of Polyphonic Music with Interactive User-Feedback on a Piano Roll Display.,2013
+22,Influences of ISMIR and MIREX Research on Technology Patents.,2013
+23,Toward Understanding Expressive Percussion Through Content Based Analysis.,2013
+25,"Simultaneous Unsupervised Learning of Flamenco Metrical Structure, Hypermetrical Structure, and Multipart Structural Relations.",2013
+26,A Corpus-Based Study on Ragtime Syncopation.,2013
+27,A Computational Comparison of Theory And Practice of Scale Intonation in Byzantine Chant.,2013
+28,Score Informed Tonic Identification for Makam Music of Turkey.,2013
+30,The Million Musical Tweet Dataset - What We Can Learn From Microblogs.,2013
+31,Verifying Music Tag Annotation Via Association Analysis.,2013
+32,The Role of Audio and Tags in Music Mood Prediction: A Study Using Semantic Layer Projection.,2013
+33,Converting Path Structures Into Block Structures Using Eigenvalue Decompositions of Self-Similarity Matrices.,2013
+34,The Audio Effects Ontology.,2013
+35,Exploration of Music Emotion Recognition Based on MIDI.,2013
+36,Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio.,2013
+37,Large-Scale Cover Song Identification Using Chord Profiles.,2013
+38,Automatically Identifying Vocal Expressions for Music Transcription.,2013
+39,Hooked: A Game For Discovering What Makes Music Catchy.,2013
+40,Hierarchical Classification of Carnatic Music Forms.,2013
+41,A Simple Fusion Method of State And Sequence Segmentation for Music Structure Discovery.,2013
+42,Evaluating The Quality of Generated Playlists Based on Hand-Crafted Samples.,2013
+43,Explicit Duration Hidden Markov Models for Multiple-Instrument Polyphonic Music Transcription.,2013
+44,A Comprehensive Online Database of Machine-Readable Lead-Sheets for Jazz Standards.,2013
+45,MeUse: Recommending Internet Radio Stations.,2013
+46,Improved Audio Classification Using a Novel Non-Linear Dimensionality Reduction Ensemble Approach.,2013
+47,A Study of Ensemble Synchronisation Under Restricted Line of Sight.,2013
+48,Groove Kernels as Rhythmic-Acoustic Motif Descriptors.,2013
+49,Instrument Identification Informed Multi-Track Mixing.,2013
+50,Tempo Detection of Urban Music Using Tatum Grid Non Negative Matrix Factorization.,2013
+51,A Study of Cultural Dependence of Perceived Mood in Greek Music.,2013
+52,Evaluation on Feature Importance for Favorite Song Detection.,2013
+53,QBT-Extended: An Annotated Dataset of Melodically Contoured Tapped Queries.,2013
+54,Audio Chord Recognition with Recurrent Neural Networks.,2013
+55,Virtualband: Interacting with Stylistically Consistent Agents.,2013
+56,Sparse Modeling for Artist Identification: Exploiting Phase Information and Vocal Separation.,2013
+57,Automatic Transcription of Turkish Makam Music.,2013
+58,Local Group Delay Based Vibrato and Tremolo Suppression for Onset Detection.,2013
+59,Beyond NMF: Time-Domain Audio Source Separation without Phase Reconstruction.,2013
+61,Semi-Supervised Polyphonic Source Identification using PLCA Based Graph Clustering.,2013
+62,An Experiment about Estimating the Number of Instruments in Polyphonic Music: A Comparison Between Internet and Laboratory Results.,2013
+63,Social-EQ: Crowdsourcing an Equalization Descriptor Map.,2013
+64,Taste Over Time: The Temporal Dynamics of User Preferences.,2013
+65,Exploring the Relation Between Novelty Aspects and Preferences in Music Listening.,2013
+66,Spectral Correlates in Emotion Labeling of Sustained Musical Instrument Tones.,2013
+67,Design and Evaluation of Semantic Mood Models for Music Recommendation using Editorial Tags.,2013
+69,Incremental Visualization of Growing Music Collections.,2013
+70,Evaluating OMR on the Early Music Online Collection.,2013
+71,Sparse Music Decomposition onto a MIDI Dictionary Driven by Statistical Music Knowledge.,2013
+72,Annotating Works for Music Education: Propositions for a Musical Forms and Structures Ontology and a Musical Performance Ontology.,2013
+73,Chord-Sequence-Factory: A Chord Arrangement System Modifying Factorized Chord Sequence Probabilities.,2013
+74,Music Cut and Paste: A Personalized Musical Medley Generating System.,2013
+75,A Meta-Analysis of the MIREX Structural Segmentation Task.,2013
+76,A Deterministic Annealing EM Algorithm for Automatic Music Transcription.,2013
+77,Modelling the Speed of Music using Features from Harmonic/Percussive Separated Audio.,2013
+78,Inter and Intra Item Segmentation of Continuous Audio Recordings of Carnatic Music for Archival.,2013
+80,Motif Spotting in an Alapana in Carnatic Music.,2013
+81,Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction.,2013
+82,Improving the Reliability of Music Genre Classification using Rejection and Verification.,2013
+83,Robotaba Guitar Tablature Transcription Framework.,2013
+84,Comparing Onset Detection &amp; Perceptual Attack Time.,2013
+85,K-Pop Genres: A Cross-Cultural Exploration.,2013
+86,Coupling Social Network Services and Support for Online Communities in Codes Environment.,2013
+87,Basic Evaluation of Auditory Temporal Stability (Beats): A Novel Rationale and Implementation.,2013
+88,SIARCT-CFP: Improving Precision and the Discovery of Inexact Musical Patterns in Point-Set Representations.,2013
+89,A Machine Learning Approach to Voice Separation in Lute Tablature.,2013
+90,A Methodology for the Comparison of Melodic Generation Models Using Meta-Melo.,2013
+91,An Extended Audio Fingerprint Method with Capabilities for Similar Music Detection.,2013
+92,AutoMashUpper: An Automatic Multi-Song Mashup System.,2013
+93,Learning Binary Codes For Efficient Large-Scale Music Similarity Search.,2013
+94,Freischütz Digital: A Case Study for Reference-Based Audio Segmentation for Operas.,2013
+95,Automated Methods for Analyzing Music Recordings in Sonata Form.,2013
+96,Combining Harmony-Based and Novelty-Based Approaches for Structural Segmentation.,2013
+97,Automatic Alignment of Music Performances with Structural Differences.,2013
+98,"On Cultural, Textual and Experiential Aspects of Music Mood.",2014
+99,"Sparse Cepstral, Phase Codes for Guitar Playing Technique Classification.",2014
+100,Automated Detection of Single- and Multi-Note Ornaments in Irish Traditional Flute Playing.,2014
+102,Transfer Learning by Supervised Pre-training for Audio-based Music Classification.,2014
+104,Estimation of the Direction of Strokes and Arpeggios.,2014
+105,Predicting Expressive Dynamics in Piano Performances using Neural Networks.,2014
+106,An RNN-based Music Language Model for Improving Automatic Music Transcription.,2014
+107,Towards Modeling Texture in Symbolic Data.,2014
+108,Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.,2014
+109,The VIS Framework: Analyzing Counterpoint in Large Datasets.,2014
+110,Hierarchical Approach to Detect Common Mistakes of Beginner Flute Players.,2014
+111,Robust Joint Alignment of Multiple Versions of a Piece of Music.,2014
+112,Formalizing the Problem of Music Description.,2014
+113,An Association-based Approach to Genre Classification in Music.,2014
+114,Multiple Viewpiont Melodic Prediction with Fixed-Context Neural Networks.,2014
+115,Verovio: A library for Engraving MEI Music Notation into SVG.,2014
+116,Music Classification by Transductive Learning Using Bipartite Heterogeneous Networks.,2014
+117,Automatic Melody Transcription based on Chord Transcription.,2014
+118,Audio-to-score Alignment at the Note Level for Orchestral Recordings.,2014
+119,A Compositional Hierarchical Model for Music Information Retrieval.,2014
+120,An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures.,2014
+121,Detecting Drops in Electronic Dance Music: Content based approaches to a socially significant music event.,2014
+123,MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR Research.,2014
+124,Melody Extraction from Polyphonic Audio of Western Opera: A Method based on Detection of the Singer's Formant.,2014
+126,Template Adaptation for Improving Automatic Music Transcription.,2014
+127,Note-level Music Transcription by Maximum Likelihood Sampling.,2014
+128,Drum Transcription via Classification of Bar-Level Rhythmic Patterns.,2014
+129,Developing Tonal Perception through Unsupervised Learning.,2014
+130,Exploiting Instrument-wise Playing/Non-Playing Labels for Score Synchronization of Symphonic Music.,2014
+131,Multi-Strategy Segmentation of Melodies.,2014
+132,A Data Set for Computational Studies of Schenkerian Analysis.,2014
+134,Spotting a Query Phrase from Polyphonic Music Audio Signals Based on Semi-supervised Nonnegative Matrix Factorization.,2014
+135,Bayesian Audio Alignment based on a Unified Model of Music Composition and Performance.,2014
+136,Automatic Set List Identification and Song Segmentation for Full-Length Concert Videos.,2014
+137,On Inter-rater Agreement in Audio Music Similarity.,2014
+138,Emotional Predisposition of Musical Instrument Timbres with Static Spectra.,2014
+140,Perceptual Analysis of the F-Measure to Evaluate Section Boundaries in Music.,2014
+141,Keyword Spotting in A-capella Singing.,2014
+143,Vocal Separation using Singer-Vowel Priors Obtained from Polyphonic Audio.,2014
+144,Improving Query by Tapping via Tempo Alignment.,2014
+145,Automatic Instrument Classification of Ethnomusicological Audio Recordings.,2014
+146,Music Analysis as a Smallest Grammar Problem.,2014
+147,Frame-Level Audio Segmentation for Abridged Musical Works.,2014
+148,Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis.,2014
+149,Modeling Temporal Structure in Music for Emotion Prediction using Pairwise Comparisons.,2014
+150,Musical Structural Analysis Database Based on GTTM.,2014
+151,Theoretical Framework of A Computational Model of Auditory Memory for Music Emotion Recognition.,2014
+152,Improving Music Structure Segmentation using lag-priors.,2014
+153,Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing.,2014
+154,A Proximity Grid Optimization Method to Improve Audio Search for Sound Design.,2014
+155,Introducing a Dataset of Emotional and Color Responses to Music.,2014
+158,Computational Modeling of Induced Emotion Using GEMS.,2014
+159,Cognition-inspired Descriptors for Scalable Cover Song Retrieval.,2014
+160,A Cross-Cultural Study on the Mood of K-POP Songs.,2014
+161,Cadence Detection in Western Traditional Stanzaic Songs using Melodic and Textual Features.,2014
+162,Discovering Typical Motifs of a Raga from One-Liners of Songs in Carnatic Music.,2014
+163,Analyzing Song Structure with Spectral Clustering.,2014
+164,Identifying Polyphonic Musical Patterns From Audio Recordings Using Music Segmentation Techniques.,2014
+165,Boundary Detection in Music Structure Analysis using Convolutional Neural Networks.,2014
+167,Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera.,2014
+168,Taste Space Versus the World: an Embedding Analysis of Listening Habits and Geography.,2014
+169,Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation.,2014
+170,Improving Music Recommender Systems: What Can We Learn from Research on Music Tastes?,2014
+171,Social Music in Cars.,2014
+172,A Combined Thematic and Acoustic Approach for a Music Recommendation Service in TV Commercials.,2014
+173,Are Poetry and Lyrics All That Different?,2014
+174,Singing-Voice Separation from Monaural Recordings using Deep Recurrent Neural Networks.,2014
+175,Impact of Listening Behavior on Music Recommendation.,2014
+176,Towards Seamless Network Music Performance: Predicting an Ensemble's Expressive Decisions for Distributed Performance.,2014
+177,Detection of Motor Changes in Violin Playing by EMG Signals.,2014
+178,Automatic Key Partition Based on Tonal Organization Information of Classical Music.,2014
+179,Bayesian Singing-Voice Separation.,2014
+180,Probabilistic Extraction of Beat Positions from a Beat Activation Function.,2014
+181,Geographical Region Mapping Scheme Based on Musical Preferences.,2014
+182,On Comparative Statistics for Labelling Tasks: What can We Learn from MIREX ACE 2013?,2014
+183,Merged-Output HMM for Piano Fingering of Both Hands.,2014
+184,Modeling Rhythm Similarity for Electronic Dance Music.,2014
+185,MuSe: A Music Recommendation Management System.,2014
+186,Tempo- and Transposition-invariant Identification of Piece and Score Position.,2014
+187,Gender Identification and Age Estimation of Users Based on Music Metadata.,2014
+189,Evaluation Framework for Automatic Singing Transcription.,2014
+190,What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features?,2014
+191,Music Information Behaviors and System Preferences of University Students in Hong Kong.,2014
+192,LyricsRadar: A Lyrics Retrieval System Based on Latent Topics of Lyrics.,2014
+193,JAMS: A JSON Annotated Music Specification for Reproducible MIR Research.,2014
+194,On The Changing Regulations of Privacy and Personal Information in MIR.,2014
+195,A Multi-model Approach to Beat Tracking Considering Heterogeneous Music Styles.,2014
+196,Extending Harmonic-Percussive Separation of Audio Signals.,2014
+197,Singing Voice Separation Using Spectro-Temporal Modulation Features.,2014
+198,Harmonic-Temporal Factor Decomposition Incorporating Music Prior Information for Informed Monaural Source Separation.,2014
+199,Design And Evaluation of Onset Detectors using Different Fusion Policies.,2014
+200,Evaluating the Evaluation Measures for Beat Tracking.,2014
+201,Improving Rhythmic Transcriptions via Probability Models Applied Post-OMR.,2014
+203,"Ten Years of MIREX (Music Information Retrieval Evaluation eXchange): Reflections, Challenges and Opportunities.",2014
+204,Music Structure Analysis Based on an LSTM-HSMM Hybrid Model,2020
+205,Multi-Instrument Music Transcription Based on Deep Spherical Clustering of Spectrograms and Pitchgrams,2020
+207,Practical Evaluation of Repeated Recommendations in Personalized Music Discovery,2020
+208,Modeling and Estimating Local Tempo: A Case Study on Chopin's Mazurkas,2020
+209,Classifying Leitmotifs in Recordings of Operas by Richard Wagner,2020
+211,Using Weakly Aligned Score-Audio Pairs to Train Deep Chroma Models for Cross-Modal Music Retrieval,2020
+213,User Perceptions Underlying  Social Music Behavior,2020
+216,Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset,2020
+222,Learning to Denoise Historical Music,2020
+223,Discourse not Dualism: An Interdisciplinary Dialogue on Sonata Form in Beethoven's Early Piano Sonatas,2020
+224,Play Music: User Motivations and Expectations for Non-Specific Voice Queries,2020
+228,A Chorus-Section Detection Method for Lyrics Text,2020
+230,Chord Jazzification: Learning Jazz Interpretations of Chord Symbols,2020
+232,Connective Fusion: Learning Transformational Joining of Sequences with Application to Melody Creation,2020
+234,Towards Multimodal MIR: Predicting individual differences from music-induced movement,2020
+235,Attributes-Aware Deep Music Transformation,2020
+237,Hierarchical Musical Instrument Separation,2020
+239,Moving in Time: Computational Analysis of Microtiming in Maracatu de Baque Solto,2020
+243,Semantically Meaningful Attributes from Co-Listen Embeddings for Playlist Exploration and Expansion,2020
+244,Downbeat Tracking with Tempo Invariant Convolutional Neural Networks,2020
+246,Tag2Risk: Harnessing Social Music Tags for Characterizing Depression Risk,2020
+248,BebopNet: Deep Neural Models for Personalized Jazz Improvisations,2020
+250,PROGRAMMING INEQUALITY: GENDER REPRESENTATION ON CANADIAN COUNTRY RADIO (2005-2019),2020
+252,Can't trust the feeling? How open data reveals unexpected behavior of high-level music descriptors,2020
+254,Zero-Shot Singing Voice Conversion,2020
+255,Dance Beat Tracking from Visual Information Alone,2020
+257,How Music Fans Shape Commercial Music Services:  A Case Study of BTS and ARMY,2020
+258,Artist gender representation in music streaming,2020
+260,Exploring Aligned Lyrics-informed Singing Voice Separation,2020
+262,Joint analysis of mode and playing technique in Guqin performance with machine learning,2020
+263,Score following with hidden tempo using a switching state-space model,2020
+265,Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds,2020
+266,Automatic Rank-Ordering of Singing Vocals with Twin-Neural Network,2020
+267,Human-AI Co-Creation in Songwriting,2020
+268,Analysis of Song/Artist Latent Features and Its Application for Song Search,2020
+274,A Neural Approach for Full-Page Optical Music Recognition of Mensural Documents,2020
+276,Modeling perception with hierarchical prediction: Auditory segmentation with deep predictive coding locates candidate evoked potentials in EEG,2020
+283,Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis,2020
+285,Combining musical features for cover detection,2020
+288,Should we consider the users in contextual music auto-tagging models?,2020
+289,Exploring Acoustic Similarity for Novel Music Recommendation,2020
+290,Generating Music with a Self-Correcting Non-Chronological Autoregressive Model,2020
+293,Microtask Crowdsourcing for Music Score Transcriptions: An Experiment with Error Detection,2020
+296,Detecting Collaboration Profiles in Success-based Music Genre Networks,2020
+299,Few-shot Drum Transcription in Polyphonic Music,2020
+301,Metric learning vs classification for disentangled music representation learning,2020
+305,User Insights on Diversity in Music Recommendation Lists,2020
+306,From Music Ontology towards Ethno-Music-Ontology,2020
+307,A Combination of Local Approaches for Hierarchical Music Genre Classification,2020
+308,Modeling Music and Code Knowledge to Support a Co-creative AI Agent for Education,2020
+311,Polyphonic Piano Transcription Using Autoregressive Multi-State Note Model,2020
+313,Automatic Composition of Guitar Tabs by Transformers and Groove Modeling,2020
+315,Explaining Perceived Emotion Predictions in Music: An Attentive Approach,2020
+316,Bistate reduction and comparison of drum patterns,2020
+317,"Pandemics, music, and collective sentiment: evidence from the outbreak of COVID-19",2020
+318,Towards a Formalization of Musical Rhythm,2020
+319,An Auditory Streaming Approach for Melody Extraction from Polyphonic Music.,2011
+321,A System for Evaluating Singing Enthusiasm for Karaoke.,2011
+323,A Preplexity Based Cover Song Matching System for Short Length Queries.,2011
+324,Humming Method for Content-Based Music Information Retrieval.,2011
+325,Large-scale music similarity search with spatial trees.,2011
+326,A simple-cycles weighted kernel based on harmony structure for similarity retrieval.,2011
+327,HarmTrace: Improving Harmonic Similarity Estimation Using Functional Harmony Analysis.,2011
+328,Adapting Metrics for Music Similarity Using Comparative Ratings.,2011
+329,Using Mutual Proximity to Improve Content-Based Audio Similarity.,2011
+330,Learning the Similarity of Audio Music in Bag-of-frames Representation from Tagged Music Data.,2011
+331,"Compression-based Similarity Measures in Symbolic, Polyphonic Music.",2011
+332,How Much Metadata Do We Need in Music Recommendation? A Subjective Evaluation Using Preference Sets.,2011
+333,NextOne Player: A Music Recommendation System Based on User Behavior.,2011
+334,How Similar Is Too Similar?: Exploring Users' Perceptions of Similarity in Playlist Evaluation.,2011
+335,A Real-Time Signal Processing Framework of Musical Expressive Feature Extraction Using Matlab.,2011
+336,A Scalable Audio Fingerprint Method with Robustness to Pitch-Shifting.,2011
+337,A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting.,2011
+338,Fast Hamming Space Search for Audio Fingerprinting Systems.,2011
+339,"Segmentation, Clustering, and Display in a Personal Audio Database for Musicians.",2011
+340,An Interactive System for Electro-Acoustic Music Analysis.,2011
+341,A Multicultural Approach in Music Information Research.,2011
+342,Assessing the Tuning of Sung Indian Classical Music.,2011
+343,A Computational Investigation of Melodic Contour Stability in Jewish Torah Trope Performance Traditions.,2011
+344,Tarsos - a Platform to Explore Pitch Scales in Non-Western and Western Music.,2011
+345,A Classification-Based Polyphonic Piano Transcription Approach Using Learned Feature Representations.,2011
+346,Constrained Spectrum Generation Using A Probabilistic Spectrum Envelope for Mixed Music Analysis.,2011
+347,Pulse Detection in Syncopated Rhythms Using Neural Oscillators.,2011
+348,A Two-Fold Dynamic Programming Approach to Beat Tracking for Audio Music with Time-Varying Tempo.,2011
+349,Tempo Estimation Based on Linear Prediction and Perceptual Modelling.,2011
+350,A Transient Detection Algorithm for Audio Using Iterative Analysis of STFT.,2011
+351,Modeling Musical Attributes to Characterize Two-Track Recordings with Bass and Drums.,2011
+352,Chroma Toolbox: Matlab Implementations for Extracting Variants of Chroma-Based Audio Features.,2011
+353,A Comparison of Statistical and Rule-Based Models for Style-Specific Harmonization.,2011
+354,Melody Extraction based on Harmonic Coded Structure.,2011
+355,Timbre and Melody Features for the Recognition of Vocal Activity and Instrumental Solos in Polyphonic Music.,2011
+356,Quantifying the Relevance of Locally Extracted Information for Musical Instrument Recognition from Entire Pieces of Music.,2011
+357,Score-Informed Voice Separation For Piano Recordings.,2011
+358,A Postprocessing Technique for Improved Harmonic/Percussion Separation for Polyphonic Music.,2011
+359,Factorization of Overlapping Harmonic Sounds Using Approximate Matching Pursuit.,2011
+360,Computational Approaches for the Understanding of Melody in Carnatic Music.,2011
+361,Modeling Melodic Improvisation in Turkish Folk Music Using Variable-Length Markov Models.,2011
+362,Iranian Traditional Music Dastgah Classification.,2011
+363,"The Temperament Police: The Truth, the Ground Truth, and Nothing but the Truth.",2011
+364,Methodology and Resources for The Structural Segmentation of Music Pieces into Autonomous and Comparable Blocks.,2011
+365,The Music Encoding Initiative as a Document-Encoding Framework.,2011
+366,Low Dimensional Visualization of Folk Music Systems Using the Self Organizing Cloud.,2011
+367,New Approaches to Optical Music Recognition.,2011
+368,Songle: A Web Service for Active Music Listening Improved by User Contributions.,2011
+369,Improving Perceptual Tempo Estimation with Crowd-Sourced Annotations.,2011
+370,Investigating the Similarity Space of Music Artists on the Micro-Blogosphere.,2011
+371,Musical Influence Network Analysis and Rank of Sample-Based Music.,2011
+372,User studies in the Music Information Retrieval Literature.,2011
+373,Social Capital and Music Discovery: An Examination of the Ties through Which Late Adolescents Discover New Music.,2011
+374,MIR in School? Lessons from Ethnographic Observation of Secondary School Music Classes.,2011
+375,Ethnographic Observations of Musicologists at the British Library: Implications for Music Information Retrieval.,2011
+376,Peachnote: Music Score Search and Analysis Platform.,2011
+377,The Melodic Signature Index for Fast Content-based Retrieval of Symbolic Scores Camelia Constantin.,2011
+378,Dynamic Programming in Transposition and Time-Warp Invariant Polyphonic Content-Based Music Retrieval.,2011
+379,Rhythm Extraction from Polyphony Symbolic Music.,2011
+380,Complexity Driven Recombination of MIDI Loops.,2011
+381,Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit.,2011
+382,Probabilistic Modeling of Hierarchical Music Analysis.,2011
+383,Neo-Riemannian Cycle Detection with Weighted Finite-State Transducers.,2011
+384,Using Sequence Alignment and Voting to Improve Optical Music Recognition from Multiple Recognizers.,2011
+385,OCR based post processing of OMR for the recovery of transposing instruments in complex orchestral scores.,2011
+386,Classifying Bach's Handwritten C-Clefs.,2011
+387,Automatic Pitch Detection in Printed Square Notation.,2011
+388,Associations between Musicology and Music Information Retrieval.,2011
+389,Potential Relationship Discovery in Tag-Aware Music Style Clustering and Artist Social Networks.,2011
+390,Using Network Sciences to Rank Musicians and Composers in Brazilian Popular Music.,2011
+391,Finding Community Structure in Music Genres Networks.,2011
+392,"Guitar Tab Mining, Analysis and Ranking.",2011
+393,A Musical Web Mining and Audio Feature Extraction Extension to The Greenstone Digital Library Software.,2011
+394,Knowledge Representation Issues in Musical Instrument Ontology Design.,2011
+395,The Studio Ontology Framework.,2011
+396,Music Structural Segmentation by Combining Harmonic and Timbral Information.,2011
+397,A Regularity-Constrained Viterbi Algorithm and Its Application to The Structural Segmentation of Songs.,2011
+399,l1-Graph Based Music Structure Analysis.,2011
+400,Causal Prediction of Continuous-Valued Music Features.,2011
+401,Exemplar-based Assignment of Large Missing Audio Parts using String Matching on Tonal Features.,2011
+402,Aligning Semi-Improvised Music Audio with Its Lead Sheet.,2011
+403,Expressive Timing from Cross-Performance and Audio-based Alignment Patterns: An Extended Case Study.,2011
+404,Incremental Bayesian Audio-to-Score Alignment with Flexible Harmonic Structure Models.,2011
+405,Stochastic Modeling of a Musical Performance with Expressive Representations from the Musical Score.,2011
+406,The Natural Language of Playlists.,2011
+407,"On the Importance of ""Real"" Audio Data for MIR Algorithm Evaluation at the Note-Level - A Comparative Study.",2011
+408,A Comparative Study of Collaborative vs. Traditional Musical Mood Annotation.,2011
+409,Design and creation of a large-scale database of structural annotations.,2011
+410,Music Structure Segmentation Algorithm Evaluation: Expanding on MIREX 2010 Analyses and Datasets.,2011
+411,Music Information Robotics: Coping Strategies for Musically Challenged Robots.,2011
+412,The potential for automatic assessment of trumpet tone quality.,2011
+413,Elementary Sources: Latent Component Analysis for Music Composition.,2011
+414,Cross-Modal Aesthetics from A Feature Extraction Perspective: A Pilot Study.,2011
+416,Audio Music Similarity and Retrieval: Evaluation Power and Stability.,2011
+417,MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval.,2011
+418,Information Retrieval Meta-Evaluation: Challenges and Opportunities in the Music Domain.,2011
+419,A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings.,2011
+420,Analysis of Acoustic Features for Automated Multi-Track Mixing.,2011
+421,Accelerating The Mixing Phase In Studio Recording Productions By Automatic Audio Alignment.,2011
+422,An Expert Ground Truth Set for Audio Chord Recognition and Music Analysis.,2011
+423,Leveraging Noisy Online Databases for Use in Chord Recognition.,2011
+424,A Vocabulary-Free Infinity-Gram Model for Nonparametric Bayesian Chord Progression Analysis.,2011
+425,A Feature Smoothing Method for Chord Recognition Using Recurrence Plots.,2011
+426,Multiscale Scattering for Audio Classification.,2011
+427,Multi-scale temporal fusion by boosting for music classification.,2011
+428,Audio-based Music Classification with a Pretrained Convolutional Network.,2011
+429,Music Genre Classification by Ensembles of Audio and Lyrics Features.,2011
+430,Unsupervised Learning of Sparse Features for Scalable Audio Classification.,2011
+431,Sparse Signal Decomposition on Hybrid Dictionaries Using Musical Priors.,2011
+432,Music Genre Classification using Similarity Functions.,2011
+433,New Trends in Musical Genre Classification Using Optimum-Path Forest.,2011
+434,Combining Content-Based Auto-Taggers with Decision-Fusion.,2011
+435,Music Tagging with Regularized Logistic Regression.,2011
+436,An Empirical Study of Multi-Label Classifiers for Music Tag Annotation.,2011
+437,Semantic Annotation and Retrieval of Music using a Bag of Systems Representation.,2011
+438,Temporal Pooling and Multiscale Learning for Automatic Annotation and Ranking of Music Audio.,2011
+439,Music Mood Classification of Television Theme Tunes.,2011
+440,Musical Moods: A Mass Participation Experiment for Affective Classification of Music.,2011
+441,Modeling Dynamic Patterns for Emotional Content in Music.,2011
+442,Identifying Emotion Segments in Music by Discovering Motifs in Physiological Data.,2011
+443,Multi-Modal Non-Prototypical Music Mood Analysis in Continuous Space: Reliability and Performances.,2011
+444,Music Emotion Classification of Chinese Songs based on Lyrics Using TF*IDF and Rhyme.,2011
+445,Urgency Analysis of Audible Alarms in The Operating Room.,2011
+446,Modeling Musical Emotion Dynamics with Conditional Random Fields.,2011
+447,Mining the Correlation between Lyrical and Audio Features and the Emergence of Mood.,2011
+448,Exploring The Relationship Between Mood and Creativity in Rock Lyrics.,2011
+449,Three Current Issues In Music Autotagging.,2011
+450,Survey and Evaluation of Audio Fingerprinting Schemes for Mobile Query-by-Example Applications.,2011
+451,An Investigation of Musical Timbre: Uncovering Salient Semantic Descriptors and Perceptual Dimensions.,2011
+453,Score-Informed Identification of Missing and Extra Notes in Piano Recordings.,2016
+455,Learning to Pinpoint Singing Voice from Weakly Labeled Examples.,2016
+457,Adaptive Frequency Neural Networks for Dynamic Pulse and Metre Perception.,2016
+458,An Evaluation Framework and Case Study for Rhythmic Concatenative Synthesis.,2016
+459,An Ontology for Audio Features.,2016
+460,Analysis and Classification of Phonation Modes In Singing.,2016
+461,Analysis of Vocal Imitations of Pitch Trajectories.,2016
+462,"Automatic Music Recommendation Systems: Do Demographic, Profiling, and Contextual Features Improve Their Performance?.",2016
+463,Automatic Outlier Detection in Music Genre Datasets.,2016
+465,Composer Recognition Based on 2D-Filtered Piano-Rolls.,2016
+466,Conversations with Expert Users in Music Retrieval and Research Challenges for Creative MIR.,2016
+469,Ensemble: A Hybrid Human-Machine System for Generating Melody Scores from Audio.,2016
+470,Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies.,2016
+472,Improving Voice Separation by Better Connecting Contigs.,2016
+473,Integer Programming Formulation of the Problem of Generating Milton Babbitt's All-Partition Arrays.,2016
+474,Integration and Quality Assessment of Heterogeneous Chord Sequences Using Data Fusion.,2016
+475,Landmark-Based Audio Fingerprinting for DJ Mix Monitoring.,2016
+477,Listen To Me - Don't Listen To Me: What Communities of Critics Tell Us About Music.,2016
+478,Long-Term Reverberation Modeling for Under-Determined Audio Source Separation with Application to Vocal Melody Extraction.,2016
+479,Nonnegative Tensor Factorization with Frequency Modulation Cues for Blind Audio Source Separation.,2016
+480,On Drum Playing Technique Detection in Polyphonic Mixtures.,2016
+481,Predicting Missing Music Components with Bidirectional Long Short-Term Memory Neural Networks.,2016
+482,Structural Segmentation and Visualization of Sitar and Sarod Concert Audio.,2016
+483,Template-Based Vibrato Analysis in Complex Music Signals.,2016
+484,Towards Evaluating Multiple Predominant Melody Annotations in Jazz Recordings.,2016
+485,Joint Beat and Downbeat Tracking with Recurrent Neural Networks.,2016
+486,Bayesian Meter Tracking on Learned Signal Representations.,2016
+489,A Plan for Sustainable MIR Evaluation.,2016
+490,Go with the Flow: When Listeners Use Music as Technology.,2016
+491,A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage.,2016
+492,"A Hierarchical Bayesian Model of Chords, Pitches, and Spectrograms for Multipitch Analysis.",2016
+493,A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging.,2016
+494,"A Latent Representation of Users, Sessions, and Songs for Listening Behavior Analysis.",2016
+495,A Methodology for Quality Assessment in Collaborative Score Libraries.,2016
+498,Beat Tracking with a Cepstroid Invariant Neural Network.,2016
+499,Bootstrapping a System for Phoneme Recognition and Keyword Spotting in Unaccompanied Singing.,2016
+500,Can Microblogs Predict Music Charts? An Analysis of the Relationship Between #Nowplaying Tweets and Music Charts.,2016
+501,Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses.,2016
+502,Cross-Collection Evaluation for Music Classification Tasks.,2016
+503,Downbeat Detection with Conditional Random Fields and Deep Learned Features.,2016
+504,"Exploiting Frequency, Periodicity and Harmonicity Using Advanced Time-Frequency Concentration Techniques for Multipitch Estimation of Choir and Symphony.",2016
+505,Genre Ontology Learning: Comparing Curated with Crowd-Sourced Ontologies.,2016
+506,Genre Specific Dictionaries for Harmonic/Percussive Source Separation.,2016
+507,Good-sounds.org: A Framework to Explore Goodness in Instrumental Sounds.,2016
+508,Improving Predictions of Derived Viewpoints in Multiple Viewpoints Systems.,2016
+509,Known Artist Live Song ID: A Hashprint Approach.,2016
+510,Learning Temporal Features Using a Deep Neural Network and its Application to Music Genre Classification.,2016
+511,Meter Detection in Symbolic Music Using Inner Metric Analysis.,2016
+512,Minimax Viterbi Algorithm for HMM-Based Guitar Fingering Decision.,2016
+513,Mixtape: Direction-Based Navigation in Large Media Collections.,2016
+514,Musical Note Estimation for F0 Trajectories of Singing Voices Based on a Bayesian Semi-Beat-Synchronous HMM.,2016
+515,On the Evaluation of Rhythmic and Melodic Descriptors for Music Similarity.,2016
+516,On the Potential of Simple Framewise Approaches to Piano Transcription.,2016
+517,Phrase-Level Audio Segmentation of Jazz Improvisations Informed by Symbolic Data.,2016
+518,Revisiting Priorities: Improving MIR Evaluation Practices.,2016
+519,Simultaneous Separation and Segmentation in Layered Music.,2016
+520,Towards Modeling and Decomposing Loop-Based Electronic Music.,2016
+522,Analyzing Measure Annotations for Western Classical Music Recordings.,2016
+523,Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music.,2016
+524,The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes.,2016
+525,Learning a Feature Space for Similarity in World Music.,2016
+527,Using Priors to Improve Estimates of Music Structure.,2016
+528,Music Structural Segmentation Across Genres with Gammatone Features.,2016
+530,An Analysis of Agreement in Classical Music Perception and its Relationship to Listener Characteristics.,2016
+531,An Attack/Decay Model for Piano Transcription.,2016
+532,Automatic Drum Transcription Using Bi-Directional Recurrent Neural Networks.,2016
+533,"Automatic Practice Logging: Introduction, Dataset & Preliminary Study.",2016
+534,Data-Driven Exploration of Melodic Structure in Hindustani Music.,2016
+536,DTV-Based Melody Cutting for DTW-Based Melody Search and Indexing in QbH Systems.,2016
+537,Elucidating User Behavior in Music Services Through Persona and Gender.,2016
+538,Exploring the Latent Structure of Collaborations in Music Recordings: A Case Study in Jazz.,2016
+540,Human-Interactive Optical Music Recognition.,2016
+541,I Said it First: Topological Analysis of Lyrical Influence Networks.,2016
+542,Impact of Music on Decision Making in Quantitative Tasks.,2016
+543,Interactive Scores in Classical Music Production.,2016
+544,Jazz Ensemble Expressive Performance Modeling.,2016
+545,Mining Musical Traits of Social Functions in Native American Music.,2016
+546,Mining Online Music Listening Trajectories.,2016
+547,Musical Typicality: How Many Similar Songs Exist?.,2016
+548,MusicDB: A Platform for Longitudinal Music Analytics.,2016
+549,Noise Robust Music Artist Recognition Using I-Vector Features.,2016
+551,Querying XML Score Databases: XQuery is not Enough!.,2016
+552,Recurrent Neural Networks for Drum Transcription.,2016
+553,Singing Voice Melody Transcription Using Deep Neural Networks.,2016
+554,Sparse Coding Based Music Genre Classification Using Spectro-Temporal Modulations.,2016
+555,Time-Delayed Melody Surfaces for Rāga Recognition.,2016
+556,Transcribing Human Piano Performances into Music Notation.,2016
+557,WiMIR: An Informetric Study On Women Authors In ISMIR.,2016
+559,A Neural Greedy Model for Voice Separation in Symbolic Music.,2016
+560,Towards Score Following In Sheet Music Images.,2016
+562,Automatic Tagging Using Deep Convolutional Neural Networks.,2016
+564,Melody Extraction on Vocal Segments Using Multi-Column Deep Neural Networks.,2016
+566,The Significance of the Low Complexity Dimension in Music Similarity Judgements.,2017
+567,Towards Computational Modeling of the Ungrammatical in a Raga Performance.,2017
+572,Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings.,2017
+574,The Music Listening Histories Dataset.,2017
+575,"Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",2017
+576,Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment.,2017
+577,Video-Based Vibrato Detection and Analysis for Polyphonic String Music.,2017
+580,Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks.,2017
+582,Sampling Variations of Sequences for Structured Music Generation.,2017
+583,Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.,2017
+584,Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs.,2017
+586,Modeling and Digitizing Reproducing Piano Rolls.,2017
+587,Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.,2017
+589,"A Framework for Distributed Semantic Annotation of Musical Score: ""Take It to the Bridge!"".",2017
+591,A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning.,2017
+592,A Statistical Analysis of Gamakas in Carnatic Music.,2017
+593,Accurate Audio-to-Score Alignment for Expressive Violin Recordings.,2017
+594,Acoustic Features for Determining Goodness of Tabla Strokes.,2017
+595,Automatic Sample Detection in Polyphonic Music.,2017
+596,Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields.,2017
+597,Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models.,2017
+598,Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application.,2017
+599,Early MFCC and HPCP Fusion for Robust Cover Song Identification.,2017
+600,Exploring the Music Library Association Mailing List: A Text Mining Approach.,2017
+601,Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification.,2017
+604,Modeling Harmony with Skip-Grams.,2017
+605,NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music.,2017
+606,Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment.,2017
+607,Piece Identification in Classical Piano Music Without Reference Scores.,2017
+609,Ranking-Based Emotion Recognition for Experimental Music.,2017
+610,Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model.,2017
+612,Towards Automatic Mispronunciation Detection in Singing.,2017
+616,A Study on LSTM Networks for Polyphonic Music Sequence Modelling.,2017
+619,Automatic Playlist Sequencing and Transitions.,2017
+621,Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test.,2017
+622,Discourse Analysis of Lyric and Lyric-Based Classification of Music.,2017
+623,End-to-End Optical Music Recognition Using Neural Networks.,2017
+624,Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval.,2017
+625,Freesound Datasets: A Platform for the Creation of Open Audio Datasets.,2017
+626,From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models.,2017
+627,Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences.,2017
+628,High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM.,2017
+629,Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation.,2017
+632,Local Interpretable Model-Agnostic Explanations for Music Content Analysis.,2017
+633,Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process.,2017
+634,Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers.,2017
+635,Onset Detection in Composition Items of Carnatic Music.,2017
+636,Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music.,2017
+637,The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology.,2017
+638,"""I'm at #Osheaga!"": Listening to the Backchannel of a Music Festival on Twitter.",2017
+643,Chord Generation from Symbolic Melody Using BLSTM Networks.,2017
+644,Cover Song Identification with Metric Learning Using Distance as a Feature.,2017
+645,Examining Musical Meaning in Similarity Thresholds.,2017
+646,Exploring Tonal-Dramatic Relationships in Richard Wagner's Ring Cycle.,2017
+647,Feature Discovery for Sequential Prediction of Monophonic Music.,2017
+648,Generating Nontrivial Melodies for Music as a Service.,2017
+649,Geographical Origin Prediction of Folk Music Recordings from the United Kingdom.,2017
+651,Informed Automatic Meter Analysis of Music Recordings.,2017
+652,Intelligibility of Sung Lyrics: A Pilot Study.,2017
+655,Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music.,2017
+656,Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences.,2017
+657,"One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks.",2017
+660,Singing Voice Separation with Deep U-Net Convolutional Networks.,2017
+661,Sketching Sonata Form Structure in Selected Classical String Quartets.,2017
+662,Image Quality Estimation for Multi-Score OMR.,2015
+663,Comparative Music Similarity Modelling Using Transfer Learning Across User Groups.,2015
+664,Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features.,2015
+665,Cover Song Identification with Timbral Shape Sequences.,2015
+666,On the Impact of Key Detection Performance for Identifying Classical Music Styles.,2015
+667,Chord Detection Using Deep Learning.,2015
+668,Temporal Music Context Identification with User Listening Data.,2015
+669,Improving Music Recommendations with a Weighted Factorization of the Tagging Activity.,2015
+670,An Efficient State-Space Model for Joint Tempo and Meter Tracking.,2015
+671,Automatic Handwritten Mensural Notation Interpreter: From Manuscript to MIDI Performance.,2015
+672,Infinite Superimposed Discrete All-Pole Modeling for Multipitch Analysis of Wavelet Spectrograms.,2015
+674,A Semantic-Based Approach for Artist Similarity.,2015
+675,Predicting Pairwise Pitch Contour Relations Based on Linguistic Tone Information in Beijing Opera Singing.,2015
+676,Song2Quartet: A System for Generating String Quartet Cover Songs from Polyphonic Audio of Popular Music.,2015
+677,Exploring Data Augmentation for Improved Singing Voice Detection with Neural Networks.,2015
+678,Audio Chord Recognition with a Hybrid Recurrent Neural Network.,2015
+679,Design and Evaluation of a Probabilistic Music Projection Interface.,2015
+680,Conceptual Blending in Music Cadences: A Formal Model and Subjective Evaluation.,2015
+681,Harmonic-Percussive Source Separation Using Harmonicity and Sparsity Constraints.,2015
+682,A Hierarchical Bayesian Framework for Score-Informed Source Separation of Piano Music Signals.,2015
+683,Automatic Tune Family Identification by Musical Sequence Alignment.,2015
+684,Evaluation of Album Effect for Feature Selection in Music Genre Recognition.,2015
+686,Automatic Solfège Assessment.,2015
+687,Evaluating Conflict Management Mechanisms for Online Social Jukeboxes.,2015
+688,Particle Filters for Efficient Meter Tracking with Dynamic Bayesian Networks.,2015
+689,Analysis of the Evolution of Research Groups and Topics in the ISMIR Conference.,2015
+690,A Toolkit for Live Annotation of Opera Performance: Experiences Capturing Wagner's Ring Cycle.,2015
+693,Large-Scale Content-Based Matching of MIDI and Audio Files.,2015
+694,Improving Genre Annotations for the Million Song Dataset.,2015
+698,Automated Estimation of Ride Cymbal Swing Ratios in Jazz Recordings.,2015
+699,Musical Offset Detection of Pitched Instruments: The Case of Violin.,2015
+700,Specter: Combining Music Information Retrieval with Sound Spatialization.,2015
+702,Comparative Analysis of Orchestral Performance Recordings: An Image-Based Approach.,2015
+703,Monaural Blind Source Separation in the Context of Vocal Detection.,2015
+704,Detection of Common Mistakes in Novice Violin Playing.,2015
+705,Probabilistic Modular Bass Voice Leading in Melodic Harmonisation.,2015
+706,An Iterative Multi Range Non-Negative Matrix Factorization Algorithm for Polyphonic Music Transcription.,2015
+707,"Training Phoneme Models for Singing with ""Songified"" Speech Data.",2015
+708,Graph-Based Rhythm Interpretation.,2015
+709,Let it Bee - Towards NMF-Inspired Audio Mosaicing.,2015
+710,Real-Time Music Tracking Using Multiple Performances as a Reference.,2015
+711,Two Data Sets for Tempo Estimation and Key Detection in Electronic Dance Music Annotated from User Corrections.,2015
+712,Towards Support for Understanding Classical Music: Alignment of Content Descriptions on the Web.,2015
+713,FlaBase: Towards the Creation of a Flamenco Music Knowledge Base.,2015
+714,Discovery of Syllabic Percussion Patterns in Tabla Solo Recordings.,2015
+715,Autoregressive Hidden Semi-Markov Model of Symbolic Music Performance for Score Following.,2015
+716,Automatic Mashup Creation by Considering both Vertical and Horizontal Mashabilities.,2015
+717,Hierarchical Evaluation of Segment Boundary Detection.,2015
+718,Improving MIDI Guitar's Accuracy with NMF and Neural Net.,2015
+719,Analysis of Intonation Trajectories in Solo Singing.,2015
+720,Evaluating the General Chord Type Representation in Tonal Music and Organising GCT Chord Labels in Functional Chord Categories.,2015
+721,Beat Histogram Features from NMF-Based Novelty Functions for Music Classification.,2015
+722,Music Shapelets for Fast Cover Song Recognition.,2015
+723,Improving Score-Informed Source Separation for Classical Music through Note Refinement.,2015
+724,In Their Own Words: Using Text Analysis to Identify Musicologists' Attitudes towards Technology.,2015
+726,Score Following for Piano Performances with Sustain-Pedal Effects.,2015
+727,Understanding Users of Commercial Music Services through Personas: Design Implications.,2015
+728,Corpus-Based Rhythmic Pattern Analysis of Ragtime Syncopation.,2015
+729,Comparing Voice and Stream Segmentation Algorithms.,2015
+733,Relating Natural Language Text to Musical Passages.,2015
+734,Music Boundary Detection Using Neural Networks on Combined Features and Two-Level Annotations.,2015
+735,Neuroimaging Methods for Music Information Retrieval: Current Findings and Future Prospects.,2015
+736,Improving Visualization of High-Dimensional Music Similarity Spaces.,2015
+737,I-Vectors for Timbre-Based Music Similarity and Music Artist Classification.,2015
+738,Correlating Extracted and Ground-Truth Harmonic Data in Music Retrieval Tasks.,2015
+739,Classical Music on the Web - User Interfaces and Data Representations.,2015
+740,A Statistical View on the Expressive Timing of Piano Rolled Chords.,2015
+741,Hybrid Long- and Short-Term Models of Folk Melodies.,2015
+742,Efficient Melodic Query Based Audio Search for Hindustani Vocal Compositions.,2015
+743,Modified Perceptual Linear Prediction Liftered Cepstrum (MPLPLC) Model for Pop Cover Song Recognition.,2015
+744,Raga Verification in Carnatic Music Using Longest Common Segment Set.,2015
+745,Instrument Identification in Optical Music Recognition.,2015
+746,Cross-Version Singing Voice Detection in Classical Opera Recordings.,2015
+747,Accurate Tempo Estimation Based on Recurrent Neural Networks and Resonating Comb Filters.,2015
+748,Musicology of Early Music with Europeana Tools and Services.,2015
+749,Singing Voice Separation from Monaural Music Based on Kernel Back-Fitting Using Beta-Order Spectral Amplitude Estimation.,2015
+750,Schematizing the Treatment of Dissonance in 16th-Century Counterpoint.,2015
+751,Predictive Power of Personality on Music-Genre Exclusivity.,2015
+753,PAD and SAD: Two Awareness-Weighted Rhythmic Similarity Distances.,2015
+755,Improving Melodic Similarity in Indian Art Music Using Culture-Specific Melodic Characteristics.,2015
+757,Quantifying Lexical Novelty in Song Lyrics.,2015
+758,An Efficient Temporally-Constrained Probabilistic Model for Multiple-Instrument Music Transcription.,2015
+759,Electric Guitar Playing Technique Detection in Real-World Recording Based on F0 Sequence Pattern Recognition.,2015
+760,Extending a Model of Monophonic Hierarchical Music Analysis to Homophony.,2015
+761,The MIR Perspective on the Evolution of Dynamics in Mainstream Music.,2015
+762,Theme And Variation Encodings with Roman Numerals (TAVERN): A New Data Set for Symbolic Music Analysis.,2015
+763,Benford's Law for Music Analysis.,2015
+764,An Audio to Score Alignment Framework Using Spectral Factorization and Dynamic Time Warping.,2015
+765,New Sonorities for Early Jazz Recordings Using Sound Source Separation and Automatic Mixing Tools.,2015
+766,Automatic Transcription of Ornamented Irish Traditional Flute Music Using Hidden Markov Models.,2015
+768,Emotion Based Segmentation of Musical Audio.,2015
+769,MIREX Grand Challenge 2014 User Experience: Qualitative Analysis of User Feedback.,2015
+771,How Music Alters Decision Making - Impact of Music Stimuli on Emotional Classification.,2015
+772,Put the Concert Attendee in the Spotlight. A User-Centered Design and Development Approach for Classical Concert Applications.,2015
+773,Analysis of Expressive Musical Terms in Violin Using Score-Informed and Expression-Based Audio Features.,2015
+774,Spectral Learning for Expressive Interactive Ensemble Music Performance.,2015
+775,Score-Informed Analysis of Intonation and Pitch Modulation in Jazz Solos.,2015
+776,Data Usage in MIR: History & Future Recommendations,2019
+777,Music Performance Analysis: A Survey,2019
+778,Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come,2019
+779,20 Years of Automatic Chord Recognition from Audio,2019
+784,mirdata: Software for Reproducible Usage of Datasets,2019
+785,Cover Detection Using Dominant Melody Embeddings,2019
+786,Identifying Expressive Semantics in Orchestral Conducting Kinematics,2019
+789,Identification and Cross-Document Alignment of Measures in Music Score Images,2019
+790,"Query-by-Blending: A Music Exploration System Blending Latent Vector Representations of Lyric Word, Song Audio, and Artist",2019
+791,Improving Structure Evaluation Through Automatic Hierarchy Expansion,2019
+793,An Initial Computational Model for Musical Schemata Theory,2019
+797,Towards Automatically Correcting Tapped Beat Annotations for Music Recordings,2019
+798,Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation,2019
+802,Towards Explainable Music Emotion Recognition: The Route via Mid-level Features,2019
+804,Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning,2019
+806,"Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model",2019
+807,Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste,2019
+810,Augmenting Music Listening Experiences on Voice Assistants,2019
+811,Coupled Recurrent Models for Polyphonic Music Composition,2019
+812,Hit Song Prediction: Leveraging Low- and High-Level Audio Features,2019
+814,Harmonic Syntax in Time: Rhythm Improves Grammatical Models of Harmony,2019
+816,Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music,2019
+818,Data-Driven Song Recognition Estimation Using Collective Memory Dynamics Models,2019
+820,Learning to Generate Music With Sentiment,2019
+822,Modeling and Learning Structural Breaks in Sonata Forms,2019
+823,Auto-adaptive Resonance Equalization using Dilated Residual Networks,2019
+824,Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach,2019
+828,Self-Supervised Methods for Learning Semantic Similarity in Music,2019
+830,Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar,2019
+831,A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction,2019
+834,Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?,2019
+835,"AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing",2019
+836,Microtiming Analysis in Traditional Shetland Fiddle Music,2019
+837,SUPRA: Digitizing the Stanford University Piano Roll Archive,2019
+838,Fast and Flexible Neural Audio Synthesis,2019
+839,DeepSRGM - Sequence Classification and Ranking in Indian Classical Music Via Deep Learning,2019
+840,Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN,2019
+841,Convolutional Composer Classification,2019
+842,A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation,2019
+844,FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing,2019
+848,Query by Video: Cross-modal Music Retrieval,2019
+849,Investigating CNN-based Instrument Family Recognition for Western Classical Music Recordings,2019
+851,SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis,2019
+852,Deep-Rhythm for Global Tempo Estimation in Music,2019
+853,Large-vocabulary Chord Transcription Via Chord Structure Decomposition,2019
+854,"BandNet: A Neural Network-based, Multi-Instrument Beatles-Style MIDI Music Composition Machine",2019
+855,Can We Listen To It Together?: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior ,2019
+856,Adversarial Learning for Improved Onsets and Frames Music Transcription,2019
+857,Automatic Music Transcription and Ethnomusicology: a User Study,2019
+861,Folded CQT RCNN For Real-time Recognition of Instrument Playing Techniques,2019
+863,Tunes Together: Perception and Experience of Collaborative Playlists,2019
+866,Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders,2019
+869,A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music,2019
+870,Mapping Timing Strategies in Drum Performance,2019
+871,Improving Singing Aid System for Laryngectomees With Statistical Voice Conversion and VAE-SPACE,2019
+873,Scalable Searching and Ranking  for Melodic Pattern Queries,2019
+874,Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals,2019
+875,Controlling Symbolic Music Generation based on Concept Learning from Domain Knowledge,2019
+876,Unmixer: An Interface for Extracting and Remixing Loops,2019
+880,Rendering Music Performance With Interpretation Variations Using Conditional Variational RNN,2019
+881,An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats,2019
+883,Audio Query-based Music Source Separation,2019
+885,Automatic Choreography Generation with Convolutional Encoder-decoder Network,2019
+890,A Confidence Measure For Key Labelling,2018
+891,Improved Chord Recognition by Combining Duration and Harmonic Language Models,2018
+893,A Predictive Model for Music based on Learned Interval Representations,2018
+894,An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts,2018
+898,A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius,2018
+899,Evaluating a Collection of Sound-Tracing Data of Melodic Phrases,2018
+900,Main Melody Estimation with Source-Filter NMF and CRNN,2018
+903,Analysis of Common Design Choices in Deep Learning Systems for Downbeat Tracking,2018
+905,A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings,2018
+906,Timbre Discrimination for Brief Instrument Sounds,2018
+908,Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model,2018
+909,A Generalized Parsing Framework for Generative Models of Harmonic Syntax,2018
+910,An Energy-based Generative Sequence Model for Testing Sensory Theories of Western Harmony,2018
+911,"Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning",2018
+913,Conditioning Deep Generative Raw Audio Models for Structured Automatic Music,2018
+916,Part-invariant Model for Music Generation and Harmonization,2018
+917,Evaluating Language Models of Tonal Harmony,2018
+918,Skeleton Plays Piano: Online Generation of Pianist Body Movements from MIDI Performance,2018
+920,Searching Page-Images of Early Music Scanned with OMR: A Scalable Solution Using Minimal Absent Words,2018
+923,Document Analysis of Music Score Images with Selectional Auto-Encoders,2018
+924,Genre-Agnostic Key Classification With Convolutional Neural Networks,2018
+925,Deep Watershed Detector for Music Object Recognition,2018
+927,Music Source Separation Using Stacked Hourglass Networks,2018
+929,Improving Bass Saliency Estimation using Transfer Learning and Label Propagation,2018
+935,JSYMBOLIC 2.2: Extracting Features from Symbolic Music for use in Musicological and MIR Research,2018
+936,Relevance of Musical Features for Cadence Detection,2018
+937,On the Relationships between Music-induced Emotion and Physiological Signals,2018
+938,Music Mood Detection Based on Audio and Lyrics with Deep Neural Net,2018
+939,Identifying Emotions in Opera Singing: Implications of Adverse Acoustic Conditions,2018
+940,Musical Texture and Expressivity Features for Music Emotion Recognition,2018
+941,Shared Generative Representation of Auditory Concepts and EEG to Reconstruct Perceived and Imagined Music,2018
+942,Exploring Musical Relations Using Association Rule Networks,2018
+943,A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music,2018
+944,Computational Corpus Analysis: A Case Study on Jazz Solos,2018
+954,Methodologies for Creating Symbolic Corpora of Western Music Before 1600,2018
+955,Precision of Sung Notes in Carnatic Music,2018
+957,Vocals in Music Matter: the Relevance of Vocals in the Minds of Listeners,2018
+959,Empirically Weighting the Importance of Decision Factors for Singing Preference,2018
+961,Generalized Skipgrams for Pattern Discovery in Polyphonic Streams,2018
+962,Comparison of Audio Features for Recognition of Western and Ethnic Instruments in Polyphonic Mixtures,2018
+963,Instrudive: A Music Visualization System Based on Automatically Recognized Instrumentation,2018
+964,Instrument Activity Detection in Polyphonic Music using Deep Neural Networks,2018
+965,"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning",2018
+966,Aligned Sub-Hierarchies: A Structure-based Approach to the Cover Song Task,2018
+968,Semi-supervised Lyrics and Solo-singing Alignment,2018
+969,Concert Stitch: Organization and Synchronization of Crowd Sourced Recordings,2018
+970,A Data-driven Approach to Mid-level Perceptual Musical Feature Modeling,2018
+972,Driftin' Down the Scale: Dynamic Time Warping in the Presence of Pitch Drift and Transpositions,2018
+977,Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions,2018
+978,Investigating Cross-Country Relationship between Users' Social Ties and Music Mainstreaminess,2018
+979,Listener Anonymizer: Camouflaging Play Logs to Preserve User's Demographic Anonymity,2018
+980,On the Impact of Music on Decision Making in Cooperative Tasks,2018
+981,VenueRank: Identifying Venues that Contribute to Artist Popularity,2018
+982,The Many Faces of Users: Modeling Musical Preference,2018
+984,StructureNet: Inducing Structure in Generated Melodies,2018
+985,Summarizing and Comparing Music Data and Its Application on Cover Song Identification,2018
+989,Comparing RNN Parameters for Melodic Similarity,2018
+990,Visualization of Audio Data Using Stacked Graphs,2018
+991,Two Web Applications for Exploring Melodic Patterns in Jazz Solos,2018
+993,Matrix Co-Factorization for Cold-Start Recommendation,2018
+994,Influence in Early Electronic Dance Music: An Audio Content Analysis Investigation.,2012
+995,Association Mining of Folk Music Genres and Toponyms.,2012
+996,Characterization of Embellishments in Ney Performances of Makam Music in Turkey.,2012
+997,Cross-cultural Music Mood Classification: A Comparison on English and Chinese Songs.,2012
+998,Towards a (Better) Definition of the Description of Annotated MIR Corpora.,2012
+999,Modeling Musical Mood From Audio Features and Listening Context on an In-Situ Data Set.,2012
+1001,N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data.,2012
+1002,Evaluating the Online Capabilities of Onset Detection Methods.,2012
+1003,Structure-Based Audio Fingerprinting for Music Retrieval.,2012
+1004,Bridging Printed Music and Audio Through Alignment Using a Mid-level Score Representation.,2012
+1005,Real-time Online Singing Voice Separation from Monaural Recordings Using Robust Low-rank Modeling.,2012
+1006,Folksonomy-based Tag Recommendation for Online Audio Clip Sharing.,2012
+1007,Infinite Composite Autoregressive Models for Music Signal Analysis.,2012
+1008,Professionally-produced Music Separation Guided by Covers.,2012
+1009,Bayesian Nonnegative Harmonic-Temporal Factorization and Its Application to Multipitch Analysis.,2012
+1010,A Scape Plot Representation for Visualizing Repetitive Structures of Music Recordings.,2012
+1011,A Systematic Comparison of Music Similarity Adaptation Approaches.,2012
+1012,Using Hyper-genre Training to Explore Genre Information for Automatic Chord Estimation.,2012
+1013,Semi-supervised NMF with Time-frequency Annotations for Single-channel Source Separation.,2012
+1014,Neon.js: Neume Editor Online.,2012
+1015,Modeling Chord and Key Structure with Markov Logic.,2012
+1017,Unsupervised Learning of Local Features for Music Classification.,2012
+1018,Modeling Piano Interpretation Using Switching Kalman Filter.,2012
+1019,Interpreting Rhythm in Optical Music Recognition.,2012
+1021,A Corpus-based Study of Rhythm Patterns.,2012
+1022,"One in the Jungle: Downbeat Detection in Hardcore, Jungle, and Drum and Bass.",2012
+1023,A MIREX Meta-analysis of Hubness in Audio Music Similarity.,2012
+1024,How Significant is Statistically Significant? The case of Audio Music Similarity and Retrieval.,2012
+1025,Statistical Characterisation of Melodic Pitch Contours and its Application for Melody Extraction.,2012
+1026,Detecting Melodic Motifs from Audio for Hindustani Classical Music.,2012
+1027,Characterization of Intonation in Carnatic Music by Parametrizing Pitch Histograms.,2012
+1028,Discriminative Non-negative Matrix Factorization for Multiple Pitch Estimation.,2012
+1029,A Feature Relevance Study for Guitar Tone Classification.,2012
+1030,String Methods for Folk Tune Genre Classification.,2012
+1031,A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr.,2012
+1032,Polyphonic Music Classification on Symbolic Data Using Dissimilarity Functions.,2012
+1033,"Semiotic Structure Labeling of Music Pieces: Concepts, Methods and Annotation Conventions.",2012
+1034,Large-Scale Cover Song Recognition Using the 2D Fourier Transform Magnitude.,2012
+1035,Creating Ground Truth for Audio Key Finding: When the Title Key May Not Be the Key.,2012
+1036,Understanding User Requirements for Music Information Services.,2012
+1037,The Impact of MIREX on Scholarly Research (2005 - 2010).,2012
+1038,An Emotion Model for Music Using Brain Waves.,2012
+1039,Music Structure Analysis by Ridge Regression of Beat-synchronous Audio Features.,2012
+1040,Score-Informed Leading Voice Separation from Monaural Audio.,2012
+1041,On Measuring Syncopation to Drive an Interactive Music System.,2012
+1042,Current Challenges in the Evaluation of Predominant Melody Extraction Algorithms.,2012
+1043,Improving Audio Chord Transcription by Exploiting Harmonic and Metric Knowledge.,2012
+1044,Reducing Tempo Octave Errors by Periodicity Vector Coding And SVM Learning.,2012
+1045,Context-free 2D Tree Structure Model of Musical Notes for Bayesian Modeling of Polyphonic Spectrograms.,2012
+1046,Compressing Music Recordings into Audio Summaries.,2012
+1047,Second Fiddle is Important Too: Pitch Tracking Individual Voices in Polyphonic Music.,2012
+1048,Feature Learning in Dynamic Environments: Modeling the Acoustic Structure of Musical Emotion.,2012
+1049,User-centered Measures vs. System Effectiveness in Finding Similar Songs.,2012
+1050,Towards Time-resilient MIR Processes.,2012
+1051,Hypergraph Models of Playlist Dialects.,2012
+1054,Ranking Lyrics for Online Search.,2012
+1055,The Role Of Music in the Lives of Homeless Young People: A Preliminary Report.,2012
+1056,A Survey on Music Listening and Management Behaviours.,2012
+1057,Automatic Music Transcription: Breaking the Glass Ceiling.,2012
+1058,Putting the User in the Center of Music Information Retrieval.,2012
+1059,The Impact (or Non-impact) of User Studies in Music Information Retrieval.,2012
+1060,Mel Cepstrum &amp; Ann Ova: The Difficult Dialog Between MIR and Music Cognition.,2012
+1061,Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics.,2012
+1062,"Reuse, Remix, Repeat: the Workflows of MIR.",2012
+1064,Tracking Melodic Patterns in Flamenco Singing by Analyzing Polyphonic Music Recordings.,2012
+1065,A Cross-version Approach for Stabilizing Tempo-based Novelty Detection.,2012
+1066,Fast Identification of Piece and Score Position via Symbolic Fingerprinting.,2012
+1067,"A Multimedia Search and Navigation Prototype, Including Music and Video-clips.",2012
+1068,Chord Recognition Using Duration-explicit Hidden Markov Models.,2012
+1069,Finding Repeating Stanzas in Folk Songs.,2012
+1070,Detecting Episodes with Harmonic Sequences for Fugue Analysis.,2012
+1072,Facilitating Comprehensive Benchmarking Experiments on the Million Song Dataset.,2012
+1073,Decoding Tempo and Timing Variations in Music Recordings from Beat Annotations.,2012
+1074,Unsupervised Chord-Sequence Generation from an Audio Example.,2012
+1075,Listening Level Changes Music Similarity.,2012
+1076,Pitch Content Visualization Tools for Music Performance Analysis.,2012
+1077,A Multipitch Approach to Tonic Identification in Indian Classical Music.,2012
+1078,Separating Presentation and Content in MEI.,2012
+1079,A Study of Intonation in Three-Part Singing using the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT).,2012
+1080,Influence of Peak Selection Methods on Onset Detection.,2012
+1081,Evaluation of Musical Features for Emotion Classification.,2012
+1082,BLAST for Audio Sequences Alignment: A Fast Scalable Cover Identification Tool.,2012
+1083,A Cross-cultural Study of Music Mood Perception between American and Chinese Listeners.,2012
+1084,Shortest Path Techniques for Annotation and Retrieval of Environmental Sounds.,2012
+1085,Multivariate Autoregressive Mixture Models for Music Auto-Tagging.,2012
+1086,Building Musically-relevant Audio Features through Multiple Timescale Representations.,2012
+1087,A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals.,2012
+1088,Learning Sparse Feature Representations for Music Annotation and Retrieval.,2012
+1089,Score Analyzer: Automatically Determining Scores Difficulty Level for Instrumental e-Learning.,2012
+1090,Digital Document Image Retrieval Using Optical Music Recognition.,2012
+1091,Music/Voice Separation Using the Similarity Matrix.,2012
+1092,Breathy or Resonant - A Controlled and Curated Dataset for Phonation Mode Detection in Singing.,2012
+1094,Predominant Fundamental Frequency Estimation vs Singing Voice Separation for the Automatic Transcription of Accompanied Flamenco Singing.,2012
