@@ -1,0 +1,937 @@
+titles,arxiv_links
+Four-way Classification of Tabla Strokes with Models Adapted from Automatic Drum Transcription,http://arxiv.org/abs/2104.09064v1
+A Contextual Latent Space Model: Subsequence Modulation in Melodic Sequence,http://arxiv.org/abs/1206.6441v1
+OMR-assisted transcription: a case study with early prints,http://arxiv.org/abs/1809.05501v1
+Deeper Convolutional Neural Networks and Broad Augmentation Policies Improve Performance in Musical Key Estimation,http://arxiv.org/abs/2007.09296v1
+The Music Performance Markup Format and Ecosystem,http://arxiv.org/abs/0712.4219v1
+Identification of rhythm guitar sections in symbolic tablatures,http://arxiv.org/abs/2107.14653v1
+On-Line Audio-to-Lyrics Alignment Based on a Reference Performance,http://arxiv.org/abs/1512.02393v2
+Visualizing Intertextual Form with Arc Diagrams: Contour and Schema-based Methods,http://arxiv.org/abs/0803.4074v2
+Unsupervised Domain Adaptation for Document Analysis of Music Score Images,http://arxiv.org/abs/1804.00347v1
+Codified audio language modeling learns useful representations for music information retrieval,http://arxiv.org/abs/2107.05677v1
+Variable-Length Music Score Infilling via XLNet and Musically Specialized Positional Encoding,http://arxiv.org/abs/2108.05064v1
+SurpriseNet: Melody Harmonization Conditioning on User-controlled Surprise Contours,http://arxiv.org/abs/2108.00378v2
+Semi-supervised violin fingering generation using variational autoencoders,http://arxiv.org/abs/1111.6410v2
+"Listen, Read, and Identify: Multimodal Singing Language Identification of Music",http://arxiv.org/abs/2103.01893v4
+On Perceived Emotion in Expressive Piano Performance: Further Experimental Evidence for the Relevance of Mid-level Perceptual Features,http://arxiv.org/abs/2107.13231v1
+Cosine Contours: a Multipurpose Representation for Melodies,http://arxiv.org/abs/2106.00934v1
+Controllable deep melody generation via hierarchical music structure representation,http://arxiv.org/abs/2109.00663v1
+MSTRE-Net: Multistreaming Acoustic Modeling for Automatic Lyrics Transcription,http://arxiv.org/abs/2108.02625v1
+Towards Automatic Instrumentation by Learning to Separate Parts in Symbolic Multitrack Music,http://arxiv.org/abs/2107.05916v2
+An Empirical Evaluation of End-to-End Polyphonic Optical Music Recognition,http://arxiv.org/abs/2108.01769v1
+A Hardanger Fiddle Dataset with Performances Spanning Emotional Expressions and Annotations Aligned using Image Registration,http://arxiv.org/abs/1910.11090v1
+Building the MetaMIDI Dataset: Linking Symbolic and Audio Musical Data,http://arxiv.org/abs/2111.02034v1
+Modeling and Inferring Proto-Voice Structure in Free Polyphony,http://arxiv.org/abs/1811.08045v2
+PKSpell: Data-Driven Pitch Spelling and Key Signature Estimation,http://arxiv.org/abs/2107.14009v1
+Filosax: A Dataset of Annotated Jazz Saxophone Recordings,http://arxiv.org/abs/1908.09484v1
+An interpretable music similarity measure based on path interestingness,http://arxiv.org/abs/2108.01632v2
+Leveraging Hierarchical Structures for Few-Shot Musical Instrument Recognition,http://arxiv.org/abs/2107.07029v2
+What if the 'When' Implies the 'What'?: Human harmonic analysis datasets clarify the relative role of the separate steps in automatic tonal analysis,http://arxiv.org/abs/2107.06217v1
+Let's agree to disagree: Consensus Entropy Active Learning for Personalized Music Emotion Recognition,http://arxiv.org/abs/1909.01891v1
+Sequence-to-Sequence Piano Transcription with Transformers,http://arxiv.org/abs/2108.10382v2
+Neural Waveshaping Synthesis,http://arxiv.org/abs/2107.05050v2
+A semi-automated workflow paradigm for the distributed creation and curation of expert annotations,http://arxiv.org/abs/2004.14130v1
+"BeatNet: CRNN and Particle Filtering for Online Joint Beat, Downbeat and Meter Tracking",http://arxiv.org/abs/2108.03576v1
+Joint Estimation of Note Values and Voices for Audio-to-Score Piano Transcription,http://arxiv.org/abs/1703.08144v3
+Learning note-to-note affinity for voice segregation and melody line identification of symbolic music data,http://arxiv.org/abs/1812.10906v1
+VOCANO: A note transcription framework for singing voice in polyphonic music,http://arxiv.org/abs/1510.04039v1
+De-centering the West: East Asian Philosophies and the Ethics of Applying Artificial Intelligence to Music,http://arxiv.org/abs/1402.6494v1
+A Benchmarking Initiative for Audio-domain Music Generation using the FreeSound Loop Dataset,http://arxiv.org/abs/2108.01576v1
+EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation,http://arxiv.org/abs/2108.01374v1
+Piano Sheet Music Identification Using Marketplace Fingerprinting,http://arxiv.org/abs/2007.14579v1
+Learning a cross-domain embedding space of vocal and mixed audio with a structure-preserving triplet loss,http://arxiv.org/abs/2005.13402v3
+Decoupling Magnitude and Phase Estimation with Deep ResUNet for Music Source Separation,http://arxiv.org/abs/2109.05418v1
+Artist Similarity Using Graph Neural Networks,http://arxiv.org/abs/2107.14541v1
+Multiscale Approaches To Music Audio Feature Learning.,http://arxiv.org/abs/2006.08656v2
+Transfer Learning In Mir: Sharing Learned Latent Representations For Music Audio Classification And Similarity.,http://arxiv.org/abs/2107.05677v1
+A Distributed Model For Multiple-Viewpoint Melodic Prediction.,http://arxiv.org/abs/2102.08232v1
+Learning Rhythm And Melody Features With Deep Belief Networks.,http://arxiv.org/abs/2109.00663v1
+A Comparative Study Of Indian And Western Music Forms.,http://arxiv.org/abs/2002.09021v1
+Swara Histogram Based Structural Analysis And Identification Of Indian Classical Ragas.,http://arxiv.org/abs/2111.00436v1
+Combining Modeling Of Singing Voice And Background Music For Automatic Separation Of Musical Mixtures.,http://arxiv.org/abs/1604.00192v1
+On Finding Symbolic Themes Directly From Audio Files Using Dynamic Programming.,http://arxiv.org/abs/1806.08236v2
+"Towards Light-Weight, Real-Time-Capable Singing Voice Detection.",http://arxiv.org/abs/2110.04754v1
+The Use Of Melodic Scales In Bollywood Music: An Empirical Study.,http://arxiv.org/abs/1711.02318v1
+Bilevel Sparse Models for Polyphonic Music Transcription.,http://arxiv.org/abs/1909.10200v2
+JProductionCritic: An Educational Tool for Detecting Technical Errors in Audio Mixes.,http://arxiv.org/abs/2104.03876v1
+Combining Timbric and Rhythmic Features for Semantic Music Tagging.,http://arxiv.org/abs/2009.02057v1
+The Audio Degradation Toolbox and Its Application to Robustness Evaluation.,http://arxiv.org/abs/0707.0397v1
+Do Online Social Tags Predict Perceived or Induced Emotional Responses to Music?,http://arxiv.org/abs/1308.1817v1
+A Video Compression-Based Approach to Measure Music Structural Similarity.,http://arxiv.org/abs/2108.00970v1
+Dunya: A System to Browse Audio Music Collections Exploiting Cultural Context.,http://arxiv.org/abs/2108.01283v1
+An Analysis of Chorus Features in Popular Song.,http://arxiv.org/abs/2106.16153v1
+Visual Humdrum-Library for PWGL.,http://arxiv.org/abs/2108.04953v1
+Source Separation of Polyphonic Music with Interactive User-Feedback on a Piano Roll Display.,http://arxiv.org/abs/1206.6392v1
+Optical Measure Recognition in Common Music Notation.,http://arxiv.org/abs/1908.03608v3
+Musicbrainz for The World: The Chilean Experience.,http://arxiv.org/abs/1111.6121v1
+Influences of ISMIR and MIREX Research on Technology Patents.,http://arxiv.org/abs/1403.2096v1
+Toward Understanding Expressive Percussion Through Content Based Analysis.,http://arxiv.org/abs/gr-qc/9908064v1
+Data Driven and Discriminative Projections for Large-Scale Cover Song Identification.,http://arxiv.org/abs/1912.11006v3
+"Simultaneous Unsupervised Learning of Flamenco Metrical Structure, Hypermetrical Structure, and Multipart Structural Relations.",http://arxiv.org/abs/gr-qc/0011050v1
+A Corpus-Based Study on Ragtime Syncopation.,http://arxiv.org/abs/1609.02049v1
+A Computational Comparison of Theory And Practice of Scale Intonation in Byzantine Chant.,http://arxiv.org/abs/cmp-lg/9405003v1
+Score Informed Tonic Identification for Makam Music of Turkey.,http://arxiv.org/abs/1708.00733v1
+Placing Music Artists and Songs in Time Using Editorial Metadata and Web Mining Techniques.,http://arxiv.org/abs/1906.11783v1
+The Million Musical Tweet Dataset - What We Can Learn From Microblogs.,http://arxiv.org/abs/1308.2354v1
+Verifying Music Tag Annotation Via Association Analysis.,http://arxiv.org/abs/1907.04262v2
+The Role of Audio and Tags in Music Mood Prediction: A Study Using Semantic Layer Projection.,http://arxiv.org/abs/1308.1817v1
+Converting Path Structures Into Block Structures Using Eigenvalue Decompositions of Self-Similarity Matrices.,http://arxiv.org/abs/cond-mat/0104425v1
+The Audio Effects Ontology.,http://arxiv.org/abs/1610.02333v1
+Exploration of Music Emotion Recognition Based on MIDI.,http://arxiv.org/abs/2108.01374v1
+Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio.,http://arxiv.org/abs/2111.00704v1
+Large-Scale Cover Song Identification Using Chord Profiles.,http://arxiv.org/abs/1707.04680v1
+Automatically Identifying Vocal Expressions for Music Transcription.,http://arxiv.org/abs/2108.02625v1
+Hooked: A Game For Discovering What Makes Music Catchy.,http://arxiv.org/abs/math/0109023v2
+Hierarchical Classification of Carnatic Music Forms.,http://arxiv.org/abs/1711.02318v1
+A Simple Fusion Method of State And Sequence Segmentation for Music Structure Discovery.,http://arxiv.org/abs/1812.07126v1
+Evaluating The Quality of Generated Playlists Based on Hand-Crafted Samples.,http://arxiv.org/abs/1907.08687v1
+Explicit Duration Hidden Markov Models for Multiple-Instrument Polyphonic Music Transcription.,http://arxiv.org/abs/1704.03711v1
+A Comprehensive Online Database of Machine-Readable Lead-Sheets for Jazz Standards.,http://arxiv.org/abs/1904.03442v1
+MeUse: Recommending Internet Radio Stations.,http://arxiv.org/abs/cs/0109046v1
+Improved Audio Classification Using a Novel Non-Linear Dimensionality Reduction Ensemble Approach.,http://arxiv.org/abs/1903.12422v1
+A Study of Ensemble Synchronisation Under Restricted Line of Sight.,http://arxiv.org/abs/1109.6214v2
+Groove Kernels as Rhythmic-Acoustic Motif Descriptors.,http://arxiv.org/abs/cond-mat/9907443v1
+Instrument Identification Informed Multi-Track Mixing.,http://arxiv.org/abs/physics/0312061v1
+Tempo Detection of Urban Music Using Tatum Grid Non Negative Matrix Factorization.,http://arxiv.org/abs/2109.01607v1
+A Study of Cultural Dependence of Perceived Mood in Greek Music.,http://arxiv.org/abs/2108.00768v1
+Evaluation on Feature Importance for Favorite Song Detection.,http://arxiv.org/abs/2104.13453v1
+QBT-Extended: An Annotated Dataset of Melodically Contoured Tapped Queries.,http://arxiv.org/abs/1509.04956v1
+Audio Chord Recognition with Recurrent Neural Networks.,http://arxiv.org/abs/2105.07019v2
+Virtualband: Interacting with Stylistically Consistent Agents.,http://arxiv.org/abs/cond-mat/0209445v2
+Sparse Modeling for Artist Identification: Exploiting Phase Information and Vocal Separation.,http://arxiv.org/abs/2010.01376v1
+Automatic Transcription of Turkish Makam Music.,http://arxiv.org/abs/2004.07171v1
+Local Group Delay Based Vibrato and Tremolo Suppression for Onset Detection.,http://arxiv.org/abs/2003.10806v1
+Beyond NMF: Time-Domain Audio Source Separation without Phase Reconstruction.,http://arxiv.org/abs/1605.07469v1
+Beta Process Sparse Nonnegative Matrix Factorization for Music.,http://arxiv.org/abs/2010.16223v1
+Semi-Supervised Polyphonic Source Identification using PLCA Based Graph Clustering.,http://arxiv.org/abs/1111.6410v2
+An Experiment about Estimating the Number of Instruments in Polyphonic Music: A Comparison Between Internet and Laboratory Results.,http://arxiv.org/abs/1508.01774v2
+Social-EQ: Crowdsourcing an Equalization Descriptor Map.,http://arxiv.org/abs/1503.03514v1
+Taste Over Time: The Temporal Dynamics of User Preferences.,http://arxiv.org/abs/2105.08089v1
+Exploring the Relation Between Novelty Aspects and Preferences in Music Listening.,http://arxiv.org/abs/2009.01715v2
+Spectral Correlates in Emotion Labeling of Sustained Musical Instrument Tones.,http://arxiv.org/abs/2008.01810v1
+Design and Evaluation of Semantic Mood Models for Music Recommendation using Editorial Tags.,http://arxiv.org/abs/1308.1817v1
+Low-Rank Representation of Both Singing Voice and Music Accompaniment Via Learned Dictionaries.,http://arxiv.org/abs/1801.03815v1
+Incremental Visualization of Growing Music Collections.,http://arxiv.org/abs/1802.02351v1
+Evaluating OMR on the Early Music Online Collection.,http://arxiv.org/abs/2108.01769v1
+Sparse Music Decomposition onto a MIDI Dictionary Driven by Statistical Music Knowledge.,http://arxiv.org/abs/1812.07126v1
+Annotating Works for Music Education: Propositions for a Musical Forms and Structures Ontology and a Musical Performance Ontology.,http://arxiv.org/abs/2009.07755v1
+Chord-Sequence-Factory: A Chord Arrangement System Modifying Factorized Chord Sequence Probabilities.,http://arxiv.org/abs/1808.05335v1
+Music Cut and Paste: A Personalized Musical Medley Generating System.,http://arxiv.org/abs/1709.04384v2
+A Meta-Analysis of the MIREX Structural Segmentation Task.,http://arxiv.org/abs/1704.08729v1
+A Deterministic Annealing EM Algorithm for Automatic Music Transcription.,http://arxiv.org/abs/2108.10689v1
+Modelling the Speed of Music using Features from Harmonic/Percussive Separated Audio.,http://arxiv.org/abs/1807.11298v1
+Inter and Intra Item Segmentation of Continuous Audio Recordings of Carnatic Music for Archival.,http://arxiv.org/abs/1711.02318v1
+Essentia: An Audio Analysis Library for Music Information Retrieval.,http://arxiv.org/abs/2003.07393v1
+Motif Spotting in an Alapana in Carnatic Music.,http://arxiv.org/abs/2008.00198v1
+Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction.,http://arxiv.org/abs/2009.08027v2
+Improving the Reliability of Music Genre Classification using Rejection and Verification.,http://arxiv.org/abs/2002.00251v1
+Robotaba Guitar Tablature Transcription Framework.,http://arxiv.org/abs/2107.14653v1
+Comparing Onset Detection &amp; Perceptual Attack Time.,http://arxiv.org/abs/1812.03066v1
+K-Pop Genres: A Cross-Cultural Exploration.,http://arxiv.org/abs/2107.08075v1
+Coupling Social Network Services and Support for Online Communities in Codes Environment.,http://arxiv.org/abs/1509.02238v1
+Basic Evaluation of Auditory Temporal Stability (Beats): A Novel Rationale and Implementation.,http://arxiv.org/abs/1801.06853v2
+SIARCT-CFP: Improving Precision and the Discovery of Inexact Musical Patterns in Point-Set Representations.,http://arxiv.org/abs/1906.11783v1
+A Machine Learning Approach to Voice Separation in Lute Tablature.,http://arxiv.org/abs/1805.01201v1
+A Methodology for the Comparison of Melodic Generation Models Using Meta-Melo.,http://arxiv.org/abs/2102.08232v1
+An Extended Audio Fingerprint Method with Capabilities for Similar Music Detection.,http://arxiv.org/abs/2101.00132v1
+AutoMashUpper: An Automatic Multi-Song Mashup System.,http://arxiv.org/abs/1003.4418v1
+Learning Binary Codes For Efficient Large-Scale Music Similarity Search.,http://arxiv.org/abs/2109.01815v1
+"On Cultural, Textual and Experiential Aspects of Music Mood.",http://arxiv.org/abs/2108.00768v1
+"Sparse Cepstral, Phase Codes for Guitar Playing Technique Classification.",http://arxiv.org/abs/1806.04374v2
+Automated Detection of Single- and Multi-Note Ornaments in Irish Traditional Flute Playing.,http://arxiv.org/abs/1009.2000v1
+The Kiki-Bouba Challenge: Algorithmic Composition for Content-based MIR Research and Development.,http://arxiv.org/abs/1306.3953v1
+Transfer Learning by Supervised Pre-training for Audio-based Music Classification.,http://arxiv.org/abs/1906.08615v1
+Estimating Musical Time Information from Performed MIDI Files.,http://arxiv.org/abs/2002.09748v1
+Estimation of the Direction of Strokes and Arpeggios.,http://arxiv.org/abs/2104.09907v2
+Predicting Expressive Dynamics in Piano Performances using Neural Networks.,http://arxiv.org/abs/1709.03629v1
+An RNN-based Music Language Model for Improving Automatic Music Transcription.,http://arxiv.org/abs/1909.10200v2
+Towards Modeling Texture in Symbolic Data.,http://arxiv.org/abs/1705.10041v3
+Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.,http://arxiv.org/abs/1509.04956v1
+The VIS Framework: Analyzing Counterpoint in Large Datasets.,http://arxiv.org/abs/astro-ph/0208140v1
+Hierarchical Approach to Detect Common Mistakes of Beginner Flute Players.,http://arxiv.org/abs/1409.6768v1
+Robust Joint Alignment of Multiple Versions of a Piece of Music.,http://arxiv.org/abs/1604.08516v1
+Formalizing the Problem of Music Description.,http://arxiv.org/abs/math-ph/0309059v1
+An Association-based Approach to Genre Classification in Music.,http://arxiv.org/abs/2110.04654v1
+Multiple Viewpiont Melodic Prediction with Fixed-Context Neural Networks.,http://arxiv.org/abs/2009.04172v1
+Verovio: A library for Engraving MEI Music Notation into SVG.,http://arxiv.org/abs/1311.6712v1
+Music Classification by Transductive Learning Using Bipartite Heterogeneous Networks.,http://arxiv.org/abs/1704.05665v1
+Automatic Melody Transcription based on Chord Transcription.,http://arxiv.org/abs/1510.04039v1
+Audio-to-score Alignment at the Note Level for Orchestral Recordings.,http://arxiv.org/abs/2008.02734v1
+A Compositional Hierarchical Model for Music Information Retrieval.,http://arxiv.org/abs/2011.11970v1
+An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures.,http://arxiv.org/abs/2008.02070v1
+Detecting Drops in Electronic Dance Music: Content based approaches to a socially significant music event.,http://arxiv.org/abs/2009.08027v2
+Towards Automatic Content-Based Separation of DJ Mixes into Single Tracks.,http://arxiv.org/abs/1909.12605v2
+MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR Research.,http://arxiv.org/abs/2008.02070v1
+Melody Extraction from Polyphonic Audio of Western Opera: A Method based on Detection of the Singer's Formant.,http://arxiv.org/abs/1804.09202v1
+Codebook-based Scalable Music Tagging with Poisson Matrix Factorization.,http://arxiv.org/abs/1308.1817v1
+Template Adaptation for Improving Automatic Music Transcription.,http://arxiv.org/abs/1611.08131v1
+Note-level Music Transcription by Maximum Likelihood Sampling.,http://arxiv.org/abs/1106.4863v1
+Drum Transcription via Classification of Bar-Level Rhythmic Patterns.,http://arxiv.org/abs/1906.03697v2
+Developing Tonal Perception through Unsupervised Learning.,http://arxiv.org/abs/1804.02257v2
+Exploiting Instrument-wise Playing/Non-Playing Labels for Score Synchronization of Symphonic Music.,http://arxiv.org/abs/1901.04831v1
+Multi-Strategy Segmentation of Melodies.,http://arxiv.org/abs/1810.12947v2
+A Data Set for Computational Studies of Schenkerian Analysis.,http://arxiv.org/abs/cs/0608107v3
+Systematic Multi-scale Set-class Analysis.,http://arxiv.org/abs/1907.09685v1
+Spotting a Query Phrase from Polyphonic Music Audio Signals Based on Semi-supervised Nonnegative Matrix Factorization.,http://arxiv.org/abs/1808.00563v1
+Bayesian Audio Alignment based on a Unified Model of Music Composition and Performance.,http://arxiv.org/abs/2010.03190v1
+Automatic Set List Identification and Song Segmentation for Full-Length Concert Videos.,http://arxiv.org/abs/1605.04850v1
+On Inter-rater Agreement in Audio Music Similarity.,http://arxiv.org/abs/1907.09756v1
+Emotional Predisposition of Musical Instrument Timbres with Static Spectra.,http://arxiv.org/abs/2008.01810v1
+Panako - A Scalable Acoustic Fingerprinting System Handling Time-Scale and Pitch Modification.,http://arxiv.org/abs/1304.0793v1
+Perceptual Analysis of the F-Measure to Evaluate Section Boundaries in Music.,http://arxiv.org/abs/1902.10903v1
+Keyword Spotting in A-capella Singing.,http://arxiv.org/abs/2110.07749v2
+The Importance of F0 Tracking in Query-by-singing-humming.,http://arxiv.org/abs/hep-ph/0009168v1
+Vocal Separation using Singer-Vowel Priors Obtained from Polyphonic Audio.,http://arxiv.org/abs/2009.04172v1
+Improving Query by Tapping via Tempo Alignment.,http://arxiv.org/abs/1602.01665v1
+Automatic Instrument Classification of Ethnomusicological Audio Recordings.,http://arxiv.org/abs/2104.09064v1
+Music Analysis as a Smallest Grammar Problem.,http://arxiv.org/abs/1912.12362v1
+Frame-Level Audio Segmentation for Abridged Musical Works.,http://arxiv.org/abs/2108.12955v1
+Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis.,http://arxiv.org/abs/1708.03986v1
+Modeling Temporal Structure in Music for Emotion Prediction using Pairwise Comparisons.,http://arxiv.org/abs/2002.09021v1
+Musical Structural Analysis Database Based on GTTM.,http://arxiv.org/abs/1309.4345v1
+Theoretical Framework of A Computational Model of Auditory Memory for Music Emotion Recognition.,http://arxiv.org/abs/2101.02051v1
+Improving Music Structure Segmentation using lag-priors.,http://arxiv.org/abs/1503.06666v3
+Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing.,http://arxiv.org/abs/1912.12010v1
+A Proximity Grid Optimization Method to Improve Audio Search for Sound Design.,http://arxiv.org/abs/2110.09223v1
+Introducing a Dataset of Emotional and Color Responses to Music.,http://arxiv.org/abs/1306.2597v1
+In-depth Motivic Analysis based on Multiparametric Closed Pattern and Cyclic Sequence Mining.,http://arxiv.org/abs/1604.00300v1
+MIR_EVAL: A Transparent Implementation of Common MIR Metrics.,http://arxiv.org/abs/1605.07008v1
+Computational Modeling of Induced Emotion Using GEMS.,http://arxiv.org/abs/1808.08447v1
+Cognition-inspired Descriptors for Scalable Cover Song Retrieval.,http://arxiv.org/abs/1808.10351v1
+A Cross-Cultural Study on the Mood of K-POP Songs.,http://arxiv.org/abs/2108.00768v1
+Cadence Detection in Western Traditional Stanzaic Songs using Melodic and Textual Features.,http://arxiv.org/abs/1806.03352v1
+Discovering Typical Motifs of a Raga from One-Liners of Songs in Carnatic Music.,http://arxiv.org/abs/1711.11357v1
+Analyzing Song Structure with Spectral Clustering.,http://arxiv.org/abs/2009.02554v1
+Identifying Polyphonic Musical Patterns From Audio Recordings Using Music Segmentation Techniques.,http://arxiv.org/abs/1606.01039v2
+Boundary Detection in Music Structure Analysis using Convolutional Neural Networks.,http://arxiv.org/abs/2008.07527v1
+"Tracking the ""Odd"": Meter Inference in a Culturally Diverse Music Corpus.",http://arxiv.org/abs/2101.11916v1
+Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera.,http://arxiv.org/abs/2106.00497v1
+Taste Space Versus the World: an Embedding Analysis of Listening Habits and Geography.,http://arxiv.org/abs/1705.09439v1
+Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation.,http://arxiv.org/abs/1901.08907v1
+Improving Music Recommender Systems: What Can We Learn from Research on Music Tastes?,http://arxiv.org/abs/2010.10276v2
+Social Music in Cars.,http://arxiv.org/abs/1808.03845v2
+A Combined Thematic and Acoustic Approach for a Music Recommendation Service in TV Commercials.,http://arxiv.org/abs/1609.02451v2
+Are Poetry and Lyrics All That Different?,http://arxiv.org/abs/1901.05227v1
+Singing-Voice Separation from Monaural Recordings using Deep Recurrent Neural Networks.,http://arxiv.org/abs/1502.04149v4
+Impact of Listening Behavior on Music Recommendation.,http://arxiv.org/abs/1705.09439v1
+Towards Seamless Network Music Performance: Predicting an Ensemble's Expressive Decisions for Distributed Performance.,http://arxiv.org/abs/2106.12070v1
+Detection of Motor Changes in Violin Playing by EMG Signals.,http://arxiv.org/abs/1908.10137v1
+Automatic Key Partition Based on Tonal Organization Information of Classical Music.,http://arxiv.org/abs/1905.11959v1
+Bayesian Singing-Voice Separation.,http://arxiv.org/abs/1302.7280v1
+Probabilistic Extraction of Beat Positions from a Beat Activation Function.,http://arxiv.org/abs/cond-mat/0108425v1
+Geographical Region Mapping Scheme Based on Musical Preferences.,http://arxiv.org/abs/1603.01393v1
+On Comparative Statistics for Labelling Tasks: What can We Learn from MIREX ACE 2013?,http://arxiv.org/abs/1301.3195v7
+Merged-Output HMM for Piano Fingering of Both Hands.,http://arxiv.org/abs/2111.08009v1
+Modeling Rhythm Similarity for Electronic Dance Music.,http://arxiv.org/abs/2011.13062v1
+MuSe: A Music Recommendation Management System.,http://arxiv.org/abs/1208.2750v1
+Tempo- and Transposition-invariant Identification of Piece and Score Position.,http://arxiv.org/abs/1211.2755v1
+Gender Identification and Age Estimation of Users Based on Music Metadata.,http://arxiv.org/abs/2009.01715v2
+Information-Theoretic Measures of Music Listening Behaviour.,http://arxiv.org/abs/2101.11916v1
+Evaluation Framework for Automatic Singing Transcription.,http://arxiv.org/abs/2004.07171v1
+What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features?,http://arxiv.org/abs/1612.05065v1
+Music Information Behaviors and System Preferences of University Students in Hong Kong.,http://arxiv.org/abs/1309.4345v1
+LyricsRadar: A Lyrics Retrieval System Based on Latent Topics of Lyrics.,http://arxiv.org/abs/2010.14709v1
+JAMS: A JSON Annotated Music Specification for Reproducible MIR Research.,http://arxiv.org/abs/1201.6251v1
+On The Changing Regulations of Privacy and Personal Information in MIR.,http://arxiv.org/abs/cs/0109098v2
+A Multi-model Approach to Beat Tracking Considering Heterogeneous Music Styles.,http://arxiv.org/abs/2111.00704v1
+Extending Harmonic-Percussive Separation of Audio Signals.,http://arxiv.org/abs/1907.01160v1
+Singing Voice Separation Using Spectro-Temporal Modulation Features.,http://arxiv.org/abs/2107.00231v1
+Harmonic-Temporal Factor Decomposition Incorporating Music Prior Information for Informed Monaural Source Separation.,http://arxiv.org/abs/1802.03156v3
+Design And Evaluation of Onset Detectors using Different Fusion Policies.,http://arxiv.org/abs/1905.11622v2
+Evaluating the Evaluation Measures for Beat Tracking.,http://arxiv.org/abs/1804.00118v1
+Improving Rhythmic Transcriptions via Probability Models Applied Post-OMR.,http://arxiv.org/abs/2010.09969v1
+Classifying EEG Recordings of Rhythm Perception.,http://arxiv.org/abs/cs/0504058v1
+"Ten Years of MIREX (Music Information Retrieval Evaluation eXchange): Reflections, Challenges and Opportunities.",http://arxiv.org/abs/1109.6221v1
+Music Structure Analysis Based on an LSTM-HSMM Hybrid Model,http://arxiv.org/abs/1809.04281v3
+Multi-Instrument Music Transcription Based on Deep Spherical Clustering of Spectrograms and Pitchgrams,http://arxiv.org/abs/2001.09989v2
+Improving Polyphonic Music Models with Feature-rich Encoding,http://arxiv.org/abs/1911.11775v3
+Practical Evaluation of Repeated Recommendations in Personalized Music Discovery,http://arxiv.org/abs/2012.00927v1
+Modeling and Estimating Local Tempo: A Case Study on Chopin's Mazurkas,http://arxiv.org/abs/1907.06244v1
+Classifying Leitmotifs in Recordings of Operas by Richard Wagner,http://arxiv.org/abs/1811.02923v1
+Composer Style Classification of Piano Sheet Music Images Using Language Model Pretraining,http://arxiv.org/abs/2007.14587v1
+Using Weakly Aligned Score-Audio Pairs to Train Deep Chroma Models for Cross-Modal Music Retrieval,http://arxiv.org/abs/1612.05065v1
+Camera-Based Piano Sheet Music Identification,http://arxiv.org/abs/2007.14579v1
+User Perceptions Underlying  Social Music Behavior,http://arxiv.org/abs/1906.12324v1
+Perceptual vs. automated judgements of music copyright infringement,http://arxiv.org/abs/1906.06355v1
+SuPP & MaPP: Adaptable Structure-Based Representations for MIR Tasks,http://arxiv.org/abs/1602.07857v4
+Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset,http://arxiv.org/abs/2104.00353v2
+A corpus-based analysis of syncopated patterns in ragtime,http://arxiv.org/abs/physics/9806032v2
+A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory,http://arxiv.org/abs/1812.07126v1
+Investigating U-Nets with various Intermediate Blocks for Spectrogram-based Singing Voice Separation,http://arxiv.org/abs/1912.02591v3
+The Rhythmic Dictator: Does Gamification of Rhythm Dictation Exercises Help?,http://arxiv.org/abs/1202.4578v1
+Learning to Read and Follow Music in Complete Score Sheet Images,http://arxiv.org/abs/1807.06391v1
+Learning to Denoise Historical Music,http://arxiv.org/abs/2008.02027v1
+Discourse not Dualism: An Interdisciplinary Dialogue on Sonata Form in Beethoven's Early Piano Sonatas,http://arxiv.org/abs/1706.09088v2
+Play Music: User Motivations and Expectations for Non-Specific Voice Queries,http://arxiv.org/abs/2006.10168v1
+Measuring disruption in song similarity networks,http://arxiv.org/abs/1605.04784v2
+Uncovering audio patterns in music with Nonnegative Tucker Decomposition for structural segmentation,http://arxiv.org/abs/2104.08580v1
+The Jazz Harmony Treebank,http://arxiv.org/abs/1809.04755v1
+A Chorus-Section Detection Method for Lyrics Text,http://arxiv.org/abs/2106.01960v1
+POP909: A Pop-Song Dataset for Music Arrangement Generation,http://arxiv.org/abs/2008.07142v1
+Chord Jazzification: Learning Jazz Interpretations of Chord Symbols,http://arxiv.org/abs/1411.5639v1
+Learning Interpretable Representation for Controllable Polyphonic Music Generation ,http://arxiv.org/abs/2008.07122v1
+Connective Fusion: Learning Transformational Joining of Sequences with Application to Melody Creation,http://arxiv.org/abs/2110.05020v3
+PIANOTREE VAE: Structured Representation Learning for Polyphonic Music,http://arxiv.org/abs/2008.07118v1
+Towards Multimodal MIR: Predicting individual differences from music-induced movement,http://arxiv.org/abs/2007.10695v1
+Attributes-Aware Deep Music Transformation,http://arxiv.org/abs/1709.00740v1
+Multilingual lyrics-to-audio alignment,http://arxiv.org/abs/1905.05547v2
+Hierarchical Musical Instrument Separation,http://arxiv.org/abs/2109.00663v1
+Structural Segmentation of Dhrupad Vocal Bandish Audio based on Tempo,http://arxiv.org/abs/2008.00756v1
+Moving in Time: Computational Analysis of Microtiming in Maracatu de Baque Solto,http://arxiv.org/abs/0705.0635v2
+Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation,http://arxiv.org/abs/2009.07755v1
+Modelling Hierarchical Key Structure With Pitch Scapes,http://arxiv.org/abs/1906.07145v1
+Voice-Leading Schema Recognition Using Rhythm and Pitch Features,http://arxiv.org/abs/1303.1761v1
+Semantically Meaningful Attributes from Co-Listen Embeddings for Playlist Exploration and Expansion,http://arxiv.org/abs/1707.07835v1
+Downbeat Tracking with Tempo Invariant Convolutional Neural Networks,http://arxiv.org/abs/2102.02282v1
+ASAP: a dataset of aligned scores and performances for piano transcription,http://arxiv.org/abs/1803.02657v2
+Tag2Risk: Harnessing Social Music Tags for Characterizing Depression Risk,http://arxiv.org/abs/2007.13159v1
+Content based singing voice source separation via strong conditioning using aligned phonemes,http://arxiv.org/abs/2008.02070v1
+BebopNet: Deep Neural Models for Personalized Jazz Improvisations,http://arxiv.org/abs/1611.06505v1
+A Simple Method for User-Driven Music Thumbnailing,http://arxiv.org/abs/2103.05342v2
+PROGRAMMING INEQUALITY: GENDER REPRESENTATION ON CANADIAN COUNTRY RADIO (2005-2019),http://arxiv.org/abs/1602.01442v1
+Score-Informed Source Separation of Choral Music,http://arxiv.org/abs/2008.07645v1
+Can't trust the feeling? How open data reveals unexpected behavior of high-level music descriptors,http://arxiv.org/abs/0808.0336v5
+Improved Handling of Repeats and Jumps in Audio--Sheet Image Synchronization,http://arxiv.org/abs/2007.14580v1
+Zero-Shot Singing Voice Conversion,http://arxiv.org/abs/2008.03009v1
+Dance Beat Tracking from Visual Information Alone,http://arxiv.org/abs/1803.07126v1
+Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm,http://arxiv.org/abs/2008.01291v1
+How Music Fans Shape Commercial Music Services:  A Case Study of BTS and ARMY,http://arxiv.org/abs/2109.07227v1
+Artist gender representation in music streaming,http://arxiv.org/abs/2108.01053v1
+Mood Classification Using Listening Data,http://arxiv.org/abs/2010.11512v1
+Exploring Aligned Lyrics-informed Singing Voice Separation,http://arxiv.org/abs/2008.04482v1
+Sesquialtera in the Colombian bambuco: Perception and estimation of beat and meter,http://arxiv.org/abs/1911.03372v1
+Joint analysis of mode and playing technique in Guqin performance with machine learning,http://arxiv.org/abs/1810.03743v2
+Score following with hidden tempo using a switching state-space model,http://arxiv.org/abs/1310.4461v2
+Semi-supervised learning using teacher-student models for vocal melody extraction,http://arxiv.org/abs/1204.1685v2
+Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds,http://arxiv.org/abs/1906.08152v2
+Automatic Rank-Ordering of Singing Vocals with Twin-Neural Network,http://arxiv.org/abs/1510.04039v1
+Human-AI Co-Creation in Songwriting,http://arxiv.org/abs/2111.07592v1
+Analysis of Song/Artist Latent Features and Its Application for Song Search,http://arxiv.org/abs/1905.11010v1
+The MIDI Degradation Toolkit: Symbolic Music Augmentation and Correction,http://arxiv.org/abs/2010.00059v1
+MusPy: A Toolkit for Symbolic Music Generation,http://arxiv.org/abs/2008.01951v1
+Ultra-light deep MIR by trimming lottery tickets,http://arxiv.org/abs/2007.16187v1
+Data Cleansing with Contrastive Learning for Vocal Note Event Annotations,http://arxiv.org/abs/2008.02069v3
+Joyful for you and tender for us: the influence of individual characteristics and language on emotion labeling and classification,http://arxiv.org/abs/1004.3260v1
+A Neural Approach for Full-Page Optical Music Recognition of Mensural Documents,http://arxiv.org/abs/2005.02669v1
+Multidimensional similarity modelling of complex drum loops using the GrooveToolbox,http://arxiv.org/abs/1902.07958v1
+Modeling perception with hierarchical prediction: Auditory segmentation with deep predictive coding locates candidate evoked potentials in EEG,http://arxiv.org/abs/1905.01378v1
+Music FaderNets: Controllable Music Generation Based On High-Level Features via Low-Level Feature Modelling,http://arxiv.org/abs/2007.15474v1
+"Deconstruct, Analyse, Reconstruct: How to improve Tempo, Beat, and Downbeat Estimation",http://arxiv.org/abs/0705.3049v1
+Neural Loop Combiner: Neural Network Models for Assessing the Compatibility of Loops,http://arxiv.org/abs/2008.02011v1
+Rule Mining for Local Boundary Detection in Melodies,http://arxiv.org/abs/1912.06432v2
+Butter Lyrics Over Hominy Grit: Comparing Audio and Psychology-Based Text Features in MIR Tasks,http://arxiv.org/abs/1808.10351v1
+Mode classification and natural units in plainchant,http://arxiv.org/abs/1903.10559v3
+Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis,http://arxiv.org/abs/2006.15411v1
+"CONLON: A Pseudo-Song Generator Based on a New Pianoroll, Wasserstein Autoencoders, and Optimal Interpolations",http://arxiv.org/abs/1909.03522v1
+Combining musical features for cover detection,http://arxiv.org/abs/2008.07527v1
+The Freesound Loop Dataset and Annotation Tool,http://arxiv.org/abs/2008.11507v2
+Less is more: Faster and better music version identification with embedding distillation,http://arxiv.org/abs/2010.03284v1
+Should we consider the users in contextual music auto-tagging models?,http://arxiv.org/abs/1207.1478v2
+Exploring Acoustic Similarity for Novel Music Recommendation,http://arxiv.org/abs/1808.10600v2
+Generating Music with a Self-Correcting Non-Chronological Autoregressive Model,http://arxiv.org/abs/2002.03761v2
+Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks,http://arxiv.org/abs/2009.04172v1
+DRUMGAN: SYNTHESIS OF DRUM SOUNDS WITH TIMBRAL FEATURE CONDITIONING USING GENERATIVE ADVERSARIAL NETWORKS,http://arxiv.org/abs/2008.12073v1
+Microtask Crowdsourcing for Music Score Transcriptions: An Experiment with Error Detection,http://arxiv.org/abs/1912.05045v2
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing,http://arxiv.org/abs/2009.09875v1
+Essentia.js: A JavaScript Library for Music and Audio Analysis on the Web,http://arxiv.org/abs/1705.05476v1
+Detecting Collaboration Profiles in Success-based Music Genre Networks,http://arxiv.org/abs/0809.4418v1
+Deep Learning Based Source Separation Applied To Choir Ensembles,http://arxiv.org/abs/2008.07645v1
+On the Characterization of Expressive Performance in Classical Music: First Results of the Con Espressione Game,http://arxiv.org/abs/2008.02194v1
+Few-shot Drum Transcription in Polyphonic Music,http://arxiv.org/abs/2008.02791v1
+dMelodies: A Music Dataset for Disentanglement Learning,http://arxiv.org/abs/2007.15067v1
+Metric learning vs classification for disentangled music representation learning,http://arxiv.org/abs/2008.03729v2
+Score-informed Networks for Music Performance Assessment,http://arxiv.org/abs/2008.00203v1
+The multiple voices of musical emotions: source separation for improving music emotion recognition models and their interpretability,http://arxiv.org/abs/2101.02051v1
+Hierarchical Timbre-painting and Articulation Generation,http://arxiv.org/abs/2008.13095v2
+User Insights on Diversity in Music Recommendation Lists,http://arxiv.org/abs/1703.07534v1
+From Music Ontology towards Ethno-Music-Ontology,http://arxiv.org/abs/2101.02051v1
+A Combination of Local Approaches for Hierarchical Music Genre Classification,http://arxiv.org/abs/2003.05377v1
+Modeling Music and Code Knowledge to Support a Co-creative AI Agent for Education,http://arxiv.org/abs/2108.05809v1
+Multitask Learning  for Instrument Activation Aware Music Source Separation,http://arxiv.org/abs/2008.00616v1
+The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-composed Music through Quantitative Measures,http://arxiv.org/abs/2008.01307v1
+Polyphonic Piano Transcription Using Autoregressive Multi-State Note Model,http://arxiv.org/abs/2010.01104v1
+"Exact, Parallelizable Dynamic Time Warping Alignment with Linear Memory",http://arxiv.org/abs/2008.02734v1
+Automatic Composition of Guitar Tabs by Transformers and Groove Modeling,http://arxiv.org/abs/2008.01431v1
+A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment,http://arxiv.org/abs/2008.10267v1
+Explaining Perceived Emotion Predictions in Music: An Attentive Approach,http://arxiv.org/abs/1907.03572v1
+Bistate reduction and comparison of drum patterns,http://arxiv.org/abs/1810.08712v1
+"Pandemics, music, and collective sentiment: evidence from the outbreak of COVID-19",http://arxiv.org/abs/2007.02304v1
+Towards a Formalization of Musical Rhythm,http://arxiv.org/abs/2109.10256v1
+An Auditory Streaming Approach for Melody Extraction from Polyphonic Music.,http://arxiv.org/abs/2110.07419v1
+An Acoustic-Phonetic Approach to Vocal Melody Extraction.,http://arxiv.org/abs/1804.09202v1
+A System for Evaluating Singing Enthusiasm for Karaoke.,http://arxiv.org/abs/1902.00956v1
+"Automatic Assessment of Singer Traits in Popular Music: Gender, Age, Height and Race.",http://arxiv.org/abs/2103.15122v2
+A Preplexity Based Cover Song Matching System for Short Length Queries.,http://arxiv.org/abs/1709.01058v2
+Humming Method for Content-Based Music Information Retrieval.,http://arxiv.org/abs/1401.2516v1
+Large-scale music similarity search with spatial trees.,http://arxiv.org/abs/1903.06396v2
+A simple-cycles weighted kernel based on harmony structure for similarity retrieval.,http://arxiv.org/abs/2105.05385v1
+HarmTrace: Improving Harmonic Similarity Estimation Using Functional Harmony Analysis.,http://arxiv.org/abs/2105.05385v1
+Adapting Metrics for Music Similarity Using Comparative Ratings.,http://arxiv.org/abs/1902.09030v1
+Using Mutual Proximity to Improve Content-Based Audio Similarity.,http://arxiv.org/abs/2110.04451v1
+Learning the Similarity of Audio Music in Bag-of-frames Representation from Tagged Music Data.,http://arxiv.org/abs/1806.08236v2
+"Compression-based Similarity Measures in Symbolic, Polyphonic Music.",http://arxiv.org/abs/1206.6392v1
+How Much Metadata Do We Need in Music Recommendation? A Subjective Evaluation Using Preference Sets.,http://arxiv.org/abs/2109.07227v1
+NextOne Player: A Music Recommendation System Based on User Behavior.,http://arxiv.org/abs/1309.4345v1
+How Similar Is Too Similar?: Exploring Users' Perceptions of Similarity in Playlist Evaluation.,http://arxiv.org/abs/1907.01098v1
+A Real-Time Signal Processing Framework of Musical Expressive Feature Extraction Using Matlab.,http://arxiv.org/abs/2010.01574v1
+A Scalable Audio Fingerprint Method with Robustness to Pitch-Shifting.,http://arxiv.org/abs/2107.14201v1
+A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting.,http://arxiv.org/abs/2107.14201v1
+Fast Hamming Space Search for Audio Fingerprinting Systems.,http://arxiv.org/abs/1902.08498v2
+"Segmentation, Clustering, and Display in a Personal Audio Database for Musicians.",http://arxiv.org/abs/1906.01174v2
+An Interactive System for Electro-Acoustic Music Analysis.,http://arxiv.org/abs/1311.5426v1
+A Multicultural Approach in Music Information Research.,http://arxiv.org/abs/1802.04108v1
+Assessing the Tuning of Sung Indian Classical Music.,http://arxiv.org/abs/2008.00203v1
+A Computational Investigation of Melodic Contour Stability in Jewish Torah Trope Performance Traditions.,http://arxiv.org/abs/1101.5313v1
+Tarsos - a Platform to Explore Pitch Scales in Non-Western and Western Music.,http://arxiv.org/abs/1909.06259v1
+A Classification-Based Polyphonic Piano Transcription Approach Using Learned Feature Representations.,http://arxiv.org/abs/1902.04390v1
+Constrained Spectrum Generation Using A Probabilistic Spectrum Envelope for Mixed Music Analysis.,http://arxiv.org/abs/0710.4922v2
+Pulse Detection in Syncopated Rhythms Using Neural Oscillators.,http://arxiv.org/abs/1011.0879v2
+A Two-Fold Dynamic Programming Approach to Beat Tracking for Audio Music with Time-Varying Tempo.,http://arxiv.org/abs/1910.12086v1
+Tempo Estimation Based on Linear Prediction and Perceptual Modelling.,http://arxiv.org/abs/1804.08167v2
+A Transient Detection Algorithm for Audio Using Iterative Analysis of STFT.,http://arxiv.org/abs/1609.00291v1
+Modeling Musical Attributes to Characterize Two-Track Recordings with Bass and Drums.,http://arxiv.org/abs/2104.00353v2
+Chroma Toolbox: Matlab Implementations for Extracting Variants of Chroma-Based Audio Features.,http://arxiv.org/abs/1612.05065v1
+A Comparison of Statistical and Rule-Based Models for Style-Specific Harmonization.,http://arxiv.org/abs/2002.05867v2
+Melody Extraction based on Harmonic Coded Structure.,http://arxiv.org/abs/1804.09202v1
+Timbre and Melody Features for the Recognition of Vocal Activity and Instrumental Solos in Polyphonic Music.,http://arxiv.org/abs/2007.06349v1
+Quantifying the Relevance of Locally Extracted Information for Musical Instrument Recognition from Entire Pieces of Music.,http://arxiv.org/abs/1809.07600v1
+Score-Informed Voice Separation For Piano Recordings.,http://arxiv.org/abs/1701.08343v1
+A Postprocessing Technique for Improved Harmonic/Percussion Separation for Polyphonic Music.,http://arxiv.org/abs/2101.00701v1
+Factorization of Overlapping Harmonic Sounds Using Approximate Matching Pursuit.,http://arxiv.org/abs/1807.03694v1
+Computational Approaches for the Understanding of Melody in Carnatic Music.,http://arxiv.org/abs/1711.11357v1
+Modeling Melodic Improvisation in Turkish Folk Music Using Variable-Length Markov Models.,http://arxiv.org/abs/1906.08916v1
+Iranian Traditional Music Dastgah Classification.,http://arxiv.org/abs/1812.07017v3
+"The Temperament Police: The Truth, the Ground Truth, and Nothing but the Truth.",http://arxiv.org/abs/0907.5219v2
+Methodology and Resources for The Structural Segmentation of Music Pieces into Autonomous and Comparable Blocks.,http://arxiv.org/abs/1406.3554v1
+The Music Encoding Initiative as a Document-Encoding Framework.,http://arxiv.org/abs/2104.13040v1
+Low Dimensional Visualization of Folk Music Systems Using the Self Organizing Cloud.,http://arxiv.org/abs/2004.02612v1
+New Approaches to Optical Music Recognition.,http://arxiv.org/abs/1905.12629v2
+Songle: A Web Service for Active Music Listening Improved by User Contributions.,http://arxiv.org/abs/2102.12188v1
+Improving Perceptual Tempo Estimation with Crowd-Sourced Annotations.,http://arxiv.org/abs/2107.10449v1
+Investigating the Similarity Space of Music Artists on the Micro-Blogosphere.,http://arxiv.org/abs/2107.14541v1
+Musical Influence Network Analysis and Rank of Sample-Based Music.,http://arxiv.org/abs/1708.08041v1
+User studies in the Music Information Retrieval Literature.,http://arxiv.org/abs/1904.00648v1
+Social Capital and Music Discovery: An Examination of the Ties through Which Late Adolescents Discover New Music.,http://arxiv.org/abs/2012.00927v1
+MIR in School? Lessons from Ethnographic Observation of Secondary School Music Classes.,http://arxiv.org/abs/1804.07297v3
+Ethnographic Observations of Musicologists at the British Library: Implications for Music Information Retrieval.,http://arxiv.org/abs/1205.2114v2
+Peachnote: Music Score Search and Analysis Platform.,http://arxiv.org/abs/1708.08041v1
+The Melodic Signature Index for Fast Content-based Retrieval of Symbolic Scores Camelia Constantin.,http://arxiv.org/abs/2107.14009v1
+Dynamic Programming in Transposition and Time-Warp Invariant Polyphonic Content-Based Music Retrieval.,http://arxiv.org/abs/1806.08236v2
+Rhythm Extraction from Polyphony Symbolic Music.,http://arxiv.org/abs/1901.10163v1
+Complexity Driven Recombination of MIDI Loops.,http://arxiv.org/abs/1802.03115v1
+Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit.,http://arxiv.org/abs/1806.08236v2
+Probabilistic Modeling of Hierarchical Music Analysis.,http://arxiv.org/abs/1608.05347v1
+Neo-Riemannian Cycle Detection with Weighted Finite-State Transducers.,http://arxiv.org/abs/2010.01491v1
+Using Sequence Alignment and Voting to Improve Optical Music Recognition from Multiple Recognizers.,http://arxiv.org/abs/2004.10345v1
+OCR based post processing of OMR for the recovery of transposing instruments in complex orchestral scores.,http://arxiv.org/abs/1109.6862v1
+Classifying Bach's Handwritten C-Clefs.,http://arxiv.org/abs/1705.05455v1
+Automatic Pitch Detection in Printed Square Notation.,http://arxiv.org/abs/2108.10689v1
+Associations between Musicology and Music Information Retrieval.,http://arxiv.org/abs/1910.09242v1
+Potential Relationship Discovery in Tag-Aware Music Style Clustering and Artist Social Networks.,http://arxiv.org/abs/2009.08151v1
+Using Network Sciences to Rank Musicians and Composers in Brazilian Popular Music.,http://arxiv.org/abs/1908.10968v2
+Finding Community Structure in Music Genres Networks.,http://arxiv.org/abs/1201.4899v2
+"Guitar Tab Mining, Analysis and Ranking.",http://arxiv.org/abs/1603.04979v1
+A Musical Web Mining and Audio Feature Extraction Extension to The Greenstone Digital Library Software.,http://arxiv.org/abs/1212.4935v1
+Knowledge Representation Issues in Musical Instrument Ontology Design.,http://arxiv.org/abs/1810.05534v1
+The Studio Ontology Framework.,http://arxiv.org/abs/1810.04773v1
+Music Structural Segmentation by Combining Harmonic and Timbral Information.,http://arxiv.org/abs/1902.01023v1
+A Regularity-Constrained Viterbi Algorithm and Its Application to The Structural Segmentation of Songs.,http://arxiv.org/abs/1809.03395v1
+Structural Change on Multiple Time Scales as a Correlate of Musical Complexity.,http://arxiv.org/abs/1812.04832v1
+l1-Graph Based Music Structure Analysis.,http://arxiv.org/abs/2010.07518v1
+Causal Prediction of Continuous-Valued Music Features.,http://arxiv.org/abs/2002.12626v1
+Exemplar-based Assignment of Large Missing Audio Parts using String Matching on Tonal Features.,http://arxiv.org/abs/2010.06230v2
+Aligning Semi-Improvised Music Audio with Its Lead Sheet.,http://arxiv.org/abs/1707.09887v1
+Expressive Timing from Cross-Performance and Audio-based Alignment Patterns: An Extended Case Study.,http://arxiv.org/abs/1611.00918v2
+Incremental Bayesian Audio-to-Score Alignment with Flexible Harmonic Structure Models.,http://arxiv.org/abs/2110.06777v1
+Stochastic Modeling of a Musical Performance with Expressive Representations from the Musical Score.,http://arxiv.org/abs/1811.04357v1
+The Natural Language of Playlists.,http://arxiv.org/abs/1907.01098v1
+"On the Importance of ""Real"" Audio Data for MIR Algorithm Evaluation at the Note-Level - A Comparative Study.",http://arxiv.org/abs/2107.14496v1
+A Comparative Study of Collaborative vs. Traditional Musical Mood Annotation.,http://arxiv.org/abs/1905.12629v2
+Design and creation of a large-scale database of structural annotations.,http://arxiv.org/abs/1503.05656v2
+Music Structure Segmentation Algorithm Evaluation: Expanding on MIREX 2010 Analyses and Datasets.,http://arxiv.org/abs/1809.04281v3
+Music Information Robotics: Coping Strategies for Musically Challenged Robots.,http://arxiv.org/abs/2001.01720v1
+The potential for automatic assessment of trumpet tone quality.,http://arxiv.org/abs/1810.08339v2
+Elementary Sources: Latent Component Analysis for Music Composition.,http://arxiv.org/abs/1905.05805v1
+Cross-Modal Aesthetics from A Feature Extraction Perspective: A Pilot Study.,http://arxiv.org/abs/1711.10314v3
+The Million Song Dataset.,http://arxiv.org/abs/1907.04292v1
+Audio Music Similarity and Retrieval: Evaluation Power and Stability.,http://arxiv.org/abs/1312.5457v1
+MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval.,http://arxiv.org/abs/2010.16030v1
+Information Retrieval Meta-Evaluation: Challenges and Opportunities in the Music Domain.,http://arxiv.org/abs/1902.05347v1
+A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings.,http://arxiv.org/abs/1806.08686v1
+Analysis of Acoustic Features for Automated Multi-Track Mixing.,http://arxiv.org/abs/2010.10291v1
+Accelerating The Mixing Phase In Studio Recording Productions By Automatic Audio Alignment.,http://arxiv.org/abs/2101.10201v1
+An Expert Ground Truth Set for Audio Chord Recognition and Music Analysis.,http://arxiv.org/abs/1107.4969v1
+Leveraging Noisy Online Databases for Use in Chord Recognition.,http://arxiv.org/abs/1510.02078v1
+A Vocabulary-Free Infinity-Gram Model for Nonparametric Bayesian Chord Progression Analysis.,http://arxiv.org/abs/1701.04846v1
+A Feature Smoothing Method for Chord Recognition Using Recurrence Plots.,http://arxiv.org/abs/1907.02698v1
+Multiscale Scattering for Audio Classification.,http://arxiv.org/abs/1801.02013v3
+Multi-scale temporal fusion by boosting for music classification.,http://arxiv.org/abs/2104.11227v1
+Audio-based Music Classification with a Pretrained Convolutional Network.,http://arxiv.org/abs/1912.10211v5
+Music Genre Classification by Ensembles of Audio and Lyrics Features.,http://arxiv.org/abs/1808.10600v2
+Unsupervised Learning of Sparse Features for Scalable Audio Classification.,http://arxiv.org/abs/1908.09157v3
+Sparse Signal Decomposition on Hybrid Dictionaries Using Musical Priors.,http://arxiv.org/abs/1801.03815v1
+Music Genre Classification using Similarity Functions.,http://arxiv.org/abs/cs/0303025v1
+New Trends in Musical Genre Classification Using Optimum-Path Forest.,http://arxiv.org/abs/1902.03283v1
+Combining Content-Based Auto-Taggers with Decision-Fusion.,http://arxiv.org/abs/1702.08409v1
+Music Tagging with Regularized Logistic Regression.,http://arxiv.org/abs/1103.2832v1
+An Empirical Study of Multi-Label Classifiers for Music Tag Annotation.,http://arxiv.org/abs/1912.01241v1
+Semantic Annotation and Retrieval of Music using a Bag of Systems Representation.,http://arxiv.org/abs/1909.12526v1
+Temporal Pooling and Multiscale Learning for Automatic Annotation and Ranking of Music Audio.,http://arxiv.org/abs/2004.10246v1
+Music Mood Classification of Television Theme Tunes.,http://arxiv.org/abs/2002.00251v1
+Musical Moods: A Mass Participation Experiment for Affective Classification of Music.,http://arxiv.org/abs/2110.04765v1
+Modeling Dynamic Patterns for Emotional Content in Music.,http://arxiv.org/abs/1910.10489v1
+Identifying Emotion Segments in Music by Discovering Motifs in Physiological Data.,http://arxiv.org/abs/1508.00413v2
+Multi-Modal Non-Prototypical Music Mood Analysis in Continuous Space: Reliability and Performances.,http://arxiv.org/abs/2007.10695v1
+Music Emotion Classification of Chinese Songs based on Lyrics Using TF*IDF and Rhyme.,http://arxiv.org/abs/1901.04831v1
+Urgency Analysis of Audible Alarms in The Operating Room.,http://arxiv.org/abs/1112.1662v2
+Modeling Musical Emotion Dynamics with Conditional Random Fields.,http://arxiv.org/abs/1910.10489v1
+Mining the Correlation between Lyrical and Audio Features and the Emergence of Mood.,http://arxiv.org/abs/2007.04590v2
+Exploring The Relationship Between Mood and Creativity in Rock Lyrics.,http://arxiv.org/abs/1410.8749v1
+Three Current Issues In Music Autotagging.,http://arxiv.org/abs/1706.07613v2
+Survey and Evaluation of Audio Fingerprinting Schemes for Mobile Query-by-Example Applications.,http://arxiv.org/abs/2109.11424v1
+An Investigation of Musical Timbre: Uncovering Salient Semantic Descriptors and Perceptual Dimensions.,http://arxiv.org/abs/1805.08501v3
+SiMPle: Assessing Music Similarity Using Subsequences Joins.,http://arxiv.org/abs/2111.00163v1
+Score-Informed Identification of Missing and Extra Notes in Piano Recordings.,http://arxiv.org/abs/2010.07061v1
+Feature Learning for Chord Recognition: The Deep Chroma Extractor.,http://arxiv.org/abs/1612.05065v1
+Learning to Pinpoint Singing Voice from Weakly Labeled Examples.,http://arxiv.org/abs/1912.10128v1
+A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations.,http://arxiv.org/abs/1510.04029v1
+Adaptive Frequency Neural Networks for Dynamic Pulse and Metre Perception.,http://arxiv.org/abs/1612.04028v3
+An Evaluation Framework and Case Study for Rhythmic Concatenative Synthesis.,http://arxiv.org/abs/1802.03775v1
+An Ontology for Audio Features.,http://arxiv.org/abs/0902.3026v1
+Analysis and Classification of Phonation Modes In Singing.,http://arxiv.org/abs/2107.08425v1
+Analysis of Vocal Imitations of Pitch Trajectories.,http://arxiv.org/abs/1211.4788v2
+"Automatic Music Recommendation Systems: Do Demographic, Profiling, and Contextual Features Improve Their Performance?.",http://arxiv.org/abs/1905.12593v2
+Automatic Outlier Detection in Music Genre Datasets.,http://arxiv.org/abs/1905.11959v1
+AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles.,http://arxiv.org/abs/2105.05558v1
+Composer Recognition Based on 2D-Filtered Piano-Rolls.,http://arxiv.org/abs/2110.11405v2
+Conversations with Expert Users in Music Retrieval and Research Challenges for Creative MIR.,http://arxiv.org/abs/2109.02311v1
+Downbeat Tracking Using Beat Synchronous Features with Recurrent Neural Networks.,http://arxiv.org/abs/1605.08396v1
+Enhancing Cover Song Identification with Hierarchical Rank Aggregation.,http://arxiv.org/abs/2008.05640v1
+Ensemble: A Hybrid Human-Machine System for Generating Melody Scores from Audio.,http://arxiv.org/abs/math/9804027v1
+Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies.,http://arxiv.org/abs/1808.10600v2
+Further Steps Towards a Standard Testbed for Optical Music Recognition.,http://arxiv.org/abs/1004.4368v1
+Improving Voice Separation by Better Connecting Contigs.,http://arxiv.org/abs/2103.09420v1
+Integer Programming Formulation of the Problem of Generating Milton Babbitt's All-Partition Arrays.,http://arxiv.org/abs/math/0106031v1
+Integration and Quality Assessment of Heterogeneous Chord Sequences Using Data Fusion.,http://arxiv.org/abs/2002.09748v1
+Landmark-Based Audio Fingerprinting for DJ Mix Monitoring.,http://arxiv.org/abs/2101.10201v1
+Learning and Visualizing Music Specifications Using Pattern Graphs.,http://arxiv.org/abs/2007.10984v1
+Listen To Me - Don't Listen To Me: What Communities of Critics Tell Us About Music.,http://arxiv.org/abs/physics/0508233v3
+Long-Term Reverberation Modeling for Under-Determined Audio Source Separation with Application to Vocal Melody Extraction.,http://arxiv.org/abs/2010.01038v1
+Nonnegative Tensor Factorization with Frequency Modulation Cues for Blind Audio Source Separation.,http://arxiv.org/abs/1606.00037v1
+On Drum Playing Technique Detection in Polyphonic Mixtures.,http://arxiv.org/abs/1611.05182v2
+Predicting Missing Music Components with Bidirectional Long Short-Term Memory Neural Networks.,http://arxiv.org/abs/1801.10492v3
+Structural Segmentation and Visualization of Sitar and Sarod Concert Audio.,http://arxiv.org/abs/2008.00756v1
+Template-Based Vibrato Analysis in Complex Music Signals.,http://arxiv.org/abs/1606.00037v1
+Towards Evaluating Multiple Predominant Melody Annotations in Jazz Recordings.,http://arxiv.org/abs/2104.02821v2
+Joint Beat and Downbeat Tracking with Recurrent Neural Networks.,http://arxiv.org/abs/2108.03576v1
+Bayesian Meter Tracking on Learned Signal Representations.,http://arxiv.org/abs/1512.06086v1
+Tempo Estimation for Music Loops and a Simple Confidence Measure.,http://arxiv.org/abs/1106.4863v1
+Brain Beats: Tempo Extraction from EEG Data.,http://arxiv.org/abs/1810.04582v4
+A Plan for Sustainable MIR Evaluation.,http://arxiv.org/abs/1102.5752v1
+Go with the Flow: When Listeners Use Music as Technology.,http://arxiv.org/abs/1711.07224v1
+A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage.,http://arxiv.org/abs/1807.10214v1
+"A Hierarchical Bayesian Model of Chords, Pitches, and Spectrograms for Multipitch Analysis.",http://arxiv.org/abs/1312.4127v1
+A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging.,http://arxiv.org/abs/2009.07755v1
+"A Latent Representation of Users, Sessions, and Songs for Listening Behavior Analysis.",http://arxiv.org/abs/1812.03226v1
+A Methodology for Quality Assessment in Collaborative Score Libraries.,http://arxiv.org/abs/2104.06495v1
+Aligned Hierarchies: A Multi-Scale Structure-Based Representation for Music-Based Data Streams.,http://arxiv.org/abs/1001.3403v1
+Analysing Scattering-Based Music Content Analysis Systems: Where's the Music?.,http://arxiv.org/abs/2101.00132v1
+Beat Tracking with a Cepstroid Invariant Neural Network.,http://arxiv.org/abs/1501.07873v3
+Bootstrapping a System for Phoneme Recognition and Keyword Spotting in Unaccompanied Singing.,http://arxiv.org/abs/2102.04457v1
+Can Microblogs Predict Music Charts? An Analysis of the Relationship Between #Nowplaying Tweets and Music Charts.,http://arxiv.org/abs/astro-ph/9503020v2
+Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses.,http://arxiv.org/abs/1510.02556v1
+Cross-Collection Evaluation for Music Classification Tasks.,http://arxiv.org/abs/1912.01203v1
+Downbeat Detection with Conditional Random Fields and Deep Learned Features.,http://arxiv.org/abs/1906.03870v1
+"Exploiting Frequency, Periodicity and Harmonicity Using Advanced Time-Frequency Concentration Techniques for Multipitch Estimation of Choir and Symphony.",http://arxiv.org/abs/2006.00521v1
+Genre Ontology Learning: Comparing Curated with Crowd-Sourced Ontologies.,http://arxiv.org/abs/2010.06325v2
+Genre Specific Dictionaries for Harmonic/Percussive Source Separation.,http://arxiv.org/abs/1903.05600v1
+Good-sounds.org: A Framework to Explore Goodness in Instrumental Sounds.,http://arxiv.org/abs/2010.03779v1
+Improving Predictions of Derived Viewpoints in Multiple Viewpoints Systems.,http://arxiv.org/abs/2004.03143v1
+Known Artist Live Song ID: A Hashprint Approach.,http://arxiv.org/abs/1608.00222v1
+Learning Temporal Features Using a Deep Neural Network and its Application to Music Genre Classification.,http://arxiv.org/abs/1712.08370v1
+Meter Detection in Symbolic Music Using Inner Metric Analysis.,http://arxiv.org/abs/2007.02360v2
+Minimax Viterbi Algorithm for HMM-Based Guitar Fingering Decision.,http://arxiv.org/abs/2003.01803v3
+Mixtape: Direction-Based Navigation in Large Media Collections.,http://arxiv.org/abs/1605.08486v1
+Musical Note Estimation for F0 Trajectories of Singing Voices Based on a Bayesian Semi-Beat-Synchronous HMM.,http://arxiv.org/abs/1604.00192v1
+On the Evaluation of Rhythmic and Melodic Descriptors for Music Similarity.,http://arxiv.org/abs/1806.04903v1
+On the Potential of Simple Framewise Approaches to Piano Transcription.,http://arxiv.org/abs/1612.05153v1
+Phrase-Level Audio Segmentation of Jazz Improvisations Informed by Symbolic Data.,http://arxiv.org/abs/1908.09484v1
+Revisiting Priorities: Improving MIR Evaluation Practices.,http://arxiv.org/abs/2102.03261v1
+Simultaneous Separation and Segmentation in Layered Music.,http://arxiv.org/abs/1706.08564v1
+Towards Modeling and Decomposing Loop-Based Electronic Music.,http://arxiv.org/abs/1612.05050v1
+Two (Note) Heads Are Better Than One: Pen-Based Multimodal Interaction with Music Scores.,http://arxiv.org/abs/cs/0110039v1
+Analyzing Measure Annotations for Western Classical Music Recordings.,http://arxiv.org/abs/2002.09021v1
+Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music.,http://arxiv.org/abs/physics/0312061v1
+The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes.,http://arxiv.org/abs/1605.08507v2
+Learning a Feature Space for Similarity in World Music.,http://arxiv.org/abs/1806.08236v2
+Systematic Exploration of Computational Music Structure Research.,http://arxiv.org/abs/1805.09018v1
+Using Priors to Improve Estimates of Music Structure.,http://arxiv.org/abs/2108.02138v2
+Music Structural Segmentation Across Genres with Gammatone Features.,http://arxiv.org/abs/1707.04678v1
+A Comparison of Melody Extraction Methods Based on Source-Filter Modelling.,http://arxiv.org/abs/2109.09617v1
+An Analysis of Agreement in Classical Music Perception and its Relationship to Listener Characteristics.,http://arxiv.org/abs/1909.05882v2
+An Attack/Decay Model for Piano Transcription.,http://arxiv.org/abs/1707.08438v1
+Automatic Drum Transcription Using Bi-Directional Recurrent Neural Networks.,http://arxiv.org/abs/1806.06676v2
+"Automatic Practice Logging: Introduction, Dataset & Preliminary Study.",http://arxiv.org/abs/1901.11281v1
+Data-Driven Exploration of Melodic Structure in Hindustani Music.,http://arxiv.org/abs/1906.08916v1
+Deep Convolutional Networks on the Pitch Spiral For Music Instrument Recognition.,http://arxiv.org/abs/1605.06644v3
+DTV-Based Melody Cutting for DTW-Based Melody Search and Indexing in QbH Systems.,http://arxiv.org/abs/2109.09617v1
+Elucidating User Behavior in Music Services Through Persona and Gender.,http://arxiv.org/abs/2109.08005v1
+Exploring the Latent Structure of Collaborations in Music Recordings: A Case Study in Jazz.,http://arxiv.org/abs/2008.01307v1
+Global Properties of Expert and Algorithmic Hierarchical Music Analyses.,http://arxiv.org/abs/1303.6107v1
+Human-Interactive Optical Music Recognition.,http://arxiv.org/abs/2004.10345v1
+I Said it First: Topological Analysis of Lyrical Influence Networks.,http://arxiv.org/abs/1901.05227v1
+Impact of Music on Decision Making in Quantitative Tasks.,http://arxiv.org/abs/cond-mat/0406368v1
+Interactive Scores in Classical Music Production.,http://arxiv.org/abs/2006.03102v1
+Jazz Ensemble Expressive Performance Modeling.,http://arxiv.org/abs/1710.05608v1
+Mining Musical Traits of Social Functions in Native American Music.,http://arxiv.org/abs/1805.03324v1
+Mining Online Music Listening Trajectories.,http://arxiv.org/abs/1511.01032v2
+Musical Typicality: How Many Similar Songs Exist?.,http://arxiv.org/abs/1105.2344v1
+MusicDB: A Platform for Longitudinal Music Analytics.,http://arxiv.org/abs/2102.13350v1
+Noise Robust Music Artist Recognition Using I-Vector Features.,http://arxiv.org/abs/1805.02043v2
+On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music.,http://arxiv.org/abs/1707.06163v1
+Recurrent Neural Networks for Drum Transcription.,http://arxiv.org/abs/2010.03749v1
+Singing Voice Melody Transcription Using Deep Neural Networks.,http://arxiv.org/abs/2102.11058v1
+Sparse Coding Based Music Genre Classification Using Spectro-Temporal Modulations.,http://arxiv.org/abs/1802.09697v1
+"Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.",http://arxiv.org/abs/2102.05090v1
+The Significance of the Low Complexity Dimension in Music Similarity Judgements.,http://arxiv.org/abs/1701.03274v1
+Towards Computational Modeling of the Ungrammatical in a Raga Performance.,http://arxiv.org/abs/1612.00172v1
+A Collection of Music Scores for Corpus Based Jingju Singing Research.,http://arxiv.org/abs/1708.03986v1
+Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks.,http://arxiv.org/abs/2007.02683v1
+Deep Salience Representations for F0 Estimation in Polyphonic Music.,http://arxiv.org/abs/1804.02918v4
+An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets.,http://arxiv.org/abs/1809.00381v1
+Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings.,http://arxiv.org/abs/2009.01974v4
+Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database.,http://arxiv.org/abs/2103.16504v1
+The Music Listening Histories Dataset.,http://arxiv.org/abs/2102.12188v1
+"Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",http://arxiv.org/abs/2007.07177v3
+Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment.,http://arxiv.org/abs/1707.09887v1
+Video-Based Vibrato Detection and Analysis for Polyphonic String Music.,http://arxiv.org/abs/1606.00037v1
+Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis.,http://arxiv.org/abs/2105.08492v1
+Transfer Learning for Music Classification and Regression Tasks.,http://arxiv.org/abs/1703.09179v4
+Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks.,http://arxiv.org/abs/1806.06676v2
+A Formalization of Relative Local Tempo Variations in Collections of Performances.,http://arxiv.org/abs/1302.0136v1
+Sampling Variations of Sequences for Structured Music Generation.,http://arxiv.org/abs/1703.00760v1
+Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.,http://arxiv.org/abs/1509.04956v1
+Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs.,http://arxiv.org/abs/1808.05335v1
+Structured Training for Large-Vocabulary Chord Recognition.,http://arxiv.org/abs/1907.02698v1
+Modeling and Digitizing Reproducing Piano Rolls.,http://arxiv.org/abs/1606.01368v1
+Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.,http://arxiv.org/abs/1807.11440v1
+Counterpoint by Convolution.,http://arxiv.org/abs/1903.07227v1
+"A Framework for Distributed Semantic Annotation of Musical Score: ""Take It to the Bridge!"".",http://arxiv.org/abs/1910.12086v1
+A Music Player with Song Selection Function for a Group of People.,http://arxiv.org/abs/1604.02243v2
+A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning.,http://arxiv.org/abs/1302.0136v1
+A Statistical Analysis of Gamakas in Carnatic Music.,http://arxiv.org/abs/1711.02318v1
+Accurate Audio-to-Score Alignment for Expressive Violin Recordings.,http://arxiv.org/abs/1903.10205v1
+Acoustic Features for Determining Goodness of Tabla Strokes.,http://arxiv.org/abs/1601.02489v1
+Automatic Sample Detection in Polyphonic Music.,http://arxiv.org/abs/1906.10369v1
+Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields.,http://arxiv.org/abs/1810.10002v2
+Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models.,http://arxiv.org/abs/1111.1386v1
+Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application.,http://arxiv.org/abs/1703.06891v3
+Early MFCC and HPCP Fusion for Robust Cover Song Identification.,http://arxiv.org/abs/1707.04680v1
+Exploring the Music Library Association Mailing List: A Text Mining Approach.,http://arxiv.org/abs/1712.00805v2
+Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification.,http://arxiv.org/abs/2001.01033v1
+FMA: A Dataset for Music Analysis.,http://arxiv.org/abs/1612.01840v3
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation.,http://arxiv.org/abs/1703.10847v2
+Modeling Harmony with Skip-Grams.,http://arxiv.org/abs/2009.04413v1
+NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music.,http://arxiv.org/abs/1802.01008v1
+Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment.,http://arxiv.org/abs/2011.13122v1
+Piece Identification in Classical Piano Music Without Reference Scores.,http://arxiv.org/abs/1708.00733v1
+"PiPo, a Plugin Interface for Afferent Data Stream Processing Operators.",http://arxiv.org/abs/2106.12776v1
+Ranking-Based Emotion Recognition for Experimental Music.,http://arxiv.org/abs/2107.13231v1
+Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model.,http://arxiv.org/abs/1604.00192v1
+Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks.,http://arxiv.org/abs/1707.03544v1
+Towards Automatic Mispronunciation Detection in Singing.,http://arxiv.org/abs/2003.01765v1
+Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.,http://arxiv.org/abs/1503.02318v3
+A Metric for Music Notation Transcription Accuracy.,http://arxiv.org/abs/2108.10689v1
+A Multiobjective Music Recommendation Approach for Aspect-Based Diversification.,http://arxiv.org/abs/2108.00970v1
+A Study on LSTM Networks for Polyphonic Music Sequence Modelling.,http://arxiv.org/abs/2107.05546v1
+Audio to Score Matching by Combining Phonetic and Duration Information.,http://arxiv.org/abs/1707.03547v1
+Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation.,http://arxiv.org/abs/2004.08269v1
+Automatic Playlist Sequencing and Transitions.,http://arxiv.org/abs/1809.04214v1
+Automatic Stylistic Composition of Bach Chorales with Deep LSTM.,http://arxiv.org/abs/2006.13329v3
+Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test.,http://arxiv.org/abs/1103.4480v1
+Discourse Analysis of Lyric and Lyric-Based Classification of Music.,http://arxiv.org/abs/1809.01497v1
+End-to-End Optical Music Recognition Using Neural Networks.,http://arxiv.org/abs/2010.13418v2
+Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval.,http://arxiv.org/abs/1901.04831v1
+Freesound Datasets: A Platform for the Creation of Open Audio Datasets.,http://arxiv.org/abs/2008.11507v2
+From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models.,http://arxiv.org/abs/1707.06231v1
+Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences.,http://arxiv.org/abs/2010.13468v2
+High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM.,http://arxiv.org/abs/2102.12179v1
+Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation.,http://arxiv.org/abs/1711.11357v1
+Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method.,http://arxiv.org/abs/1704.03711v1
+Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme.,http://arxiv.org/abs/1709.07153v2
+Local Interpretable Model-Agnostic Explanations for Music Content Analysis.,http://arxiv.org/abs/2005.07788v1
+Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process.,http://arxiv.org/abs/2011.06380v1
+Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers.,http://arxiv.org/abs/1603.05435v1
+Onset Detection in Composition Items of Carnatic Music.,http://arxiv.org/abs/1712.02567v2
+Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music.,http://arxiv.org/abs/1811.12214v1
+The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology.,http://arxiv.org/abs/1906.10547v1
+A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration.,http://arxiv.org/abs/1810.08611v1
+Analysis of Interactive Intonation in Unaccompanied SATB Ensembles.,http://arxiv.org/abs/2008.07645v1
+Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks.,http://arxiv.org/abs/2108.02625v1
+Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data.,http://arxiv.org/abs/1811.02406v1
+Chord Generation from Symbolic Melody Using BLSTM Networks.,http://arxiv.org/abs/1712.01011v1
+Cover Song Identification with Metric Learning Using Distance as a Feature.,http://arxiv.org/abs/1407.2433v3
+Examining Musical Meaning in Similarity Thresholds.,http://arxiv.org/abs/1712.01781v1
+Exploring Tonal-Dramatic Relationships in Richard Wagner's Ring Cycle.,http://arxiv.org/abs/1504.05610v1
+Feature Discovery for Sequential Prediction of Monophonic Music.,http://arxiv.org/abs/1911.11775v3
+Generating Nontrivial Melodies for Music as a Service.,http://arxiv.org/abs/1710.02280v1
+Geographical Origin Prediction of Folk Music Recordings from the United Kingdom.,http://arxiv.org/abs/0802.2178v2
+In Search of the Consensus Among Musical Pattern Discovery Algorithms.,http://arxiv.org/abs/2010.12325v1
+Informed Automatic Meter Analysis of Music Recordings.,http://arxiv.org/abs/2101.10201v1
+Intelligibility of Sung Lyrics: A Pilot Study.,http://arxiv.org/abs/1712.00334v1
+Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network.,http://arxiv.org/abs/1707.04678v1
+Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio.,http://arxiv.org/abs/1707.06163v1
+Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music.,http://arxiv.org/abs/1909.01421v1
+Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences.,http://arxiv.org/abs/1507.08761v1
+"One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks.",http://arxiv.org/abs/1707.06828v2
+Optical Music Recognition with Convolutional Sequence-to-Sequence Models.,http://arxiv.org/abs/1707.04877v1
+Re-Visiting the Music Segmentation Problem with Crowdsourcing.,http://arxiv.org/abs/math/9909103v1
+Singing Voice Separation with Deep U-Net Convolutional Networks.,http://arxiv.org/abs/2102.11058v1
+Sketching Sonata Form Structure in Selected Classical String Quartets.,http://arxiv.org/abs/0809.3023v1
+Image Quality Estimation for Multi-Score OMR.,http://arxiv.org/abs/2106.10992v1
+Comparative Music Similarity Modelling Using Transfer Learning Across User Groups.,http://arxiv.org/abs/2002.09021v1
+Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features.,http://arxiv.org/abs/0907.3220v1
+Cover Song Identification with Timbral Shape Sequences.,http://arxiv.org/abs/1507.05143v1
+On the Impact of Key Detection Performance for Identifying Classical Music Styles.,http://arxiv.org/abs/1706.08928v1
+Chord Detection Using Deep Learning.,http://arxiv.org/abs/1810.09113v1
+Temporal Music Context Identification with User Listening Data.,http://arxiv.org/abs/2004.10246v1
+Improving Music Recommendations with a Weighted Factorization of the Tagging Activity.,http://arxiv.org/abs/1805.11878v1
+An Efficient State-Space Model for Joint Tempo and Meter Tracking.,http://arxiv.org/abs/2111.00704v1
+Automatic Handwritten Mensural Notation Interpreter: From Manuscript to MIDI Performance.,http://arxiv.org/abs/1811.07747v1
+Infinite Superimposed Discrete All-Pole Modeling for Multipitch Analysis of Wavelet Spectrograms.,http://arxiv.org/abs/1701.07010v6
+Melodic Similarity in Traditional French-Canadian Instrumental Dance Tunes.,http://arxiv.org/abs/1811.05688v1
+A Semantic-Based Approach for Artist Similarity.,http://arxiv.org/abs/2107.14541v1
+Predicting Pairwise Pitch Contour Relations Based on Linguistic Tone Information in Beijing Opera Singing.,http://arxiv.org/abs/1912.12010v1
+Song2Quartet: A System for Generating String Quartet Cover Songs from Polyphonic Audio of Popular Music.,http://arxiv.org/abs/1910.12086v1
+Exploring Data Augmentation for Improved Singing Voice Detection with Neural Networks.,http://arxiv.org/abs/2008.04482v1
+Audio Chord Recognition with a Hybrid Recurrent Neural Network.,http://arxiv.org/abs/2105.07019v2
+Design and Evaluation of a Probabilistic Music Projection Interface.,http://arxiv.org/abs/2010.06524v1
+Conceptual Blending in Music Cadences: A Formal Model and Subjective Evaluation.,http://arxiv.org/abs/1810.07632v1
+Harmonic-Percussive Source Separation Using Harmonicity and Sparsity Constraints.,http://arxiv.org/abs/1712.08130v1
+A Hierarchical Bayesian Framework for Score-Informed Source Separation of Piano Music Signals.,http://arxiv.org/abs/2010.07061v1
+Automatic Tune Family Identification by Musical Sequence Alignment.,http://arxiv.org/abs/2012.05168v1
+Evaluation of Album Effect for Feature Selection in Music Genre Recognition.,http://arxiv.org/abs/1707.04916v1
+Music Pattern Discovery with Variable Markov Oracle: A Unified Approach to Symbolic and Audio Representations.,http://arxiv.org/abs/1811.08380v3
+Data Usage in MIR: History & Future Recommendations,http://arxiv.org/abs/1103.5046v1
+Music Performance Analysis: A Survey,http://arxiv.org/abs/1907.00178v1
+Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come,http://arxiv.org/abs/1308.5034v3
+20 Years of Automatic Chord Recognition from Audio,http://arxiv.org/abs/2101.03553v1
+Zero-shot Learning for Audio-based Music Classification and Tagging,http://arxiv.org/abs/1910.08732v1
+Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition,http://arxiv.org/abs/1703.04824v1
+An Attention Mechanism for Musical Instrument Recognition,http://arxiv.org/abs/1907.04294v1
+MIDI-Sheet Music Alignment Using Bootleg Score Synthesis,http://arxiv.org/abs/2004.10345v1
+mirdata: Software for Reproducible Usage of Datasets,http://arxiv.org/abs/2103.09672v1
+Cover Detection Using Dominant Melody Embeddings,http://arxiv.org/abs/1907.01824v1
+Identifying Expressive Semantics in Orchestral Conducting Kinematics,http://arxiv.org/abs/1401.6122v1
+The RomanText Format: A Flexible and Standard Method for Representing Roman Numerial Analyses,http://arxiv.org/abs/1901.05372v2
+20 Years of Playlists: A Statistical Analysis on Popularity and Diversity,http://arxiv.org/abs/2101.03553v1
+Identification and Cross-Document Alignment of Measures in Music Score Images,http://arxiv.org/abs/1707.09887v1
+"Query-by-Blending: A Music Exploration System Blending Latent Vector Representations of Lyric Word, Song Audio, and Artist",http://arxiv.org/abs/2106.01960v1
+Improving Structure Evaluation Through Automatic Hierarchy Expansion,http://arxiv.org/abs/1706.01214v1
+Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations,http://arxiv.org/abs/2003.10414v3
+An Initial Computational Model for Musical Schemata Theory,http://arxiv.org/abs/cs/0107029v1
+Evolution of the Informational Complexity of Contemporary Western Music,http://arxiv.org/abs/1205.5651v1
+Deep Unsupervised Drum Transcription,http://arxiv.org/abs/1906.03697v2
+Estimating Unobserved Audio Features for Target-Based Orchestration,http://arxiv.org/abs/2108.00771v1
+Towards Automatically Correcting Tapped Beat Annotations for Music Recordings,http://arxiv.org/abs/1710.05608v1
+Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation,http://arxiv.org/abs/2011.06801v1
+Learning Soft-Attention Models for Tempo-invariant Audio-Sheet Music Retrieval,http://arxiv.org/abs/2103.06125v1
+Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music,http://arxiv.org/abs/0911.1288v1
+Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast,http://arxiv.org/abs/2102.09959v1
+Towards Explainable Music Emotion Recognition: The Route via Mid-level Features,http://arxiv.org/abs/1907.03572v1
+Community-Based Cover Song Detection,http://arxiv.org/abs/1808.10351v1
+Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning,http://arxiv.org/abs/1710.05608v1
+Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition,http://arxiv.org/abs/1603.08904v4
+"Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model",http://arxiv.org/abs/2010.07518v1
+Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste,http://arxiv.org/abs/1904.05086v1
+Guitar Tablature Estimation with a Convolutional Neural Network,http://arxiv.org/abs/2012.03216v1
+Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice,http://arxiv.org/abs/1906.11139v1
+Augmenting Music Listening Experiences on Voice Assistants,http://arxiv.org/abs/2004.10246v1
+Coupled Recurrent Models for Polyphonic Music Composition,http://arxiv.org/abs/1811.08045v2
+Hit Song Prediction: Leveraging Low- and High-Level Audio Features,http://arxiv.org/abs/1905.08076v1
+Da-TACOS: A Dataset for Cover Song Identification and Understanding,http://arxiv.org/abs/1507.05143v1
+Harmonic Syntax in Time: Rhythm Improves Grammatical Models of Harmony,http://arxiv.org/abs/1908.00003v1
+Learning to Traverse Latent Spaces for Musical Score Inpainting,http://arxiv.org/abs/1907.01164v1
+Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music,http://arxiv.org/abs/1707.06163v1
+"The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale",http://arxiv.org/abs/1901.03060v2
+Data-Driven Song Recognition Estimation Using Collective Memory Dynamics Models,http://arxiv.org/abs/1904.13080v1
+Towards Interpretable Polyphonic Transcription with Invertible Neural Networks,http://arxiv.org/abs/1909.01622v1
+Learning to Generate Music With Sentiment,http://arxiv.org/abs/2103.06125v1
+Backtracking Search Heuristics for Solving the All-partition Array Problem,http://arxiv.org/abs/cs/9308101v1
+Modeling and Learning Structural Breaks in Sonata Forms,http://arxiv.org/abs/1706.09088v2
+Auto-adaptive Resonance Equalization using Dilated Residual Networks,http://arxiv.org/abs/2106.13227v1
+Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach,http://arxiv.org/abs/1810.10814v1
+A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity,http://arxiv.org/abs/2105.05385v1
+JosquIntab: A Dataset for Content-based Computational Analysis of Music in Lute Tablature,http://arxiv.org/abs/2107.14653v1
+A Dataset of Rhythmic Pattern Reproductions and Baseline Automatic Assessment System,http://arxiv.org/abs/2109.04440v1
+Self-Supervised Methods for Learning Semantic Similarity in Music,http://arxiv.org/abs/2111.01710v1
+Blending Acoustic and Language Model Predictions for Automatic Music Transcription,http://arxiv.org/abs/1909.10200v2
+Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar,http://arxiv.org/abs/1501.02038v1
+A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction,http://arxiv.org/abs/2107.05546v1
+Learning Similarity Metrics for Melody Retrieval,http://arxiv.org/abs/1606.04930v1
+Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other,http://arxiv.org/abs/1805.00287v1
+Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?,http://arxiv.org/abs/2102.13350v1
+"AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing",http://arxiv.org/abs/1905.08076v1
+Microtiming Analysis in Traditional Shetland Fiddle Music,http://arxiv.org/abs/1710.05608v1
+SUPRA: Digitizing the Stanford University Piano Roll Archive,http://arxiv.org/abs/1408.1718v2
+Fast and Flexible Neural Audio Synthesis,http://arxiv.org/abs/2106.03037v1
+DeepSRGM - Sequence Classification and Ranking in Indian Classical Music Via Deep Learning,http://arxiv.org/abs/2102.00616v1
+Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN,http://arxiv.org/abs/1906.07145v1
+Convolutional Composer Classification,http://arxiv.org/abs/1911.11737v1
+A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation,http://arxiv.org/abs/1703.04824v1
+"The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music",http://arxiv.org/abs/2108.00970v1
+FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing,http://arxiv.org/abs/1005.4014v1
+Automatic Assessment of Sight-reading Exercises,http://arxiv.org/abs/1906.05657v1
+Supervised Symbolic Music Style Translation Using Synthetic Data,http://arxiv.org/abs/1907.02265v1
+Deep Music Analogy Via Latent Representation Disentanglement,http://arxiv.org/abs/1906.03626v4
+Query by Video: Cross-modal Music Retrieval,http://arxiv.org/abs/2004.03661v1
+Investigating CNN-based Instrument Family Recognition for Western Classical Music Recordings,http://arxiv.org/abs/2002.09021v1
+A Bi-Directional Transformer for Musical Chord Recognition,http://arxiv.org/abs/1907.02698v1
+SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis,http://arxiv.org/abs/1612.08727v3
+Deep-Rhythm for Global Tempo Estimation in Music,http://arxiv.org/abs/2006.07634v2
+Large-vocabulary Chord Transcription Via Chord Structure Decomposition,http://arxiv.org/abs/1606.01446v1
+"BandNet: A Neural Network-based, Multi-Instrument Beatles-Style MIDI Music Composition Machine",http://arxiv.org/abs/1812.07126v1
+Can We Listen To It Together?: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior ,http://arxiv.org/abs/1705.09439v1
+Adversarial Learning for Improved Onsets and Frames Music Transcription,http://arxiv.org/abs/1906.08512v1
+Automatic Music Transcription and Ethnomusicology: a User Study,http://arxiv.org/abs/1909.10200v2
+LakhNES: Improving Multi-instrumental Music Generation with Cross-domain Pre-training,http://arxiv.org/abs/1907.04868v1
+"Taking Form: A Representation Standard, Conversion Code, and Example Corpora for Recording, Visualizing, and Studying Analyses of Musical Form",http://arxiv.org/abs/1306.6412v1
+Learning Complex Basis Functions for Invariant Representations of Audio,http://arxiv.org/abs/1907.05982v1
+Folded CQT RCNN For Real-time Recognition of Instrument Playing Techniques,http://arxiv.org/abs/1608.01963v1
+humdrumR: a New Take on an Old Approach to Computational Musicology,http://arxiv.org/abs/0912.4881v1
+Tunes Together: Perception and Experience of Collaborative Playlists,http://arxiv.org/abs/1407.3487v1
+A Holistic Approach to Polyphonic Music Transcription with Neural Networks,http://arxiv.org/abs/1910.12086v1
+Generalized Metrics for Single-f0 Estimation Evaluation,http://arxiv.org/abs/2011.00754v3
+Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders,http://arxiv.org/abs/1906.08152v2
+The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications,http://arxiv.org/abs/1911.11775v3
+Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations,http://arxiv.org/abs/1906.00657v1
+A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music,http://arxiv.org/abs/1910.07394v1
+Mapping Timing Strategies in Drum Performance,http://arxiv.org/abs/cond-mat/9807307v1
+Improving Singing Aid System for Laryngectomees With Statistical Voice Conversion and VAE-SPACE,http://arxiv.org/abs/2008.03009v1
+Approachable Music Composition with Machine Learning at Scale,http://arxiv.org/abs/1907.06637v1
+Scalable Searching and Ranking  for Melodic Pattern Queries,http://arxiv.org/abs/1912.00245v1
+Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals,http://arxiv.org/abs/1811.07110v1
+Controlling Symbolic Music Generation based on Concept Learning from Domain Knowledge,http://arxiv.org/abs/2109.00663v1
+Unmixer: An Interface for Extracting and Remixing Loops,http://arxiv.org/abs/2106.14177v1
+Quantifying Disruptive Influence in the AllMusic Guide,http://arxiv.org/abs/2008.04649v1
+Leveraging knowledge bases and parallel annotations for music genre translation,http://arxiv.org/abs/1907.08698v2
+Generating Structured Drum Pattern Using Variational Autoencoder and Self-similarity Matrix,http://arxiv.org/abs/2107.05009v1
+Rendering Music Performance With Interpretation Variations Using Conditional Variational RNN,http://arxiv.org/abs/1808.00362v1
+An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats,http://arxiv.org/abs/2108.01769v1
+Quantifying Musical Style: Ranking Symbolic Music based on Similarity to a Style,http://arxiv.org/abs/2003.06226v1
+Audio Query-based Music Source Separation,http://arxiv.org/abs/2107.06467v1
+Mosaic Style Transfer Using Sparse Autocorrelograms,http://arxiv.org/abs/1902.02806v1
+Automatic Choreography Generation with Convolutional Encoder-decoder Network,http://arxiv.org/abs/1708.08201v2
+Hierarchical Classification Networks for Singing Voice Segmentation and Transcription,http://arxiv.org/abs/1806.01665v1
+VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance,http://arxiv.org/abs/2107.05944v1
+MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music,http://arxiv.org/abs/2004.10347v1
+A Convolutional Approach to Melody Line Identification in Symbolic Scores,http://arxiv.org/abs/1906.10547v1
+A Confidence Measure For Key Labelling,http://arxiv.org/abs/2011.00792v1
+Improved Chord Recognition by Combining Duration and Harmonic Language Models,http://arxiv.org/abs/1808.05335v1
+Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks,http://arxiv.org/abs/1911.04973v2
+A Predictive Model for Music based on Learned Interval Representations,http://arxiv.org/abs/1806.08686v1
+An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts,http://arxiv.org/abs/1612.05070v1
+Evaluating Automatic Polyphonic Music Transcription,http://arxiv.org/abs/2004.07171v1
+Onsets and Frames: Dual-Objective Piano Transcription,http://arxiv.org/abs/1710.11153v2
+Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription,http://arxiv.org/abs/2008.12401v1
+Influence in Early Electronic Dance Music: An Audio Content Analysis Investigation.,http://arxiv.org/abs/2107.06252v2
+Association Mining of Folk Music Genres and Toponyms.,http://arxiv.org/abs/1906.12324v1
+Characterization of Embellishments in Ney Performances of Makam Music in Turkey.,http://arxiv.org/abs/1912.12362v1
+Cross-cultural Music Mood Classification: A Comparison on English and Chinese Songs.,http://arxiv.org/abs/2108.00768v1
+Towards a (Better) Definition of the Description of Annotated MIR Corpora.,http://arxiv.org/abs/1904.12213v1
+Modeling Musical Mood From Audio Features and Listening Context on an In-Situ Data Set.,http://arxiv.org/abs/2010.11512v1
+Analyzing Drum Patterns Using Conditional Deep Belief Networks.,http://arxiv.org/abs/1909.01098v1
+N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data.,http://arxiv.org/abs/1612.09213v1
+Evaluating the Online Capabilities of Onset Detection Methods.,http://arxiv.org/abs/2105.10448v1
+Structure-Based Audio Fingerprinting for Music Retrieval.,http://arxiv.org/abs/2101.00132v1
+Bridging Printed Music and Audio Through Alignment Using a Mid-level Score Representation.,http://arxiv.org/abs/2103.14895v1
+Real-time Online Singing Voice Separation from Monaural Recordings Using Robust Low-rank Modeling.,http://arxiv.org/abs/1810.09558v1
+Folksonomy-based Tag Recommendation for Online Audio Clip Sharing.,http://arxiv.org/abs/1610.01797v1
+Infinite Composite Autoregressive Models for Music Signal Analysis.,http://arxiv.org/abs/1701.07010v6
+Professionally-produced Music Separation Guided by Covers.,http://arxiv.org/abs/2102.02028v1
+Bayesian Nonnegative Harmonic-Temporal Factorization and Its Application to Multipitch Analysis.,http://arxiv.org/abs/1002.2080v1
+A Scape Plot Representation for Visualizing Repetitive Structures of Music Recordings.,http://arxiv.org/abs/2008.01307v1
+A Systematic Comparison of Music Similarity Adaptation Approaches.,http://arxiv.org/abs/1712.00334v1
+Using Hyper-genre Training to Explore Genre Information for Automatic Chord Estimation.,http://arxiv.org/abs/1709.07153v2
+Semi-supervised NMF with Time-frequency Annotations for Single-channel Source Separation.,http://arxiv.org/abs/1204.1685v2
+Neon.js: Neume Editor Online.,http://arxiv.org/abs/2107.06423v3
+Modeling Chord and Key Structure with Markov Logic.,http://arxiv.org/abs/1708.02255v3
+A Geometric Language for Representing Structure in Polyphonic Music.,http://arxiv.org/abs/2008.07118v1
+Unsupervised Learning of Local Features for Music Classification.,http://arxiv.org/abs/2108.12955v1
+Modeling Piano Interpretation Using Switching Kalman Filter.,http://arxiv.org/abs/1803.08503v1
+Interpreting Rhythm in Optical Music Recognition.,http://arxiv.org/abs/2106.02556v2
+Assigning a Confidence Threshold on Automatic Beat Annotation in Large Datasets.,http://arxiv.org/abs/2104.05741v1
+A Corpus-based Study of Rhythm Patterns.,http://arxiv.org/abs/2109.10256v1
+"One in the Jungle: Downbeat Detection in Hardcore, Jungle, and Drum and Bass.",http://arxiv.org/abs/1502.06984v3
+A MIREX Meta-analysis of Hubness in Audio Music Similarity.,http://arxiv.org/abs/1806.08236v2
+How Significant is Statistically Significant? The case of Audio Music Similarity and Retrieval.,http://arxiv.org/abs/1711.08976v2
+Statistical Characterisation of Melodic Pitch Contours and its Application for Melody Extraction.,http://arxiv.org/abs/1510.04039v1
+Detecting Melodic Motifs from Audio for Hindustani Classical Music.,http://arxiv.org/abs/1906.08916v1
+Characterization of Intonation in Carnatic Music by Parametrizing Pitch Histograms.,http://arxiv.org/abs/1711.02318v1
+Discriminative Non-negative Matrix Factorization for Multiple Pitch Estimation.,http://arxiv.org/abs/2010.13297v1
+A Feature Relevance Study for Guitar Tone Classification.,http://arxiv.org/abs/1711.01946v1
+String Methods for Folk Tune Genre Classification.,http://arxiv.org/abs/2104.08388v1
+A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr.,http://arxiv.org/abs/2009.10128v1
+Polyphonic Music Classification on Symbolic Data Using Dissimilarity Functions.,http://arxiv.org/abs/1910.12086v1
+"Semiotic Structure Labeling of Music Pieces: Concepts, Methods and Annotation Conventions.",http://arxiv.org/abs/1604.02790v1
+Large-Scale Cover Song Recognition Using the 2D Fourier Transform Magnitude.,http://arxiv.org/abs/1903.06396v2
+Creating Ground Truth for Audio Key Finding: When the Title Key May Not Be the Key.,http://arxiv.org/abs/2106.01485v1
+Understanding User Requirements for Music Information Services.,http://arxiv.org/abs/1511.07004v1
+The Impact of MIREX on Scholarly Research (2005 - 2010).,http://arxiv.org/abs/2012.04908v1
+An Emotion Model for Music Using Brain Waves.,http://arxiv.org/abs/2101.02051v1
+Music Structure Analysis by Ridge Regression of Beat-synchronous Audio Features.,http://arxiv.org/abs/2110.09000v1
+Score-Informed Leading Voice Separation from Monaural Audio.,http://arxiv.org/abs/1802.00300v1
+On Measuring Syncopation to Drive an Interactive Music System.,http://arxiv.org/abs/1609.02049v1
+Current Challenges in the Evaluation of Predominant Melody Extraction Algorithms.,http://arxiv.org/abs/2110.07419v1
+Improving Audio Chord Transcription by Exploiting Harmonic and Metric Knowledge.,http://arxiv.org/abs/1808.05335v1
+Reducing Tempo Octave Errors by Periodicity Vector Coding And SVM Learning.,http://arxiv.org/abs/1903.09056v1
+Context-free 2D Tree Structure Model of Musical Notes for Bayesian Modeling of Polyphonic Spectrograms.,http://arxiv.org/abs/2008.07118v1
+Compressing Music Recordings into Audio Summaries.,http://arxiv.org/abs/1112.5493v1
+Second Fiddle is Important Too: Pitch Tracking Individual Voices in Polyphonic Music.,http://arxiv.org/abs/1910.12086v1
+Feature Learning in Dynamic Environments: Modeling the Acoustic Structure of Musical Emotion.,http://arxiv.org/abs/2102.13479v1
+User-centered Measures vs. System Effectiveness in Finding Similar Songs.,http://arxiv.org/abs/1810.06313v1
+Towards Time-resilient MIR Processes.,http://arxiv.org/abs/2009.02051v1
+Hypergraph Models of Playlist Dialects.,http://arxiv.org/abs/1908.10784v2
+Learning to Embed Songs and Tags for Playlist Prediction.,http://arxiv.org/abs/1705.08283v3
+Extracting Semantic Information from an Online Carnatic Music Forum.,http://arxiv.org/abs/1907.06076v1
+Ranking Lyrics for Online Search.,http://arxiv.org/abs/2012.04426v1
+The Role Of Music in the Lives of Homeless Young People: A Preliminary Report.,http://arxiv.org/abs/1710.06905v1
+A Survey on Music Listening and Management Behaviours.,http://arxiv.org/abs/1907.00178v1
+Automatic Music Transcription: Breaking the Glass Ceiling.,http://arxiv.org/abs/2004.07171v1
+Putting the User in the Center of Music Information Retrieval.,http://arxiv.org/abs/0906.5286v1
+The Impact (or Non-impact) of User Studies in Music Information Retrieval.,http://arxiv.org/abs/2102.12188v1
+Mel Cepstrum &amp; Ann Ova: The Difficult Dialog Between MIR and Music Cognition.,http://arxiv.org/abs/2010.11672v1
+Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics.,http://arxiv.org/abs/2110.05043v1
+"Reuse, Remix, Repeat: the Workflows of MIR.",http://arxiv.org/abs/1203.0061v1
+Multi-Template Shift-Variant Non-Negative Matrix Deconvolution for Semi-Automatic Music Transcription.,http://arxiv.org/abs/2107.11250v1
+Tracking Melodic Patterns in Flamenco Singing by Analyzing Polyphonic Music Recordings.,http://arxiv.org/abs/1510.04039v1
+A Cross-version Approach for Stabilizing Tempo-based Novelty Detection.,http://arxiv.org/abs/2108.11168v1
+Fast Identification of Piece and Score Position via Symbolic Fingerprinting.,http://arxiv.org/abs/1708.00733v1
+"A Multimedia Search and Navigation Prototype, Including Music and Video-clips.",http://arxiv.org/abs/2008.00781v2
+Chord Recognition Using Duration-explicit Hidden Markov Models.,http://arxiv.org/abs/2005.07091v2
+Finding Repeating Stanzas in Folk Songs.,http://arxiv.org/abs/2007.09811v1
+Detecting Episodes with Harmonic Sequences for Fugue Analysis.,http://arxiv.org/abs/1511.01233v3
+Inferring Chord Sequence Meanings via Lyrics: Process and Evaluation.,http://arxiv.org/abs/1706.08609v2
+Facilitating Comprehensive Benchmarking Experiments on the Million Song Dataset.,http://arxiv.org/abs/1712.02289v1
+Decoding Tempo and Timing Variations in Music Recordings from Beat Annotations.,http://arxiv.org/abs/1710.05608v1
+Unsupervised Chord-Sequence Generation from an Audio Example.,http://arxiv.org/abs/2110.03209v1
+Listening Level Changes Music Similarity.,http://arxiv.org/abs/2009.09935v1
+Pitch Content Visualization Tools for Music Performance Analysis.,http://arxiv.org/abs/2110.05033v2
+A Multipitch Approach to Tonic Identification in Indian Classical Music.,http://arxiv.org/abs/1912.03769v1
+Separating Presentation and Content in MEI.,http://arxiv.org/abs/2003.13128v4
+A Study of Intonation in Three-Part Singing using the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT).,http://arxiv.org/abs/2002.05511v1
+Influence of Peak Selection Methods on Onset Detection.,http://arxiv.org/abs/1311.6636v1
+Evaluation of Musical Features for Emotion Classification.,http://arxiv.org/abs/1806.09010v1
+BLAST for Audio Sequences Alignment: A Fast Scalable Cover Identification Tool.,http://arxiv.org/abs/1209.6129v1
+A Cross-cultural Study of Music Mood Perception between American and Chinese Listeners.,http://arxiv.org/abs/1308.1817v1
+Shortest Path Techniques for Annotation and Retrieval of Environmental Sounds.,http://arxiv.org/abs/1309.0874v1
+Multivariate Autoregressive Mixture Models for Music Auto-Tagging.,http://arxiv.org/abs/2103.08028v2
+Building Musically-relevant Audio Features through Multiple Timescale Representations.,http://arxiv.org/abs/2111.03945v2
+A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals.,http://arxiv.org/abs/1912.02606v2
+Learning Sparse Feature Representations for Music Annotation and Retrieval.,http://arxiv.org/abs/1710.06648v2
+Score Analyzer: Automatically Determining Scores Difficulty Level for Instrumental e-Learning.,http://arxiv.org/abs/2104.01622v1
+Digital Document Image Retrieval Using Optical Music Recognition.,http://arxiv.org/abs/0903.5045v1
+Music/Voice Separation Using the Similarity Matrix.,http://arxiv.org/abs/1306.3108v2
+Breathy or Resonant - A Controlled and Curated Dataset for Phonation Mode Detection in Singing.,http://arxiv.org/abs/2107.08425v1
+Robust Singer Identification in Polyphonic Music using Melody Enhancement and Uncertainty-based Learning.,http://arxiv.org/abs/2110.07419v1
+Predominant Fundamental Frequency Estimation vs Singing Voice Separation for the Automatic Transcription of Accompanied Flamenco Singing.,http://arxiv.org/abs/1510.04039v1
