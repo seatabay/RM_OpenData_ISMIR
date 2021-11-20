@@ -1,0 +1,98 @@
+titles,code
+"Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.",True
+The Significance of the Low Complexity Dimension in Music Similarity Judgements.,
+Towards Computational Modeling of the Ungrammatical in a Raga Performance.,
+A Collection of Music Scores for Corpus Based Jingju Singing Research.,True
+Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks.,True
+Deep Salience Representations for F0 Estimation in Polyphonic Music.,True
+An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets.,True
+Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings.,
+Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database.,True
+The Music Listening Histories Dataset.,
+"Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",
+Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment.,
+Video-Based Vibrato Detection and Analysis for Polyphonic String Music.,
+Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis.,True
+Transfer Learning for Music Classification and Regression Tasks.,True
+Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks.,
+A Formalization of Relative Local Tempo Variations in Collections of Performances.,True
+Sampling Variations of Sequences for Structured Music Generation.,
+Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.,
+Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs.,
+Structured Training for Large-Vocabulary Chord Recognition.,True
+Modeling and Digitizing Reproducing Piano Rolls.,
+Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.,
+Counterpoint by Convolution.,True
+"A Framework for Distributed Semantic Annotation of Musical Score: ""Take It to the Bridge!"".",
+A Music Player with Song Selection Function for a Group of People.,True
+A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning.,
+A Statistical Analysis of Gamakas in Carnatic Music.,
+Accurate Audio-to-Score Alignment for Expressive Violin Recordings.,
+Acoustic Features for Determining Goodness of Tabla Strokes.,
+Automatic Sample Detection in Polyphonic Music.,
+Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields.,
+Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models.,
+Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application.,
+Early MFCC and HPCP Fusion for Robust Cover Song Identification.,
+Exploring the Music Library Association Mailing List: A Text Mining Approach.,
+Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification.,
+FMA: A Dataset for Music Analysis.,True
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation.,True
+Modeling Harmony with Skip-Grams.,
+NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music.,
+Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment.,
+Piece Identification in Classical Piano Music Without Reference Scores.,
+"PiPo, a Plugin Interface for Afferent Data Stream Processing Operators.",True
+Ranking-Based Emotion Recognition for Experimental Music.,
+Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model.,
+Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks.,True
+Towards Automatic Mispronunciation Detection in Singing.,
+Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.,True
+A Metric for Music Notation Transcription Accuracy.,True
+A Multiobjective Music Recommendation Approach for Aspect-Based Diversification.,True
+A Study on LSTM Networks for Polyphonic Music Sequence Modelling.,
+Audio to Score Matching by Combining Phonetic and Duration Information.,
+Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation.,True
+Automatic Playlist Sequencing and Transitions.,
+Automatic Stylistic Composition of Bach Chorales with Deep LSTM.,True
+Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test.,
+Discourse Analysis of Lyric and Lyric-Based Classification of Music.,
+End-to-End Optical Music Recognition Using Neural Networks.,
+Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval.,
+Freesound Datasets: A Platform for the Creation of Open Audio Datasets.,
+From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models.,
+Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences.,
+High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM.,
+Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation.,
+Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method.,True
+Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme.,True
+Local Interpretable Model-Agnostic Explanations for Music Content Analysis.,
+Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process.,
+Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers.,
+Onset Detection in Composition Items of Carnatic Music.,
+Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music.,
+The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology.,
+"""I'm at #Osheaga!"": Listening to the Backchannel of a Music Festival on Twitter.",
+A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration.,True
+Analysis of Interactive Intonation in Unaccompanied SATB Ensembles.,True
+Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks.,True
+Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data.,True
+Chord Generation from Symbolic Melody Using BLSTM Networks.,
+Cover Song Identification with Metric Learning Using Distance as a Feature.,
+Examining Musical Meaning in Similarity Thresholds.,
+Exploring Tonal-Dramatic Relationships in Richard Wagner's Ring Cycle.,
+Feature Discovery for Sequential Prediction of Monophonic Music.,
+Generating Nontrivial Melodies for Music as a Service.,
+Geographical Origin Prediction of Folk Music Recordings from the United Kingdom.,
+In Search of the Consensus Among Musical Pattern Discovery Algorithms.,True
+Informed Automatic Meter Analysis of Music Recordings.,
+Intelligibility of Sung Lyrics: A Pilot Study.,
+Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network.,True
+Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio.,True
+Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music.,
+Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences.,
+"One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks.",
+Optical Music Recognition with Convolutional Sequence-to-Sequence Models.,
+Re-Visiting the Music Segmentation Problem with Crowdsourcing.,True
+Singing Voice Separation with Deep U-Net Convolutional Networks.,
+Sketching Sonata Form Structure in Selected Classical String Quartets.,

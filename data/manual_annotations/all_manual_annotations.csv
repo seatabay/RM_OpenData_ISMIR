@@ -1,0 +1,1097 @@
+titles,code
+,False
+"Multi-Label Music Genre Classification from Audio, Text and Images Using Deep Features.",True
+The Significance of the Low Complexity Dimension in Music Similarity Judgements.,False
+Towards Computational Modeling of the Ungrammatical in a Raga Performance.,False
+A Collection of Music Scores for Corpus Based Jingju Singing Research.,True
+Monaural Score-Informed Source Separation for Classical Music Using Convolutional Neural Networks.,True
+Deep Salience Representations for F0 Estimation in Polyphonic Music.,True
+An Analysis/Synthesis Framework for Automatic F0 Annotation of Multitrack Datasets.,True
+Make Your Own Accompaniment: Adapting Full-Mix Recordings to Match Solo-Only User Recordings.,False
+Quantifying Music Trends and Facts Using Editorial Metadata from the Discogs Database.,True
+The Music Listening Histories Dataset.,False
+"Artist Preferences and Cultural, Socio-Economic Distances Across Countries: A Big Data Perspective.",False
+Learning Audio-Sheet Music Correspondences for Score Identification and Offline Alignment.,False
+Video-Based Vibrato Detection and Analysis for Polyphonic String Music.,False
+Decoding Neurally Relevant Musical Features Using Canonical Correlation Analysis.,True
+Transfer Learning for Music Classification and Regression Tasks.,True
+Drum Transcription via Joint Beat and Drum Modeling Using Convolutional Recurrent Neural Networks.,False
+A Formalization of Relative Local Tempo Variations in Collections of Performances.,True
+Sampling Variations of Sequences for Structured Music Generation.,False
+Quantized Melodic Contours in Indian Art Music Perception: Application to Transcription.,False
+Modeling the Multiscale Structure of Chord Sequences Using Polytopic Graphs.,False
+Structured Training for Large-Vocabulary Chord Recognition.,True
+Modeling and Digitizing Reproducing Piano Rolls.,False
+Comparing Offertory Melodies of Five Medieval Christian Chant Traditions.,False
+Counterpoint by Convolution.,True
+"A Framework for Distributed Semantic Annotation of Musical Score: ""Take It to the Bridge!"".",False
+A Music Player with Song Selection Function for a Group of People.,True
+A Post-Processing Procedure for Improving Music Tempo Estimates Using Supervised Learning.,False
+A Statistical Analysis of Gamakas in Carnatic Music.,False
+Accurate Audio-to-Score Alignment for Expressive Violin Recordings.,False
+Acoustic Features for Determining Goodness of Tabla Strokes.,False
+Automatic Sample Detection in Polyphonic Music.,False
+Chord Recognition in Symbolic Music Using Semi-Markov Conditional Random Fields.,False
+Confidence Measures and Their Applications in Music Labelling Systems Based on Hidden Markov Models.,False
+Convolutional Neural Networks for Real-Time Beat Tracking: A Dancing Robot Application.,False
+Early MFCC and HPCP Fusion for Robust Cover Song Identification.,False
+Exploring the Music Library Association Mailing List: A Text Mining Approach.,False
+Fast and Accurate: Improving a Simple Beat Tracker with a Selectively-Applied Deep Beat Identification.,False
+FMA: A Dataset for Music Analysis.,True
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation.,True
+Modeling Harmony with Skip-Grams.,False
+NMED-T: A Tempo-Focused Dataset of Cortical and Behavioral Responses to Naturalistic Music.,False
+Performance Error Detection and Post-Processing for Fast and Accurate Symbolic Music Alignment.,False
+Piece Identification in Classical Piano Music Without Reference Scores.,False
+"PiPo, a Plugin Interface for Afferent Data Stream Processing Operators.",True
+Ranking-Based Emotion Recognition for Experimental Music.,False
+Scale- and Rhythm-Aware Musical Note Estimation for Vocal F0 Trajectories Based on a Semi-Tatum-Synchronous Hierarchical Hidden Semi-Markov Model.,False
+Score-Informed Syllable Segmentation for A Cappella Singing Voice with Convolutional Neural Networks.,True
+Towards Automatic Mispronunciation Detection in Singing.,False
+Understanding the Expressive Functions of Jingju Metrical Patterns Through Lyrics Text Mining.,True
+A Metric for Music Notation Transcription Accuracy.,True
+A Multiobjective Music Recommendation Approach for Aspect-Based Diversification.,True
+A Study on LSTM Networks for Polyphonic Music Sequence Modelling.,False
+Audio to Score Matching by Combining Phonetic and Duration Information.,False
+Automatic Interpretation of Music Structure Analyses: A Validated Technique for Post-Hoc Estimation of the Rationale for an Annotation.,True
+Automatic Playlist Sequencing and Transitions.,False
+Automatic Stylistic Composition of Bach Chorales with Deep LSTM.,True
+Clustering Expressive Timing with Regressed Polynomial Coefficients Demonstrated by a Model Selection Test.,False
+Discourse Analysis of Lyric and Lyric-Based Classification of Music.,False
+End-to-End Optical Music Recognition Using Neural Networks.,False
+Exploiting Playlists for Representation of Songs and Words for Text-Based Music Retrieval.,False
+Freesound Datasets: A Platform for the Creation of Open Audio Datasets.,False
+From Bach to the Beatles: The Simulation of Human Tonal Expectation Using Ecologically-Trained Predictive Models.,False
+Function- and Rhythm-Aware Melody Harmonization Based on Tree-Structured Parsing and Split-Merge Sampling of Chord Sequences.,False
+High-Level Music Descriptor Extraction Algorithm Based on Combination of Multi-Channel CNNs and LSTM.,False
+Identifying Raga Similarity Through Embeddings Learned from Compositions' Notation.,False
+Improving Note Segmentation in Automatic Piano Music Transcription Systems with a Two-State Pitch-Wise HMM Method.,True
+Large Vocabulary Automatic Chord Estimation with an Even Chance Training Scheme.,True
+Local Interpretable Model-Agnostic Explanations for Music Content Analysis.,False
+Lyric Jumper: A Lyrics-Based Music Exploratory Web Service by Modeling Lyrics Generative Process.,False
+Multi-Pitch Detection and Voice Assignment for A Cappella Recordings of Multiple Singers.,False
+Onset Detection in Composition Items of Carnatic Music.,False
+Song2Guitar: A Difficulty-Aware Arrangement System for Generating Guitar Solo Covers from Polyphonic Audio of Popular Music.,False
+The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology.,False
+"""I'm at #Osheaga!"": Listening to the Backchannel of a Music Festival on Twitter.",False
+A Database Linking Piano and Orchestral MIDI Scores with Application to Automatic Projective Orchestration.,True
+Analysis of Interactive Intonation in Unaccompanied SATB Ensembles.,True
+Automatic Drum Transcription for Polyphonic Recordings Using Soft Attention Mechanisms and Convolutional Neural Networks.,True
+Automatic Drum Transcription Using the Student-Teacher Learning Paradigm with Unlabeled Music Data.,True
+Chord Generation from Symbolic Melody Using BLSTM Networks.,False
+Cover Song Identification with Metric Learning Using Distance as a Feature.,False
+Examining Musical Meaning in Similarity Thresholds.,False
+Exploring Tonal-Dramatic Relationships in Richard Wagner's Ring Cycle.,False
+Feature Discovery for Sequential Prediction of Monophonic Music.,False
+Generating Nontrivial Melodies for Music as a Service.,False
+Geographical Origin Prediction of Folk Music Recordings from the United Kingdom.,False
+In Search of the Consensus Among Musical Pattern Discovery Algorithms.,True
+Informed Automatic Meter Analysis of Music Recordings.,False
+Intelligibility of Sung Lyrics: A Pilot Study.,False
+Lyrics-Based Music Genre Classification Using a Hierarchical Attention Network.,True
+Metrical-Accent Aware Vocal Onset Detection in Polyphonic Audio.,True
+Mining Labeled Data from Web-Scale Collections for Vocal Activity Detection in Music.,False
+Multi-Part Pattern Analysis: Combining Structure Analysis and Source Separation to Discover Intra-Part Repeated Sequences.,False
+"One-Step Detection of Background, Staff Lines, and Symbols in Medieval Music Manuscripts with Convolutional Neural Networks.",False
+Optical Music Recognition with Convolutional Sequence-to-Sequence Models.,False
+Re-Visiting the Music Segmentation Problem with Crowdsourcing.,True
+Singing Voice Separation with Deep U-Net Convolutional Networks.,False
+Sketching Sonata Form Structure in Selected Classical String Quartets.,False
+Image Quality Estimation for Multi-Score OMR.,False
+Comparative Music Similarity Modelling Using Transfer Learning Across User Groups.,False
+Modeling Genre with the Music Genome Project: Comparing Human-Labeled Attributes and Audio Features.,False
+Cover Song Identification with Timbral Shape Sequences.,False
+On the Impact of Key Detection Performance for Identifying Classical Music Styles.,False
+Chord Detection Using Deep Learning.,False
+Temporal Music Context Identification with User Listening Data.,False
+Improving Music Recommendations with a Weighted Factorization of the Tagging Activity.,False
+An Efficient State-Space Model for Joint Tempo and Meter Tracking.,False
+Automatic Handwritten Mensural Notation Interpreter: From Manuscript to MIDI Performance.,False
+Infinite Superimposed Discrete All-Pole Modeling for Multipitch Analysis of Wavelet Spectrograms.,False
+Melodic Similarity in Traditional French-Canadian Instrumental Dance Tunes.,1.0
+A Semantic-Based Approach for Artist Similarity.,False
+Predicting Pairwise Pitch Contour Relations Based on Linguistic Tone Information in Beijing Opera Singing.,False
+Song2Quartet: A System for Generating String Quartet Cover Songs from Polyphonic Audio of Popular Music.,False
+Exploring Data Augmentation for Improved Singing Voice Detection with Neural Networks.,False
+Audio Chord Recognition with a Hybrid Recurrent Neural Network.,False
+Design and Evaluation of a Probabilistic Music Projection Interface.,False
+Conceptual Blending in Music Cadences: A Formal Model and Subjective Evaluation.,False
+Harmonic-Percussive Source Separation Using Harmonicity and Sparsity Constraints.,False
+A Hierarchical Bayesian Framework for Score-Informed Source Separation of Piano Music Signals.,False
+Automatic Tune Family Identification by Musical Sequence Alignment.,False
+Evaluation of Album Effect for Feature Selection in Music Genre Recognition.,False
+Music Pattern Discovery with Variable Markov Oracle: A Unified Approach to Symbolic and Audio Representations.,1.0
+Automatic Solfège Assessment.,False
+Evaluating Conflict Management Mechanisms for Online Social Jukeboxes.,False
+Particle Filters for Efficient Meter Tracking with Dynamic Bayesian Networks.,False
+Analysis of the Evolution of Research Groups and Topics in the ISMIR Conference.,False
+A Toolkit for Live Annotation of Opera Performance: Experiences Capturing Wagner's Ring Cycle.,False
+Selective Acquisition Techniques for Enculturation-Based Melodic Phrase Segmentation.,1.0
+Corpus Analysis Tools for Computational Hook Discovery.,1.0
+Large-Scale Content-Based Matching of MIDI and Audio Files.,False
+Improving Genre Annotations for the Million Song Dataset.,False
+A Software Framework for Musical Data Augmentation.,1.0
+Drum Transcription Using Partially Fixed Non-Negative Matrix Factorization with Template Adaptation.,1.0
+Beat and Downbeat Tracking Based on Rhythmic Patterns Applied to the Uruguayan Candombe Drumming.,1.0
+Automated Estimation of Ride Cymbal Swing Ratios in Jazz Recordings.,False
+Musical Offset Detection of Pitched Instruments: The Case of Violin.,False
+Specter: Combining Music Information Retrieval with Sound Spatialization.,False
+Content-Aware Collaborative Music Recommendation Using Pre-trained Neural Networks.,1.0
+Comparative Analysis of Orchestral Performance Recordings: An Image-Based Approach.,False
+Monaural Blind Source Separation in the Context of Vocal Detection.,False
+Detection of Common Mistakes in Novice Violin Playing.,False
+Probabilistic Modular Bass Voice Leading in Melodic Harmonisation.,False
+An Iterative Multi Range Non-Negative Matrix Factorization Algorithm for Polyphonic Music Transcription.,False
+"Training Phoneme Models for Singing with ""Songified"" Speech Data.",False
+Graph-Based Rhythm Interpretation.,False
+Let it Bee - Towards NMF-Inspired Audio Mosaicing.,False
+Real-Time Music Tracking Using Multiple Performances as a Reference.,False
+Two Data Sets for Tempo Estimation and Key Detection in Electronic Dance Music Annotated from User Corrections.,False
+Towards Support for Understanding Classical Music: Alignment of Content Descriptions on the Web.,False
+FlaBase: Towards the Creation of a Flamenco Music Knowledge Base.,False
+Discovery of Syllabic Percussion Patterns in Tabla Solo Recordings.,False
+Autoregressive Hidden Semi-Markov Model of Symbolic Music Performance for Score Following.,False
+Automatic Mashup Creation by Considering both Vertical and Horizontal Mashabilities.,False
+Hierarchical Evaluation of Segment Boundary Detection.,False
+Improving MIDI Guitar's Accuracy with NMF and Neural Net.,False
+Analysis of Intonation Trajectories in Solo Singing.,False
+Evaluating the General Chord Type Representation in Tonal Music and Organising GCT Chord Labels in Functional Chord Categories.,False
+Beat Histogram Features from NMF-Based Novelty Functions for Music Classification.,False
+Music Shapelets for Fast Cover Song Recognition.,False
+Improving Score-Informed Source Separation for Classical Music through Note Refinement.,False
+In Their Own Words: Using Text Analysis to Identify Musicologists' Attitudes towards Technology.,False
+Combining Features for Cover Song Identification.,1.0
+Score Following for Piano Performances with Sustain-Pedal Effects.,False
+Understanding Users of Commercial Music Services through Personas: Design Implications.,False
+Corpus-Based Rhythmic Pattern Analysis of Ragtime Syncopation.,False
+Comparing Voice and Stream Segmentation Algorithms.,False
+Melody Extraction by Contour Classification.,1.0
+Comparison of the Singing Style of Two Jingju Schools.,1.0
+Improving Optical Music Recognition by Combining Outputs from Multiple Sources.,1.0
+Relating Natural Language Text to Musical Passages.,False
+Music Boundary Detection Using Neural Networks on Combined Features and Two-Level Annotations.,False
+Neuroimaging Methods for Music Information Retrieval: Current Findings and Future Prospects.,False
+Improving Visualization of High-Dimensional Music Similarity Spaces.,False
+I-Vectors for Timbre-Based Music Similarity and Music Artist Classification.,False
+Correlating Extracted and Ground-Truth Harmonic Data in Music Retrieval Tasks.,False
+Classical Music on the Web - User Interfaces and Data Representations.,False
+A Statistical View on the Expressive Timing of Piano Rolled Chords.,False
+Hybrid Long- and Short-Term Models of Folk Melodies.,False
+Efficient Melodic Query Based Audio Search for Hindustani Vocal Compositions.,False
+Modified Perceptual Linear Prediction Liftered Cepstrum (MPLPLC) Model for Pop Cover Song Recognition.,False
+Raga Verification in Carnatic Music Using Longest Common Segment Set.,False
+Instrument Identification in Optical Music Recognition.,False
+Cross-Version Singing Voice Detection in Classical Opera Recordings.,False
+Accurate Tempo Estimation Based on Recurrent Neural Networks and Resonating Comb Filters.,False
+Musicology of Early Music with Europeana Tools and Services.,False
+Singing Voice Separation from Monaural Music Based on Kernel Back-Fitting Using Beta-Order Spectral Amplitude Estimation.,False
+Schematizing the Treatment of Dissonance in 16th-Century Counterpoint.,False
+Predictive Power of Personality on Music-Genre Exclusivity.,False
+A Comparison of Symbolic Similarity Measures for Finding Occurrences of Melodic Segments.,1.0
+PAD and SAD: Two Awareness-Weighted Rhythmic Similarity Distances.,False
+Four Timely Insights on Automatic Chord Estimation.,1.0
+Improving Melodic Similarity in Indian Art Music Using Culture-Specific Melodic Characteristics.,False
+Searching Lyrical Phrases in A-Capella Turkish Makam Recordings.,1.0
+Quantifying Lexical Novelty in Song Lyrics.,False
+An Efficient Temporally-Constrained Probabilistic Model for Multiple-Instrument Music Transcription.,False
+Electric Guitar Playing Technique Detection in Real-World Recording Based on F0 Sequence Pattern Recognition.,False
+Extending a Model of Monophonic Hierarchical Music Analysis to Homophony.,False
+The MIR Perspective on the Evolution of Dynamics in Mainstream Music.,False
+Theme And Variation Encodings with Roman Numerals (TAVERN): A New Data Set for Symbolic Music Analysis.,False
+Benford's Law for Music Analysis.,False
+An Audio to Score Alignment Framework Using Spectral Factorization and Dynamic Time Warping.,False
+New Sonorities for Early Jazz Recordings Using Sound Source Separation and Automatic Mixing Tools.,False
+Automatic Transcription of Ornamented Irish Traditional Flute Music Using Hidden Markov Models.,False
+Towards Music Imagery Information Retrieval: Introducing the OpenMIIR Dataset of EEG Recordings from Music Perception and Imagination.,1.0
+Emotion Based Segmentation of Musical Audio.,False
+MIREX Grand Challenge 2014 User Experience: Qualitative Analysis of User Feedback.,False
+AcousticBrainz: A Community Platform for Gathering Music Information Obtained from Audio.,1.0
+How Music Alters Decision Making - Impact of Music Stimuli on Emotional Classification.,False
+Put the Concert Attendee in the Spotlight. A User-Centered Design and Development Approach for Classical Concert Applications.,False
+Analysis of Expressive Musical Terms in Violin Using Score-Informed and Expression-Based Audio Features.,False
+Spectral Learning for Expressive Interactive Ensemble Music Performance.,False
+Score-Informed Analysis of Intonation and Pitch Modulation in Jazz Solos.,False
+SiMPle: Assessing Music Similarity Using Subsequences Joins.,1.0
+Score-Informed Identification of Missing and Extra Notes in Piano Recordings.,False
+Feature Learning for Chord Recognition: The Deep Chroma Extractor.,1.0
+Learning to Pinpoint Singing Voice from Weakly Labeled Examples.,False
+A Corpus of Annotated Irish Traditional Dance Music Recordings: Design and Benchmark Evaluations.,1.0
+Adaptive Frequency Neural Networks for Dynamic Pulse and Metre Perception.,False
+An Evaluation Framework and Case Study for Rhythmic Concatenative Synthesis.,False
+An Ontology for Audio Features.,False
+Analysis and Classification of Phonation Modes In Singing.,False
+Analysis of Vocal Imitations of Pitch Trajectories.,False
+"Automatic Music Recommendation Systems: Do Demographic, Profiling, and Contextual Features Improve Their Performance?.",False
+Automatic Outlier Detection in Music Genre Datasets.,False
+AVA: An Interactive System for Visual and Quantitative Analyses of Vibrato and Portamento Performance Styles.,1.0
+Composer Recognition Based on 2D-Filtered Piano-Rolls.,False
+Conversations with Expert Users in Music Retrieval and Research Challenges for Creative MIR.,False
+Downbeat Tracking Using Beat Synchronous Features with Recurrent Neural Networks.,1.0
+Enhancing Cover Song Identification with Hierarchical Rank Aggregation.,1.0
+Ensemble: A Hybrid Human-Machine System for Generating Melody Scores from Audio.,False
+Exploring Customer Reviews for Music Genre Classification and Evolutionary Studies.,False
+Further Steps Towards a Standard Testbed for Optical Music Recognition.,1.0
+Improving Voice Separation by Better Connecting Contigs.,False
+Integer Programming Formulation of the Problem of Generating Milton Babbitt's All-Partition Arrays.,False
+Integration and Quality Assessment of Heterogeneous Chord Sequences Using Data Fusion.,False
+Landmark-Based Audio Fingerprinting for DJ Mix Monitoring.,False
+Learning and Visualizing Music Specifications Using Pattern Graphs.,1.0
+Listen To Me - Don't Listen To Me: What Communities of Critics Tell Us About Music.,False
+Long-Term Reverberation Modeling for Under-Determined Audio Source Separation with Application to Vocal Melody Extraction.,False
+Nonnegative Tensor Factorization with Frequency Modulation Cues for Blind Audio Source Separation.,False
+On Drum Playing Technique Detection in Polyphonic Mixtures.,False
+Predicting Missing Music Components with Bidirectional Long Short-Term Memory Neural Networks.,False
+Structural Segmentation and Visualization of Sitar and Sarod Concert Audio.,False
+Template-Based Vibrato Analysis in Complex Music Signals.,False
+Towards Evaluating Multiple Predominant Melody Annotations in Jazz Recordings.,False
+Joint Beat and Downbeat Tracking with Recurrent Neural Networks.,False
+Bayesian Meter Tracking on Learned Signal Representations.,False
+Tempo Estimation for Music Loops and a Simple Confidence Measure.,1.0
+Brain Beats: Tempo Extraction from EEG Data.,1.0
+A Plan for Sustainable MIR Evaluation.,False
+Go with the Flow: When Listeners Use Music as Technology.,False
+A Look at the Cloud from Both Sides Now: An Analysis of Cloud Music Service Usage.,False
+"A Hierarchical Bayesian Model of Chords, Pitches, and Spectrograms for Multipitch Analysis.",False
+A Higher-Dimensional Expansion of Affective Norms for English Terms for Music Tagging.,False
+"A Latent Representation of Users, Sessions, and Songs for Listening Behavior Analysis.",False
+A Methodology for Quality Assessment in Collaborative Score Libraries.,False
+Aligned Hierarchies: A Multi-Scale Structure-Based Representation for Music-Based Data Streams.,1.0
+Analysing Scattering-Based Music Content Analysis Systems: Where's the Music?.,1.0
+Beat Tracking with a Cepstroid Invariant Neural Network.,False
+Bootstrapping a System for Phoneme Recognition and Keyword Spotting in Unaccompanied Singing.,False
+Can Microblogs Predict Music Charts? An Analysis of the Relationship Between #Nowplaying Tweets and Music Charts.,False
+Cross Task Study on MIREX Recent Results: An Index for Evolution Measurement and Some Stagnation Hypotheses.,False
+Cross-Collection Evaluation for Music Classification Tasks.,False
+Downbeat Detection with Conditional Random Fields and Deep Learned Features.,False
+"Exploiting Frequency, Periodicity and Harmonicity Using Advanced Time-Frequency Concentration Techniques for Multipitch Estimation of Choir and Symphony.",False
+Genre Ontology Learning: Comparing Curated with Crowd-Sourced Ontologies.,False
+Genre Specific Dictionaries for Harmonic/Percussive Source Separation.,False
+Good-sounds.org: A Framework to Explore Goodness in Instrumental Sounds.,False
+Improving Predictions of Derived Viewpoints in Multiple Viewpoints Systems.,False
+Known Artist Live Song ID: A Hashprint Approach.,False
+Learning Temporal Features Using a Deep Neural Network and its Application to Music Genre Classification.,False
+Meter Detection in Symbolic Music Using Inner Metric Analysis.,False
+Minimax Viterbi Algorithm for HMM-Based Guitar Fingering Decision.,False
+Mixtape: Direction-Based Navigation in Large Media Collections.,False
+Musical Note Estimation for F0 Trajectories of Singing Voices Based on a Bayesian Semi-Beat-Synchronous HMM.,False
+On the Evaluation of Rhythmic and Melodic Descriptors for Music Similarity.,False
+On the Potential of Simple Framewise Approaches to Piano Transcription.,False
+Phrase-Level Audio Segmentation of Jazz Improvisations Informed by Symbolic Data.,False
+Revisiting Priorities: Improving MIR Evaluation Practices.,False
+Simultaneous Separation and Segmentation in Layered Music.,False
+Towards Modeling and Decomposing Loop-Based Electronic Music.,False
+Two (Note) Heads Are Better Than One: Pen-Based Multimodal Interaction with Music Scores.,1.0
+Analyzing Measure Annotations for Western Classical Music Recordings.,False
+Instrumental Idiom in the 16th Century: Embellishment Patterns in Arrangements of Vocal Music.,False
+The Sousta Corpus: Beat-Informed Automatic Transcription of Traditional Dance Tunes.,False
+Learning a Feature Space for Similarity in World Music.,False
+Systematic Exploration of Computational Music Structure Research.,1.0
+Using Priors to Improve Estimates of Music Structure.,False
+Music Structural Segmentation Across Genres with Gammatone Features.,False
+A Comparison of Melody Extraction Methods Based on Source-Filter Modelling.,1.0
+An Analysis of Agreement in Classical Music Perception and its Relationship to Listener Characteristics.,False
+An Attack/Decay Model for Piano Transcription.,False
+Automatic Drum Transcription Using Bi-Directional Recurrent Neural Networks.,False
+"Automatic Practice Logging: Introduction, Dataset & Preliminary Study.",False
+Data-Driven Exploration of Melodic Structure in Hindustani Music.,False
+Deep Convolutional Networks on the Pitch Spiral For Music Instrument Recognition.,1.0
+DTV-Based Melody Cutting for DTW-Based Melody Search and Indexing in QbH Systems.,False
+Elucidating User Behavior in Music Services Through Persona and Gender.,False
+Exploring the Latent Structure of Collaborations in Music Recordings: A Case Study in Jazz.,False
+Global Properties of Expert and Algorithmic Hierarchical Music Analyses.,1.0
+Human-Interactive Optical Music Recognition.,False
+I Said it First: Topological Analysis of Lyrical Influence Networks.,False
+Impact of Music on Decision Making in Quantitative Tasks.,False
+Interactive Scores in Classical Music Production.,False
+Jazz Ensemble Expressive Performance Modeling.,False
+Mining Musical Traits of Social Functions in Native American Music.,False
+Mining Online Music Listening Trajectories.,False
+Musical Typicality: How Many Similar Songs Exist?.,False
+MusicDB: A Platform for Longitudinal Music Analytics.,False
+Noise Robust Music Artist Recognition Using I-Vector Features.,False
+On the Use of Note Onsets for Improved Lyrics-To-Audio Alignment in Turkish Makam Music.,1.0
+Querying XML Score Databases: XQuery is not Enough!.,False
+Recurrent Neural Networks for Drum Transcription.,False
+Singing Voice Melody Transcription Using Deep Neural Networks.,False
+Sparse Coding Based Music Genre Classification Using Spectro-Temporal Modulations.,False
+Time-Delayed Melody Surfaces for R��ga Recognition.,False
+Transcribing Human Piano Performances into Music Notation.,False
+WiMIR: An Informetric Study On Women Authors In ISMIR.,False
+Automatic Melodic Reduction Using a Supervised Probabilistic Context-Free Grammar.,1.0
+A Neural Greedy Model for Voice Separation in Symbolic Music.,False
+Towards Score Following In Sheet Music Images.,False
+Extracting Ground-Truth Information from MIDI Files: A MIDIfesto.,1.0
+Automatic Tagging Using Deep Convolutional Neural Networks.,False
+A Hybrid Gaussian-HMM-Deep Learning Approach for Automatic Chord Estimation with Very Large Vocabulary.,1.0
+Melody Extraction on Vocal Segments Using Multi-Column Deep Neural Networks.,False
+Multiscale Approaches To Music Audio Feature Learning.,False
+Transfer Learning In Mir: Sharing Learned Latent Representations For Music Audio Classification And Similarity.,False
+A Distributed Model For Multiple-Viewpoint Melodic Prediction.,False
+Learning Rhythm And Melody Features With Deep Belief Networks.,False
+A Comparative Study Of Indian And Western Music Forms.,False
+Swara Histogram Based Structural Analysis And Identification Of Indian Classical Ragas.,False
+Combining Modeling Of Singing Voice And Background Music For Automatic Separation Of Musical Mixtures.,False
+On Finding Symbolic Themes Directly From Audio Files Using Dynamic Programming.,False
+"Towards Light-Weight, Real-Time-Capable Singing Voice Detection.",False
+The Use Of Melodic Scales In Bollywood Music: An Empirical Study.,False
+Bilevel Sparse Models for Polyphonic Music Transcription.,False
+JProductionCritic: An Educational Tool for Detecting Technical Errors in Audio Mixes.,False
+Combining Timbric and Rhythmic Features for Semantic Music Tagging.,False
+The Audio Degradation Toolbox and Its Application to Robustness Evaluation.,YES
+Do Online Social Tags Predict Perceived or Induced Emotional Responses to Music?,False
+A Video Compression-Based Approach to Measure Music Structural Similarity.,False
+Dunya: A System to Browse Audio Music Collections Exploiting Cultural Context.,False
+An Analysis of Chorus Features in Popular Song.,False
+Visual Humdrum-Library for PWGL.,YES
+Source Separation of Polyphonic Music with Interactive User-Feedback on a Piano Roll Display.,False
+Optical Measure Recognition in Common Music Notation.,YES
+Musicbrainz for The World: The Chilean Experience.,YES
+Influences of ISMIR and MIREX Research on Technology Patents.,False
+Toward Understanding Expressive Percussion Through Content Based Analysis.,False
+Data Driven and Discriminative Projections for Large-Scale Cover Song Identification.,YES
+"Simultaneous Unsupervised Learning of Flamenco Metrical Structure, Hypermetrical Structure, and Multipart Structural Relations.",False
+A Corpus-Based Study on Ragtime Syncopation.,False
+A Computational Comparison of Theory And Practice of Scale Intonation in Byzantine Chant.,False
+Score Informed Tonic Identification for Makam Music of Turkey.,False
+Placing Music Artists and Songs in Time Using Editorial Metadata and Web Mining Techniques.,YES
+The Million Musical Tweet Dataset - What We Can Learn From Microblogs.,False
+Verifying Music Tag Annotation Via Association Analysis.,False
+The Role of Audio and Tags in Music Mood Prediction: A Study Using Semantic Layer Projection.,False
+Converting Path Structures Into Block Structures Using Eigenvalue Decompositions of Self-Similarity Matrices.,False
+The Audio Effects Ontology.,False
+Exploration of Music Emotion Recognition Based on MIDI.,False
+Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio.,False
+Large-Scale Cover Song Identification Using Chord Profiles.,False
+Automatically Identifying Vocal Expressions for Music Transcription.,False
+Hooked: A Game For Discovering What Makes Music Catchy.,False
+Hierarchical Classification of Carnatic Music Forms.,False
+A Simple Fusion Method of State And Sequence Segmentation for Music Structure Discovery.,False
+Evaluating The Quality of Generated Playlists Based on Hand-Crafted Samples.,False
+Explicit Duration Hidden Markov Models for Multiple-Instrument Polyphonic Music Transcription.,False
+A Comprehensive Online Database of Machine-Readable Lead-Sheets for Jazz Standards.,False
+MeUse: Recommending Internet Radio Stations.,False
+Improved Audio Classification Using a Novel Non-Linear Dimensionality Reduction Ensemble Approach.,False
+A Study of Ensemble Synchronisation Under Restricted Line of Sight.,False
+Groove Kernels as Rhythmic-Acoustic Motif Descriptors.,False
+Instrument Identification Informed Multi-Track Mixing.,False
+Tempo Detection of Urban Music Using Tatum Grid Non Negative Matrix Factorization.,False
+A Study of Cultural Dependence of Perceived Mood in Greek Music.,False
+Evaluation on Feature Importance for Favorite Song Detection.,False
+QBT-Extended: An Annotated Dataset of Melodically Contoured Tapped Queries.,False
+Audio Chord Recognition with Recurrent Neural Networks.,False
+Virtualband: Interacting with Stylistically Consistent Agents.,False
+Sparse Modeling for Artist Identification: Exploiting Phase Information and Vocal Separation.,False
+Automatic Transcription of Turkish Makam Music.,False
+Local Group Delay Based Vibrato and Tremolo Suppression for Onset Detection.,False
+Beyond NMF: Time-Domain Audio Source Separation without Phase Reconstruction.,False
+Beta Process Sparse Nonnegative Matrix Factorization for Music.,YES
+Semi-Supervised Polyphonic Source Identification using PLCA Based Graph Clustering.,False
+An Experiment about Estimating the Number of Instruments in Polyphonic Music: A Comparison Between Internet and Laboratory Results.,False
+Social-EQ: Crowdsourcing an Equalization Descriptor Map.,False
+Taste Over Time: The Temporal Dynamics of User Preferences.,False
+Exploring the Relation Between Novelty Aspects and Preferences in Music Listening.,False
+Spectral Correlates in Emotion Labeling of Sustained Musical Instrument Tones.,False
+Design and Evaluation of Semantic Mood Models for Music Recommendation using Editorial Tags.,False
+Low-Rank Representation of Both Singing Voice and Music Accompaniment Via Learned Dictionaries.,YES
+Incremental Visualization of Growing Music Collections.,False
+Evaluating OMR on the Early Music Online Collection.,False
+Sparse Music Decomposition onto a MIDI Dictionary Driven by Statistical Music Knowledge.,False
+Annotating Works for Music Education: Propositions for a Musical Forms and Structures Ontology and a Musical Performance Ontology.,False
+Chord-Sequence-Factory: A Chord Arrangement System Modifying Factorized Chord Sequence Probabilities.,False
+Music Cut and Paste: A Personalized Musical Medley Generating System.,False
+A Meta-Analysis of the MIREX Structural Segmentation Task.,False
+A Deterministic Annealing EM Algorithm for Automatic Music Transcription.,False
+Modelling the Speed of Music using Features from Harmonic/Percussive Separated Audio.,False
+Inter and Intra Item Segmentation of Continuous Audio Recordings of Carnatic Music for Archival.,False
+Essentia: An Audio Analysis Library for Music Information Retrieval.,YES
+Motif Spotting in an Alapana in Carnatic Music.,False
+Empirical Analysis of Track Selection and Ordering in Electronic Dance Music using Audio Feature Extraction.,False
+Improving the Reliability of Music Genre Classification using Rejection and Verification.,False
+Robotaba Guitar Tablature Transcription Framework.,False
+Comparing Onset Detection &amp; Perceptual Attack Time.,False
+K-Pop Genres: A Cross-Cultural Exploration.,False
+Coupling Social Network Services and Support for Online Communities in Codes Environment.,False
+Basic Evaluation of Auditory Temporal Stability (Beats): A Novel Rationale and Implementation.,False
+SIARCT-CFP: Improving Precision and the Discovery of Inexact Musical Patterns in Point-Set Representations.,False
+A Machine Learning Approach to Voice Separation in Lute Tablature.,False
+A Methodology for the Comparison of Melodic Generation Models Using Meta-Melo.,False
+An Extended Audio Fingerprint Method with Capabilities for Similar Music Detection.,False
+AutoMashUpper: An Automatic Multi-Song Mashup System.,False
+Learning Binary Codes For Efficient Large-Scale Music Similarity Search.,False
+Freisch�_tz Digital: A Case Study for Reference-Based Audio Segmentation for Operas.,False
+Automated Methods for Analyzing Music Recordings in Sonata Form.,False
+Combining Harmony-Based and Novelty-Based Approaches for Structural Segmentation.,False
+Automatic Alignment of Music Performances with Structural Differences.,False
+"On Cultural, Textual and Experiential Aspects of Music Mood.",False
+"Sparse Cepstral, Phase Codes for Guitar Playing Technique Classification.",False
+Automated Detection of Single- and Multi-Note Ornaments in Irish Traditional Flute Playing.,False
+The Kiki-Bouba Challenge: Algorithmic Composition for Content-based MIR Research and Development.,True
+Transfer Learning by Supervised Pre-training for Audio-based Music Classification.,False
+Estimating Musical Time Information from Performed MIDI Files.,True
+Estimation of the Direction of Strokes and Arpeggios.,False
+Predicting Expressive Dynamics in Piano Performances using Neural Networks.,False
+An RNN-based Music Language Model for Improving Automatic Music Transcription.,False
+Towards Modeling Texture in Symbolic Data.,False
+Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.,False
+The VIS Framework: Analyzing Counterpoint in Large Datasets.,False
+Hierarchical Approach to Detect Common Mistakes of Beginner Flute Players.,False
+Robust Joint Alignment of Multiple Versions of a Piece of Music.,False
+Formalizing the Problem of Music Description.,False
+An Association-based Approach to Genre Classification in Music.,False
+Multiple Viewpiont Melodic Prediction with Fixed-Context Neural Networks.,False
+Verovio: A library for Engraving MEI Music Notation into SVG.,False
+Music Classification by Transductive Learning Using Bipartite Heterogeneous Networks.,False
+Automatic Melody Transcription based on Chord Transcription.,False
+Audio-to-score Alignment at the Note Level for Orchestral Recordings.,False
+A Compositional Hierarchical Model for Music Information Retrieval.,False
+An Analysis and Evaluation of Audio Features for Multitrack Music Mixtures.,False
+Detecting Drops in Electronic Dance Music: Content based approaches to a socially significant music event.,False
+Towards Automatic Content-Based Separation of DJ Mixes into Single Tracks.,True
+MedleyDB: A Multitrack Dataset for Annotation-Intensive MIR Research.,False
+Melody Extraction from Polyphonic Audio of Western Opera: A Method based on Detection of the Singer's Formant.,False
+Codebook-based Scalable Music Tagging with Poisson Matrix Factorization.,True
+Template Adaptation for Improving Automatic Music Transcription.,False
+Note-level Music Transcription by Maximum Likelihood Sampling.,False
+Drum Transcription via Classification of Bar-Level Rhythmic Patterns.,False
+Developing Tonal Perception through Unsupervised Learning.,False
+Exploiting Instrument-wise Playing/Non-Playing Labels for Score Synchronization of Symphonic Music.,False
+Multi-Strategy Segmentation of Melodies.,False
+A Data Set for Computational Studies of Schenkerian Analysis.,False
+Systematic Multi-scale Set-class Analysis.,True
+Spotting a Query Phrase from Polyphonic Music Audio Signals Based on Semi-supervised Nonnegative Matrix Factorization.,False
+Bayesian Audio Alignment based on a Unified Model of Music Composition and Performance.,False
+Automatic Set List Identification and Song Segmentation for Full-Length Concert Videos.,False
+On Inter-rater Agreement in Audio Music Similarity.,False
+Emotional Predisposition of Musical Instrument Timbres with Static Spectra.,False
+Panako - A Scalable Acoustic Fingerprinting System Handling Time-Scale and Pitch Modification.,True
+Perceptual Analysis of the F-Measure to Evaluate Section Boundaries in Music.,False
+Keyword Spotting in A-capella Singing.,False
+The Importance of F0 Tracking in Query-by-singing-humming.,True
+Vocal Separation using Singer-Vowel Priors Obtained from Polyphonic Audio.,False
+Improving Query by Tapping via Tempo Alignment.,False
+Automatic Instrument Classification of Ethnomusicological Audio Recordings.,False
+Music Analysis as a Smallest Grammar Problem.,False
+Frame-Level Audio Segmentation for Abridged Musical Works.,False
+Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis.,False
+Modeling Temporal Structure in Music for Emotion Prediction using Pairwise Comparisons.,False
+Musical Structural Analysis Database Based on GTTM.,False
+Theoretical Framework of A Computational Model of Auditory Memory for Music Emotion Recognition.,False
+Improving Music Structure Segmentation using lag-priors.,False
+Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing.,False
+A Proximity Grid Optimization Method to Improve Audio Search for Sound Design.,False
+Introducing a Dataset of Emotional and Color Responses to Music.,False
+In-depth Motivic Analysis based on Multiparametric Closed Pattern and Cyclic Sequence Mining.,True
+MIR_EVAL: A Transparent Implementation of Common MIR Metrics.,True
+Computational Modeling of Induced Emotion Using GEMS.,False
+Cognition-inspired Descriptors for Scalable Cover Song Retrieval.,False
+A Cross-Cultural Study on the Mood of K-POP Songs.,False
+Cadence Detection in Western Traditional Stanzaic Songs using Melodic and Textual Features.,False
+Discovering Typical Motifs of a Raga from One-Liners of Songs in Carnatic Music.,False
+Analyzing Song Structure with Spectral Clustering.,False
+Identifying Polyphonic Musical Patterns From Audio Recordings Using Music Segmentation Techniques.,False
+Boundary Detection in Music Structure Analysis using Convolutional Neural Networks.,False
+"Tracking the ""Odd"": Meter Inference in a Culturally Diverse Music Corpus.",True
+Transcription and Recognition of Syllable based Percussion Patterns: The Case of Beijing Opera.,False
+Taste Space Versus the World: an Embedding Analysis of Listening Habits and Geography.,False
+Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation.,False
+Improving Music Recommender Systems: What Can We Learn from Research on Music Tastes?,False
+Social Music in Cars.,False
+A Combined Thematic and Acoustic Approach for a Music Recommendation Service in TV Commercials.,False
+Are Poetry and Lyrics All That Different?,False
+Singing-Voice Separation from Monaural Recordings using Deep Recurrent Neural Networks.,False
+Impact of Listening Behavior on Music Recommendation.,False
+Towards Seamless Network Music Performance: Predicting an Ensemble's Expressive Decisions for Distributed Performance.,False
+Detection of Motor Changes in Violin Playing by EMG Signals.,False
+Automatic Key Partition Based on Tonal Organization Information of Classical Music.,False
+Bayesian Singing-Voice Separation.,False
+Probabilistic Extraction of Beat Positions from a Beat Activation Function.,False
+Geographical Region Mapping Scheme Based on Musical Preferences.,False
+On Comparative Statistics for Labelling Tasks: What can We Learn from MIREX ACE 2013?,False
+Merged-Output HMM for Piano Fingering of Both Hands.,False
+Modeling Rhythm Similarity for Electronic Dance Music.,False
+MuSe: A Music Recommendation Management System.,False
+Tempo- and Transposition-invariant Identification of Piece and Score Position.,False
+Gender Identification and Age Estimation of Users Based on Music Metadata.,False
+Information-Theoretic Measures of Music Listening Behaviour.,True
+Evaluation Framework for Automatic Singing Transcription.,False
+What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features?,False
+Music Information Behaviors and System Preferences of University Students in Hong Kong.,False
+LyricsRadar: A Lyrics Retrieval System Based on Latent Topics of Lyrics.,False
+JAMS: A JSON Annotated Music Specification for Reproducible MIR Research.,False
+On The Changing Regulations of Privacy and Personal Information in MIR.,False
+A Multi-model Approach to Beat Tracking Considering Heterogeneous Music Styles.,False
+Extending Harmonic-Percussive Separation of Audio Signals.,False
+Singing Voice Separation Using Spectro-Temporal Modulation Features.,False
+Harmonic-Temporal Factor Decomposition Incorporating Music Prior Information for Informed Monaural Source Separation.,False
+Design And Evaluation of Onset Detectors using Different Fusion Policies.,False
+Evaluating the Evaluation Measures for Beat Tracking.,False
+Improving Rhythmic Transcriptions via Probability Models Applied Post-OMR.,False
+Classifying EEG Recordings of Rhythm Perception.,True
+"Ten Years of MIREX (Music Information Retrieval Evaluation eXchange): Reflections, Challenges and Opportunities.",False
+An Auditory Streaming Approach for Melody Extraction from Polyphonic Music.,False
+An Acoustic-Phonetic Approach to Vocal Melody Extraction.,1.0
+A System for Evaluating Singing Enthusiasm for Karaoke.,False
+"Automatic Assessment of Singer Traits in Popular Music: Gender, Age, Height and Race.",1.0
+A Preplexity Based Cover Song Matching System for Short Length Queries.,False
+Humming Method for Content-Based Music Information Retrieval.,False
+Large-scale music similarity search with spatial trees.,False
+A simple-cycles weighted kernel based on harmony structure for similarity retrieval.,False
+HarmTrace: Improving Harmonic Similarity Estimation Using Functional Harmony Analysis.,False
+Adapting Metrics for Music Similarity Using Comparative Ratings.,False
+Using Mutual Proximity to Improve Content-Based Audio Similarity.,False
+Learning the Similarity of Audio Music in Bag-of-frames Representation from Tagged Music Data.,False
+"Compression-based Similarity Measures in Symbolic, Polyphonic Music.",False
+How Much Metadata Do We Need in Music Recommendation? A Subjective Evaluation Using Preference Sets.,False
+NextOne Player: A Music Recommendation System Based on User Behavior.,False
+How Similar Is Too Similar?: Exploring Users' Perceptions of Similarity in Playlist Evaluation.,False
+A Real-Time Signal Processing Framework of Musical Expressive Feature Extraction Using Matlab.,False
+A Scalable Audio Fingerprint Method with Robustness to Pitch-Shifting.,False
+A Re-ordering Strategy for Accelerating Index-based Audio Fingerprinting.,False
+Fast Hamming Space Search for Audio Fingerprinting Systems.,False
+"Segmentation, Clustering, and Display in a Personal Audio Database for Musicians.",False
+An Interactive System for Electro-Acoustic Music Analysis.,False
+A Multicultural Approach in Music Information Research.,False
+Assessing the Tuning of Sung Indian Classical Music.,False
+A Computational Investigation of Melodic Contour Stability in Jewish Torah Trope Performance Traditions.,False
+Tarsos - a Platform to Explore Pitch Scales in Non-Western and Western Music.,False
+A Classification-Based Polyphonic Piano Transcription Approach Using Learned Feature Representations.,False
+Constrained Spectrum Generation Using A Probabilistic Spectrum Envelope for Mixed Music Analysis.,False
+Pulse Detection in Syncopated Rhythms Using Neural Oscillators.,False
+A Two-Fold Dynamic Programming Approach to Beat Tracking for Audio Music with Time-Varying Tempo.,False
+Tempo Estimation Based on Linear Prediction and Perceptual Modelling.,False
+A Transient Detection Algorithm for Audio Using Iterative Analysis of STFT.,False
+Modeling Musical Attributes to Characterize Two-Track Recordings with Bass and Drums.,False
+Chroma Toolbox: Matlab Implementations for Extracting Variants of Chroma-Based Audio Features.,False
+A Comparison of Statistical and Rule-Based Models for Style-Specific Harmonization.,False
+Melody Extraction based on Harmonic Coded Structure.,False
+Timbre and Melody Features for the Recognition of Vocal Activity and Instrumental Solos in Polyphonic Music.,False
+Quantifying the Relevance of Locally Extracted Information for Musical Instrument Recognition from Entire Pieces of Music.,False
+Score-Informed Voice Separation For Piano Recordings.,False
+A Postprocessing Technique for Improved Harmonic/Percussion Separation for Polyphonic Music.,False
+Factorization of Overlapping Harmonic Sounds Using Approximate Matching Pursuit.,False
+Computational Approaches for the Understanding of Melody in Carnatic Music.,False
+Modeling Melodic Improvisation in Turkish Folk Music Using Variable-Length Markov Models.,False
+Iranian Traditional Music Dastgah Classification.,False
+"The Temperament Police: The Truth, the Ground Truth, and Nothing but the Truth.",False
+Methodology and Resources for The Structural Segmentation of Music Pieces into Autonomous and Comparable Blocks.,False
+The Music Encoding Initiative as a Document-Encoding Framework.,False
+Low Dimensional Visualization of Folk Music Systems Using the Self Organizing Cloud.,False
+New Approaches to Optical Music Recognition.,False
+Songle: A Web Service for Active Music Listening Improved by User Contributions.,False
+Improving Perceptual Tempo Estimation with Crowd-Sourced Annotations.,False
+Investigating the Similarity Space of Music Artists on the Micro-Blogosphere.,False
+Musical Influence Network Analysis and Rank of Sample-Based Music.,False
+User studies in the Music Information Retrieval Literature.,False
+Social Capital and Music Discovery: An Examination of the Ties through Which Late Adolescents Discover New Music.,False
+MIR in School? Lessons from Ethnographic Observation of Secondary School Music Classes.,False
+Ethnographic Observations of Musicologists at the British Library: Implications for Music Information Retrieval.,False
+Peachnote: Music Score Search and Analysis Platform.,False
+The Melodic Signature Index for Fast Content-based Retrieval of Symbolic Scores Camelia Constantin.,False
+Dynamic Programming in Transposition and Time-Warp Invariant Polyphonic Content-Based Music Retrieval.,False
+Rhythm Extraction from Polyphony Symbolic Music.,False
+Complexity Driven Recombination of MIDI Loops.,False
+Feature Extraction and Machine Learning on Symbolic Music using the music21 Toolkit.,False
+Probabilistic Modeling of Hierarchical Music Analysis.,False
+Neo-Riemannian Cycle Detection with Weighted Finite-State Transducers.,False
+Using Sequence Alignment and Voting to Improve Optical Music Recognition from Multiple Recognizers.,False
+OCR based post processing of OMR for the recovery of transposing instruments in complex orchestral scores.,False
+Classifying Bach's Handwritten C-Clefs.,False
+Automatic Pitch Detection in Printed Square Notation.,False
+Associations between Musicology and Music Information Retrieval.,False
+Potential Relationship Discovery in Tag-Aware Music Style Clustering and Artist Social Networks.,False
+Using Network Sciences to Rank Musicians and Composers in Brazilian Popular Music.,False
+Finding Community Structure in Music Genres Networks.,False
+"Guitar Tab Mining, Analysis and Ranking.",False
+A Musical Web Mining and Audio Feature Extraction Extension to The Greenstone Digital Library Software.,False
+Knowledge Representation Issues in Musical Instrument Ontology Design.,False
+The Studio Ontology Framework.,False
+Music Structural Segmentation by Combining Harmonic and Timbral Information.,False
+A Regularity-Constrained Viterbi Algorithm and Its Application to The Structural Segmentation of Songs.,False
+Structural Change on Multiple Time Scales as a Correlate of Musical Complexity.,1.0
+l1-Graph Based Music Structure Analysis.,False
+Causal Prediction of Continuous-Valued Music Features.,False
+Exemplar-based Assignment of Large Missing Audio Parts using String Matching on Tonal Features.,False
+Aligning Semi-Improvised Music Audio with Its Lead Sheet.,False
+Expressive Timing from Cross-Performance and Audio-based Alignment Patterns: An Extended Case Study.,False
+Incremental Bayesian Audio-to-Score Alignment with Flexible Harmonic Structure Models.,False
+Stochastic Modeling of a Musical Performance with Expressive Representations from the Musical Score.,False
+The Natural Language of Playlists.,False
+"On the Importance of ""Real"" Audio Data for MIR Algorithm Evaluation at the Note-Level - A Comparative Study.",False
+A Comparative Study of Collaborative vs. Traditional Musical Mood Annotation.,False
+Design and creation of a large-scale database of structural annotations.,False
+Music Structure Segmentation Algorithm Evaluation: Expanding on MIREX 2010 Analyses and Datasets.,False
+Music Information Robotics: Coping Strategies for Musically Challenged Robots.,False
+The potential for automatic assessment of trumpet tone quality.,False
+Elementary Sources: Latent Component Analysis for Music Composition.,False
+Cross-Modal Aesthetics from A Feature Extraction Perspective: A Pilot Study.,False
+The Million Song Dataset.,1.0
+Audio Music Similarity and Retrieval: Evaluation Power and Stability.,False
+MusiCLEF: a Benchmark Activity in Multimodal Music Information Retrieval.,False
+Information Retrieval Meta-Evaluation: Challenges and Opportunities in the Music Domain.,False
+A Segment-Based Fitness Measure for Capturing Repetitive Structures of Music Recordings.,False
+Analysis of Acoustic Features for Automated Multi-Track Mixing.,False
+Accelerating The Mixing Phase In Studio Recording Productions By Automatic Audio Alignment.,False
+An Expert Ground Truth Set for Audio Chord Recognition and Music Analysis.,False
+Leveraging Noisy Online Databases for Use in Chord Recognition.,False
+A Vocabulary-Free Infinity-Gram Model for Nonparametric Bayesian Chord Progression Analysis.,False
+A Feature Smoothing Method for Chord Recognition Using Recurrence Plots.,False
+Multiscale Scattering for Audio Classification.,False
+Multi-scale temporal fusion by boosting for music classification.,False
+Audio-based Music Classification with a Pretrained Convolutional Network.,False
+Music Genre Classification by Ensembles of Audio and Lyrics Features.,False
+Unsupervised Learning of Sparse Features for Scalable Audio Classification.,False
+Sparse Signal Decomposition on Hybrid Dictionaries Using Musical Priors.,False
+Music Genre Classification using Similarity Functions.,False
+New Trends in Musical Genre Classification Using Optimum-Path Forest.,False
+Combining Content-Based Auto-Taggers with Decision-Fusion.,False
+Music Tagging with Regularized Logistic Regression.,False
+An Empirical Study of Multi-Label Classifiers for Music Tag Annotation.,False
+Semantic Annotation and Retrieval of Music using a Bag of Systems Representation.,False
+Temporal Pooling and Multiscale Learning for Automatic Annotation and Ranking of Music Audio.,False
+Music Mood Classification of Television Theme Tunes.,False
+Musical Moods: A Mass Participation Experiment for Affective Classification of Music.,False
+Modeling Dynamic Patterns for Emotional Content in Music.,False
+Identifying Emotion Segments in Music by Discovering Motifs in Physiological Data.,False
+Multi-Modal Non-Prototypical Music Mood Analysis in Continuous Space: Reliability and Performances.,False
+Music Emotion Classification of Chinese Songs based on Lyrics Using TF*IDF and Rhyme.,False
+Urgency Analysis of Audible Alarms in The Operating Room.,False
+Modeling Musical Emotion Dynamics with Conditional Random Fields.,False
+Mining the Correlation between Lyrical and Audio Features and the Emergence of Mood.,False
+Exploring The Relationship Between Mood and Creativity in Rock Lyrics.,False
+Three Current Issues In Music Autotagging.,False
+Survey and Evaluation of Audio Fingerprinting Schemes for Mobile Query-by-Example Applications.,False
+An Investigation of Musical Timbre: Uncovering Salient Semantic Descriptors and Perceptual Dimensions.,False
+A Confidence Measure For Key Labelling,False
+Improved Chord Recognition by Combining Duration and Harmonic Language Models,False
+Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks,False
+A Predictive Model for Music based on Learned Interval Representations,False
+An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts,False
+Evaluating Automatic Polyphonic Music Transcription,1.0
+Onsets and Frames: Dual-Objective Piano Transcription,1.0
+Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription,1.0
+A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius,False
+Evaluating a Collection of Sound-Tracing Data of Melodic Phrases,False
+Main Melody Estimation with Source-Filter NMF and CRNN,False
+Functional Harmony Recognition of Symbolic Music Data with Multi-task Recurrent Neural Networks,1.0
+A Single-step Approach to Musical Tempo Estimation using a Convolutional Neural Network,1.0
+Analysis of Common Design Choices in Deep Learning Systems for Downbeat Tracking,False
+Meter Detection and Alignment of MIDI Performance,1.0
+A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings,False
+Timbre Discrimination for Brief Instrument Sounds,False
+Frame-level Instrument Recognition by Timbre and Pitch,1.0
+Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model,False
+A Generalized Parsing Framework for Generative Models of Harmonic Syntax,False
+An Energy-based Generative Sequence Model for Testing Sensory Theories of Western Harmony,False
+"Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning",False
+"Bridging Audio Analysis, Perception and Synthesis with Perceptually-regularized Variational Timbre Spaces",1.0
+Conditioning Deep Generative Raw Audio Models for Structured Automatic Music,False
+Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation,1.0
+Cover Song Synthesis by Analogy,1.0
+Part-invariant Model for Music Generation and Harmonization,False
+Evaluating Language Models of Tonal Harmony,False
+Skeleton Plays Piano: Online Generation of Pianist Body Movements from MIDI Performance,False
+Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets,1.0
+Searching Page-Images of Early Music Scanned with OMR: A Scalable Solution Using Minimal Absent Words,False
+Optical Music Recognition in Mensural Notation with Region-based Convolutional Neural Networks,1.0
+Camera-PrIMuS: Neural End-to-End Optical Music Recognition on Realistic Monophonic Scores,1.0
+Document Analysis of Music Score Images with Selectional Auto-Encoders,False
+Genre-Agnostic Key Classification With Convolutional Neural Networks,False
+Deep Watershed Detector for Music Object Recognition,False
+Deep Neural Networks with Voice Entry Estimation Heuristics for Voice Separation in Symbolic Music Representations,1.0
+Music Source Separation Using Stacked Hourglass Networks,False
+The Northwestern University Source Separation Library,1.0
+Improving Bass Saliency Estimation using Transfer Learning and Label Propagation,False
+Improving Peak-picking Using Multiple Time-step Loss Functions,1.0
+Zero-Mean Convolutions for Level-Invariant Singing Voice Detection,1.0
+Music Generation and Transformation with Moment Matching-Scattering Inverse Networks,1.0
+Wave-U-Net: A Multi-Scale Neural Network for End-to-End Audio Source Separation,1.0
+SE and SNL diagrams: Flexible data structures for MIR,1.0
+JSYMBOLIC 2.2: Extracting Features from Symbolic Music for use in Musicological and MIR Research,False
+Relevance of Musical Features for Cadence Detection,False
+On the Relationships between Music-induced Emotion and Physiological Signals,False
+Music Mood Detection Based on Audio and Lyrics with Deep Neural Net,False
+Identifying Emotions in Opera Singing: Implications of Adverse Acoustic Conditions,False
+Musical Texture and Expressivity Features for Music Emotion Recognition,False
+Shared Generative Representation of Auditory Concepts and EEG to Reconstruct Perceived and Imagined Music,False
+Exploring Musical Relations Using Association Rule Networks,False
+A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music,False
+Computational Corpus Analysis: A Case Study on Jazz Solos,False
+Controlled Vocabularies for Music Metadata,1.0
+"DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm.",1.0
+OpenMIC-2018: An Open Data-set for Multiple Instrument Recognition,1.0
+From Labeled to Unlabeled Data – On the Data Challenge in Automatic Drum Transcription,1.0
+GuitarSet: A Dataset for Guitar Transcription,1.0
+Musical-Linguistic Annotations of Il Lauro Secco,1.0
+VocalSet: A Singing Voice Dataset,1.0
+The NES Music Database: A multi-instrumental dataset with expressive performance attributes,1.0
+Audio-Aligned Jazz Harmony Dataset for Automatic Chord Transcription and Corpus-based Research,1.0
+Methodologies for Creating Symbolic Corpora of Western Music Before 1600,False
+Precision of Sung Notes in Carnatic Music,False
+Revisiting Singing Voice Detection: A quantitative review and the future outlook,1.0
+Vocals in Music Matter: the Relevance of Vocals in the Minds of Listeners,False
+Vocal Melody Extraction with Semantic Segmentation and Audio-symbolic Domain Transfer Learning,1.0
+Empirically Weighting the Importance of Decision Factors for Singing Preference,False
+Analysis by Classification: A Comparative Study of Annotated and Algorithmically Extracted Patterns in Symbolic Music Data,1.0
+Generalized Skipgrams for Pattern Discovery in Polyphonic Streams,False
+Comparison of Audio Features for Recognition of Western and Ethnic Instruments in Polyphonic Mixtures,False
+Instrudive: A Music Visualization System Based on Automatically Recognized Instrumentation,False
+Instrument Activity Detection in Polyphonic Music using Deep Neural Networks,False
+"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning",False
+Aligned Sub-Hierarchies: A Structure-based Approach to the Cover Song Task,False
+Audio-to-Score Alignment using Transposition-invariant Features,1.0
+Semi-supervised Lyrics and Solo-singing Alignment,False
+Concert Stitch: Organization and Synchronization of Crowd Sourced Recordings,False
+A Data-driven Approach to Mid-level Perceptual Musical Feature Modeling,False
+Disambiguating Music Artists at Scale with Audio Metric Learning,1.0
+Driftin' Down the Scale: Dynamic Time Warping in the Presence of Pitch Drift and Transpositions,False
+End-to-end Learning for Music Audio Tagging at Scale,1.0
+Audio Based Disambiguation of Music Genre Tags,1.0
+Learning Domain-Adaptive Latent Representations of Music Signals Using Variational Autoencoders,1.0
+Learning Interval Representations from Polyphonic Music Sequences,1.0
+Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions,False
+Investigating Cross-Country Relationship between Users' Social Ties and Music Mainstreaminess,False
+Listener Anonymizer: Camouflaging Play Logs to Preserve User's Demographic Anonymity,False
+On the Impact of Music on Decision Making in Cooperative Tasks,False
+VenueRank: Identifying Venues that Contribute to Artist Popularity,False
+The Many Faces of Users: Modeling Musical Preference,False
+Representation Learning of Music Using Artist Labels,1.0
+StructureNet: Inducing Structure in Generated Melodies,False
+Summarizing and Comparing Music Data and Its Application on Cover Song Identification,False
+Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model,1.0
+MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer,1.0
+Understanding a Deep Machine Listening Model Through Feature Inversion,1.0
+Comparing RNN Parameters for Melodic Similarity,False
+Visualization of Audio Data Using Stacked Graphs,False
+Two Web Applications for Exploring Melodic Patterns in Jazz Solos,False
+"Learning to Listen, Read, and Follow: Score Following as a Reinforcement Learning Game",1.0
+Matrix Co-Factorization for Cold-Start Recommendation,False
+Music Structure Analysis Based on an LSTM-HSMM Hybrid Model,False
+Multi-Instrument Music Transcription Based on Deep Spherical Clustering of Spectrograms and Pitchgrams,False
+Improving Polyphonic Music Models with Feature-rich Encoding,True
+Practical Evaluation of Repeated Recommendations in Personalized Music Discovery,False
+Modeling and Estimating Local Tempo: A Case Study on Chopin's Mazurkas,False
+Classifying Leitmotifs in Recordings of Operas by Richard Wagner,False
+Composer Style Classification of Piano Sheet Music Images Using Language Model Pretraining,True
+Using Weakly Aligned Score-Audio Pairs to Train Deep Chroma Models for Cross-Modal Music Retrieval,False
+Camera-Based Piano Sheet Music Identification,True
+User Perceptions Underlying  Social Music Behavior,False
+Perceptual vs. automated judgements of music copyright infringement,True
+SuPP & MaPP: Adaptable Structure-Based Representations for MIR Tasks,True
+Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset,False
+A corpus-based analysis of syncopated patterns in ragtime,True
+A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory,True
+Investigating U-Nets with various Intermediate Blocks for Spectrogram-based Singing Voice Separation,True
+The Rhythmic Dictator: Does Gamification of Rhythm Dictation Exercises Help?,True
+Learning to Read and Follow Music in Complete Score Sheet Images,True
+Learning to Denoise Historical Music,False
+Discourse not Dualism: An Interdisciplinary Dialogue on Sonata Form in Beethoven's Early Piano Sonatas,False
+Play Music: User Motivations and Expectations for Non-Specific Voice Queries,False
+Measuring disruption in song similarity networks,True
+Uncovering audio patterns in music with Nonnegative Tucker Decomposition for structural segmentation,False
+The Jazz Harmony Treebank,True
+A Chorus-Section Detection Method for Lyrics Text,False
+POP909: A Pop-Song Dataset for Music Arrangement Generation,False
+Chord Jazzification: Learning Jazz Interpretations of Chord Symbols,False
+Learning Interpretable Representation for Controllable Polyphonic Music Generation ,True
+Connective Fusion: Learning Transformational Joining of Sequences with Application to Melody Creation,False
+PIANOTREE VAE: Structured Representation Learning for Polyphonic Music,True
+Towards Multimodal MIR: Predicting individual differences from music-induced movement,False
+Attributes-Aware Deep Music Transformation,False
+Multilingual lyrics-to-audio alignment,True
+Hierarchical Musical Instrument Separation,False
+Structural Segmentation of Dhrupad Vocal Bandish Audio based on Tempo,True
+Moving in Time: Computational Analysis of Microtiming in Maracatu de Baque Solto,False
+Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation,True
+Modelling Hierarchical Key Structure With Pitch Scapes,True
+Voice-Leading Schema Recognition Using Rhythm and Pitch Features,True
+Semantically Meaningful Attributes from Co-Listen Embeddings for Playlist Exploration and Expansion,False
+Downbeat Tracking with Tempo Invariant Convolutional Neural Networks,False
+ASAP: a dataset of aligned scores and performances for piano transcription,True
+Tag2Risk: Harnessing Social Music Tags for Characterizing Depression Risk,False
+Content based singing voice source separation via strong conditioning using aligned phonemes,True
+BebopNet: Deep Neural Models for Personalized Jazz Improvisations,False
+A Simple Method for User-Driven Music Thumbnailing,True
+PROGRAMMING INEQUALITY: GENDER REPRESENTATION ON CANADIAN COUNTRY RADIO (2005-2019),False
+Score-Informed Source Separation of Choral Music,True
+Can't trust the feeling? How open data reveals unexpected behavior of high-level music descriptors,False
+Improved Handling of Repeats and Jumps in Audio--Sheet Image Synchronization,True
+Zero-Shot Singing Voice Conversion,False
+Dance Beat Tracking from Visual Information Alone,False
+Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm,True
+How Music Fans Shape Commercial Music Services:  A Case Study of BTS and ARMY,False
+Artist gender representation in music streaming,False
+Mood Classification Using Listening Data,True
+Exploring Aligned Lyrics-informed Singing Voice Separation,False
+Sesquialtera in the Colombian bambuco: Perception and estimation of beat and meter,True
+Joint analysis of mode and playing technique in Guqin performance with machine learning,False
+Score following with hidden tempo using a switching state-space model,False
+Semi-supervised learning using teacher-student models for vocal melody extraction,True
+Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds,False
+Automatic Rank-Ordering of Singing Vocals with Twin-Neural Network,False
+Human-AI Co-Creation in Songwriting,False
+Analysis of Song/Artist Latent Features and Its Application for Song Search,False
+The MIDI Degradation Toolkit: Symbolic Music Augmentation and Correction,True
+MusPy: A Toolkit for Symbolic Music Generation,True
+Ultra-light deep MIR by trimming lottery tickets,True
+Data Cleansing with Contrastive Learning for Vocal Note Event Annotations,True
+Joyful for you and tender for us: the influence of individual characteristics and language on emotion labeling and classification,True
+A Neural Approach for Full-Page Optical Music Recognition of Mensural Documents,False
+Multidimensional similarity modelling of complex drum loops using the GrooveToolbox,True
+Modeling perception with hierarchical prediction: Auditory segmentation with deep predictive coding locates candidate evoked potentials in EEG,False
+Music FaderNets: Controllable Music Generation Based On High-Level Features via Low-Level Feature Modelling,True
+"Deconstruct, Analyse, Reconstruct: How to improve Tempo, Beat, and Downbeat Estimation",True
+Neural Loop Combiner: Neural Network Models for Assessing the Compatibility of Loops,True
+Rule Mining for Local Boundary Detection in Melodies,True
+Butter Lyrics Over Hominy Grit: Comparing Audio and Psychology-Based Text Features in MIR Tasks,True
+Mode classification and natural units in plainchant,True
+Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis,False
+"CONLON: A Pseudo-Song Generator Based on a New Pianoroll, Wasserstein Autoencoders, and Optimal Interpolations",True
+Combining musical features for cover detection,False
+The Freesound Loop Dataset and Annotation Tool,True
+Less is more: Faster and better music version identification with embedding distillation,True
+Should we consider the users in contextual music auto-tagging models?,False
+Exploring Acoustic Similarity for Novel Music Recommendation,False
+Generating Music with a Self-Correcting Non-Chronological Autoregressive Model,False
+Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks,True
+DRUMGAN: SYNTHESIS OF DRUM SOUNDS WITH TIMBRAL FEATURE CONDITIONING USING GENERATIVE ADVERSARIAL NETWORKS,True
+Microtask Crowdsourcing for Music Score Transcriptions: An Experiment with Error Detection,False
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing,True
+Essentia.js: A JavaScript Library for Music and Audio Analysis on the Web,True
+Detecting Collaboration Profiles in Success-based Music Genre Networks,False
+Deep Learning Based Source Separation Applied To Choir Ensembles,True
+On the Characterization of Expressive Performance in Classical Music: First Results of the Con Espressione Game,True
+Few-shot Drum Transcription in Polyphonic Music,False
+dMelodies: A Music Dataset for Disentanglement Learning,True
+Metric learning vs classification for disentangled music representation learning,False
+Score-informed Networks for Music Performance Assessment,True
+The multiple voices of musical emotions: source separation for improving music emotion recognition models and their interpretability,True
+Hierarchical Timbre-painting and Articulation Generation,True
+User Insights on Diversity in Music Recommendation Lists,False
+From Music Ontology towards Ethno-Music-Ontology,False
+A Combination of Local Approaches for Hierarchical Music Genre Classification,False
+Modeling Music and Code Knowledge to Support a Co-creative AI Agent for Education,False
+Multitask Learning  for Instrument Activation Aware Music Source Separation,True
+The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-composed Music through Quantitative Measures,True
+Polyphonic Piano Transcription Using Autoregressive Multi-State Note Model,False
+"Exact, Parallelizable Dynamic Time Warping Alignment with Linear Memory",True
+Automatic Composition of Guitar Tabs by Transformers and Groove Modeling,False
+A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment,True
+Explaining Perceived Emotion Predictions in Music: An Attentive Approach,False
+Bistate reduction and comparison of drum patterns,False
+"Pandemics, music, and collective sentiment: evidence from the outbreak of COVID-19",False
+Towards a Formalization of Musical Rhythm,False
+Data Usage in MIR: History & Future Recommendations,False
+Music Performance Analysis: A Survey,False
+Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come,False
+20 Years of Automatic Chord Recognition from Audio,False
+Zero-shot Learning for Audio-based Music Classification and Tagging,True
+Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition,True
+An Attention Mechanism for Musical Instrument Recognition,True
+MIDI-Sheet Music Alignment Using Bootleg Score Synthesis,True
+mirdata: Software for Reproducible Usage of Datasets,False
+Cover Detection Using Dominant Melody Embeddings,False
+Identifying Expressive Semantics in Orchestral Conducting Kinematics,False
+The RomanText Format: A Flexible and Standard Method for Representing Roman Numerial Analyses,True
+20 Years of Playlists: A Statistical Analysis on Popularity and Diversity,True
+Identification and Cross-Document Alignment of Measures in Music Score Images,False
+"Query-by-Blending: A Music Exploration System Blending Latent Vector Representations of Lyric Word, Song Audio, and Artist",False
+Improving Structure Evaluation Through Automatic Hierarchy Expansion,False
+Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations,True
+An Initial Computational Model for Musical Schemata Theory,False
+Evolution of the Informational Complexity of Contemporary Western Music,True
+Deep Unsupervised Drum Transcription,True
+Estimating Unobserved Audio Features for Target-Based Orchestration,True
+Towards Automatically Correcting Tapped Beat Annotations for Music Recordings,False
+Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation,False
+Learning Soft-Attention Models for Tempo-invariant Audio-Sheet Music Retrieval,True
+Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music,True
+Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast,True
+Towards Explainable Music Emotion Recognition: The Route via Mid-level Features,False
+Community-Based Cover Song Detection,True
+Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning,False
+Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition,True
+"Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model",False
+Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste,False
+Guitar Tablature Estimation with a Convolutional Neural Network,True
+Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice,True
+Augmenting Music Listening Experiences on Voice Assistants,False
+Coupled Recurrent Models for Polyphonic Music Composition,False
+Hit Song Prediction: Leveraging Low- and High-Level Audio Features,False
+Da-TACOS: A Dataset for Cover Song Identification and Understanding,True
+Harmonic Syntax in Time: Rhythm Improves Grammatical Models of Harmony,False
+Learning to Traverse Latent Spaces for Musical Score Inpainting,True
+Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music,False
+"The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale",True
+Data-Driven Song Recognition Estimation Using Collective Memory Dynamics Models,False
+Towards Interpretable Polyphonic Transcription with Invertible Neural Networks,True
+Learning to Generate Music With Sentiment,False
+Backtracking Search Heuristics for Solving the All-partition Array Problem,True
+Modeling and Learning Structural Breaks in Sonata Forms,False
+Auto-adaptive Resonance Equalization using Dilated Residual Networks,False
+Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach,False
+A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity,True
+JosquIntab: A Dataset for Content-based Computational Analysis of Music in Lute Tablature,True
+A Dataset of Rhythmic Pattern Reproductions and Baseline Automatic Assessment System,True
+Self-Supervised Methods for Learning Semantic Similarity in Music,False
+Blending Acoustic and Language Model Predictions for Automatic Music Transcription,True
+Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar,False
+A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction,False
+Learning Similarity Metrics for Melody Retrieval,True
+Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other,True
+Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?,False
+"AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing",False
+Microtiming Analysis in Traditional Shetland Fiddle Music,False
+SUPRA: Digitizing the Stanford University Piano Roll Archive,False
+Fast and Flexible Neural Audio Synthesis,False
+DeepSRGM - Sequence Classification and Ranking in Indian Classical Music Via Deep Learning,False
+Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN,False
+Convolutional Composer Classification,False
+A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation,False
+"The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music",True
+FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing,False
+Automatic Assessment of Sight-reading Exercises,True
+Supervised Symbolic Music Style Translation Using Synthetic Data,False
+Deep Music Analogy Via Latent Representation Disentanglement,False
+Query by Video: Cross-modal Music Retrieval,False
+Investigating CNN-based Instrument Family Recognition for Western Classical Music Recordings,False
+A Bi-Directional Transformer for Musical Chord Recognition,True
+SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis,False
+Deep-Rhythm for Global Tempo Estimation in Music,False
+Large-vocabulary Chord Transcription Via Chord Structure Decomposition,False
+"BandNet: A Neural Network-based, Multi-Instrument Beatles-Style MIDI Music Composition Machine",False
+Can We Listen To It Together?: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior ,False
+Adversarial Learning for Improved Onsets and Frames Music Transcription,False
+Automatic Music Transcription and Ethnomusicology: a User Study,False
+LakhNES: Improving Multi-instrumental Music Generation with Cross-domain Pre-training,True
+"Taking Form: A Representation Standard, Conversion Code, and Example Corpora for Recording, Visualizing, and Studying Analyses of Musical Form",True
+Learning Complex Basis Functions for Invariant Representations of Audio,True
+Folded CQT RCNN For Real-time Recognition of Instrument Playing Techniques,False
+humdrumR: a New Take on an Old Approach to Computational Musicology,True
+Tunes Together: Perception and Experience of Collaborative Playlists,False
+A Holistic Approach to Polyphonic Music Transcription with Neural Networks,True
+Generalized Metrics for Single-f0 Estimation Evaluation,True
+Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders,False
+The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications,True
+Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations,True
+A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music,False
+Mapping Timing Strategies in Drum Performance,False
+Improving Singing Aid System for Laryngectomees With Statistical Voice Conversion and VAE-SPACE,False
+Approachable Music Composition with Machine Learning at Scale,True
+Scalable Searching and Ranking  for Melodic Pattern Queries,False
+Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals,False
+Controlling Symbolic Music Generation based on Concept Learning from Domain Knowledge,False
+Unmixer: An Interface for Extracting and Remixing Loops,False
+Quantifying Disruptive Influence in the AllMusic Guide,True
+Leveraging knowledge bases and parallel annotations for music genre translation,True
+Generating Structured Drum Pattern Using Variational Autoencoder and Self-similarity Matrix,True
+Rendering Music Performance With Interpretation Variations Using Conditional Variational RNN,False
+An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats,False
+Quantifying Musical Style: Ranking Symbolic Music based on Similarity to a Style,True
+Audio Query-based Music Source Separation,False
+Mosaic Style Transfer Using Sparse Autocorrelograms,True
+Automatic Choreography Generation with Convolutional Encoder-decoder Network,False
+Hierarchical Classification Networks for Singing Voice Segmentation and Transcription,True
+VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance,True
+MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music,True
+A Convolutional Approach to Melody Line Identification in Symbolic Scores,True
+Influence in Early Electronic Dance Music: An Audio Content Analysis Investigation.,False
+Association Mining of Folk Music Genres and Toponyms.,False
+Characterization of Embellishments in Ney Performances of Makam Music in Turkey.,False
+Cross-cultural Music Mood Classification: A Comparison on English and Chinese Songs.,False
+Towards a (Better) Definition of the Description of Annotated MIR Corpora.,False
+Modeling Musical Mood From Audio Features and Listening Context on an In-Situ Data Set.,False
+Analyzing Drum Patterns Using Conditional Deep Belief Networks.,True
+N-gram Based Statistical Makam Detection on Makam Music in Turkey Using Symbolic Data.,False
+Evaluating the Online Capabilities of Onset Detection Methods.,False
+Structure-Based Audio Fingerprinting for Music Retrieval.,False
+Bridging Printed Music and Audio Through Alignment Using a Mid-level Score Representation.,False
+Real-time Online Singing Voice Separation from Monaural Recordings Using Robust Low-rank Modeling.,False
+Folksonomy-based Tag Recommendation for Online Audio Clip Sharing.,False
+Infinite Composite Autoregressive Models for Music Signal Analysis.,False
+Professionally-produced Music Separation Guided by Covers.,False
+Bayesian Nonnegative Harmonic-Temporal Factorization and Its Application to Multipitch Analysis.,False
+A Scape Plot Representation for Visualizing Repetitive Structures of Music Recordings.,False
+A Systematic Comparison of Music Similarity Adaptation Approaches.,False
+Using Hyper-genre Training to Explore Genre Information for Automatic Chord Estimation.,False
+Semi-supervised NMF with Time-frequency Annotations for Single-channel Source Separation.,False
+Neon.js: Neume Editor Online.,False
+Modeling Chord and Key Structure with Markov Logic.,False
+A Geometric Language for Representing Structure in Polyphonic Music.,True
+Unsupervised Learning of Local Features for Music Classification.,False
+Modeling Piano Interpretation Using Switching Kalman Filter.,False
+Interpreting Rhythm in Optical Music Recognition.,False
+Assigning a Confidence Threshold on Automatic Beat Annotation in Large Datasets.,True
+A Corpus-based Study of Rhythm Patterns.,False
+"One in the Jungle: Downbeat Detection in Hardcore, Jungle, and Drum and Bass.",False
+A MIREX Meta-analysis of Hubness in Audio Music Similarity.,False
+How Significant is Statistically Significant? The case of Audio Music Similarity and Retrieval.,False
+Statistical Characterisation of Melodic Pitch Contours and its Application for Melody Extraction.,False
+Detecting Melodic Motifs from Audio for Hindustani Classical Music.,False
+Characterization of Intonation in Carnatic Music by Parametrizing Pitch Histograms.,False
+Discriminative Non-negative Matrix Factorization for Multiple Pitch Estimation.,False
+A Feature Relevance Study for Guitar Tone Classification.,False
+String Methods for Folk Tune Genre Classification.,False
+A Turkish Makam Music Symbolic Database for Music Information Retrieval: SymbTr.,False
+Polyphonic Music Classification on Symbolic Data Using Dissimilarity Functions.,False
+"Semiotic Structure Labeling of Music Pieces: Concepts, Methods and Annotation Conventions.",False
+Large-Scale Cover Song Recognition Using the 2D Fourier Transform Magnitude.,False
+Creating Ground Truth for Audio Key Finding: When the Title Key May Not Be the Key.,False
+Understanding User Requirements for Music Information Services.,False
+The Impact of MIREX on Scholarly Research (2005 - 2010).,False
+An Emotion Model for Music Using Brain Waves.,False
+Music Structure Analysis by Ridge Regression of Beat-synchronous Audio Features.,False
+Score-Informed Leading Voice Separation from Monaural Audio.,False
+On Measuring Syncopation to Drive an Interactive Music System.,False
+Current Challenges in the Evaluation of Predominant Melody Extraction Algorithms.,False
+Improving Audio Chord Transcription by Exploiting Harmonic and Metric Knowledge.,False
+Reducing Tempo Octave Errors by Periodicity Vector Coding And SVM Learning.,False
+Context-free 2D Tree Structure Model of Musical Notes for Bayesian Modeling of Polyphonic Spectrograms.,False
+Compressing Music Recordings into Audio Summaries.,False
+Second Fiddle is Important Too: Pitch Tracking Individual Voices in Polyphonic Music.,False
+Feature Learning in Dynamic Environments: Modeling the Acoustic Structure of Musical Emotion.,False
+User-centered Measures vs. System Effectiveness in Finding Similar Songs.,False
+Towards Time-resilient MIR Processes.,False
+Hypergraph Models of Playlist Dialects.,False
+Learning to Embed Songs and Tags for Playlist Prediction.,True
+Extracting Semantic Information from an Online Carnatic Music Forum.,True
+Ranking Lyrics for Online Search.,False
+The Role Of Music in the Lives of Homeless Young People: A Preliminary Report.,False
+A Survey on Music Listening and Management Behaviours.,False
+Automatic Music Transcription: Breaking the Glass Ceiling.,False
+Putting the User in the Center of Music Information Retrieval.,False
+The Impact (or Non-impact) of User Studies in Music Information Retrieval.,False
+Mel Cepstrum &amp; Ann Ova: The Difficult Dialog Between MIR and Music Cognition.,False
+Moving Beyond Feature Design: Deep Architectures and Automatic Feature Learning in Music Informatics.,False
+"Reuse, Remix, Repeat: the Workflows of MIR.",False
+Multi-Template Shift-Variant Non-Negative Matrix Deconvolution for Semi-Automatic Music Transcription.,True
+Tracking Melodic Patterns in Flamenco Singing by Analyzing Polyphonic Music Recordings.,False
+A Cross-version Approach for Stabilizing Tempo-based Novelty Detection.,False
+Fast Identification of Piece and Score Position via Symbolic Fingerprinting.,False
+"A Multimedia Search and Navigation Prototype, Including Music and Video-clips.",False
+Chord Recognition Using Duration-explicit Hidden Markov Models.,False
+Finding Repeating Stanzas in Folk Songs.,False
+Detecting Episodes with Harmonic Sequences for Fugue Analysis.,False
+Inferring Chord Sequence Meanings via Lyrics: Process and Evaluation.,True
+Facilitating Comprehensive Benchmarking Experiments on the Million Song Dataset.,False
+Decoding Tempo and Timing Variations in Music Recordings from Beat Annotations.,False
+Unsupervised Chord-Sequence Generation from an Audio Example.,False
+Listening Level Changes Music Similarity.,False
+Pitch Content Visualization Tools for Music Performance Analysis.,False
+A Multipitch Approach to Tonic Identification in Indian Classical Music.,False
+Separating Presentation and Content in MEI.,False
+A Study of Intonation in Three-Part Singing using the Automatic Music Performance Analysis and Comparison Toolkit (AMPACT).,False
+Influence of Peak Selection Methods on Onset Detection.,False
+Evaluation of Musical Features for Emotion Classification.,False
+BLAST for Audio Sequences Alignment: A Fast Scalable Cover Identification Tool.,False
+A Cross-cultural Study of Music Mood Perception between American and Chinese Listeners.,False
+Shortest Path Techniques for Annotation and Retrieval of Environmental Sounds.,False
+Multivariate Autoregressive Mixture Models for Music Auto-Tagging.,False
+Building Musically-relevant Audio Features through Multiple Timescale Representations.,False
+A Comparison of Sound Segregation Techniques for Predominant Instrument Recognition in Musical Audio Signals.,False
+Learning Sparse Feature Representations for Music Annotation and Retrieval.,False
+Score Analyzer: Automatically Determining Scores Difficulty Level for Instrumental e-Learning.,False
+Digital Document Image Retrieval Using Optical Music Recognition.,False
+Music/Voice Separation Using the Similarity Matrix.,False
+Breathy or Resonant - A Controlled and Curated Dataset for Phonation Mode Detection in Singing.,False
+Robust Singer Identification in Polyphonic Music using Melody Enhancement and Uncertainty-based Learning.,True
+Predominant Fundamental Frequency Estimation vs Singing Voice Separation for the Automatic Transcription of Accompanied Flamenco Singing.,False

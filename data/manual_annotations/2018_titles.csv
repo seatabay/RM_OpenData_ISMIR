@@ -1,0 +1,105 @@
+titles,code
+A Confidence Measure For Key Labelling,
+Improved Chord Recognition by Combining Duration and Harmonic Language Models,
+Using Musical Relationships Between Chord Labels in Automatic Chord Extraction Tasks,
+A Predictive Model for Music based on Learned Interval Representations,
+An End-to-end Framework for Audio-to-Score Music Transcription on Monophonic Excerpts,
+Evaluating Automatic Polyphonic Music Transcription,1.0
+Onsets and Frames: Dual-Objective Piano Transcription,1.0
+Player Vs Transcriber: A Game Approach To Data Manipulation For Automatic Drum Transcription,1.0
+A Flexible Approach to Automated Harmonic Analysis: Multiple Annotations of Chorales by Bach and Prætorius,
+Evaluating a Collection of Sound-Tracing Data of Melodic Phrases,
+Main Melody Estimation with Source-Filter NMF and CRNN,
+Functional Harmony Recognition of Symbolic Music Data with Multi-task Recurrent Neural Networks,1.0
+A Single-step Approach to Musical Tempo Estimation using a Convolutional Neural Network,1.0
+Analysis of Common Design Choices in Deep Learning Systems for Downbeat Tracking,
+Meter Detection and Alignment of MIDI Performance,1.0
+A Timbre-based Approach to Estimate Key Velocity from Polyphonic Piano Recordings,
+Timbre Discrimination for Brief Instrument Sounds,
+Frame-level Instrument Recognition by Timbre and Pitch,1.0
+Interactive Arrangement of Chords and Melodies Based on a Tree-Structured Generative Model,
+A Generalized Parsing Framework for Generative Models of Harmonic Syntax,
+An Energy-based Generative Sequence Model for Testing Sensory Theories of Western Harmony,
+"Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning",
+"Bridging Audio Analysis, Perception and Synthesis with Perceptually-regularized Variational Timbre Spaces",1.0
+Conditioning Deep Generative Raw Audio Models for Structured Automatic Music,
+Convolutional Generative Adversarial Networks with Binary Neurons for Polyphonic Music Generation,1.0
+Cover Song Synthesis by Analogy,1.0
+Part-invariant Model for Music Generation and Harmonization,
+Evaluating Language Models of Tonal Harmony,
+Skeleton Plays Piano: Online Generation of Pianist Body Movements from MIDI Performance,
+Towards Full-Pipeline Handwritten OMR with Musical Symbol Detection by U-Nets,1.0
+Searching Page-Images of Early Music Scanned with OMR: A Scalable Solution Using Minimal Absent Words,
+Optical Music Recognition in Mensural Notation with Region-based Convolutional Neural Networks,1.0
+Camera-PrIMuS: Neural End-to-End Optical Music Recognition on Realistic Monophonic Scores,1.0
+Document Analysis of Music Score Images with Selectional Auto-Encoders,
+Genre-Agnostic Key Classification With Convolutional Neural Networks,
+Deep Watershed Detector for Music Object Recognition,
+Deep Neural Networks with Voice Entry Estimation Heuristics for Voice Separation in Symbolic Music Representations,1.0
+Music Source Separation Using Stacked Hourglass Networks,
+The Northwestern University Source Separation Library,1.0
+Improving Bass Saliency Estimation using Transfer Learning and Label Propagation,
+Improving Peak-picking Using Multiple Time-step Loss Functions,1.0
+Zero-Mean Convolutions for Level-Invariant Singing Voice Detection,1.0
+Music Generation and Transformation with Moment Matching-Scattering Inverse Networks,1.0
+Wave-U-Net: A Multi-Scale Neural Network for End-to-End Audio Source Separation,1.0
+SE and SNL diagrams: Flexible data structures for MIR,1.0
+JSYMBOLIC 2.2: Extracting Features from Symbolic Music for use in Musicological and MIR Research,
+Relevance of Musical Features for Cadence Detection,
+On the Relationships between Music-induced Emotion and Physiological Signals,
+Music Mood Detection Based on Audio and Lyrics with Deep Neural Net,
+Identifying Emotions in Opera Singing: Implications of Adverse Acoustic Conditions,
+Musical Texture and Expressivity Features for Music Emotion Recognition,
+Shared Generative Representation of Auditory Concepts and EEG to Reconstruct Perceived and Imagined Music,
+Exploring Musical Relations Using Association Rule Networks,
+A Crowdsourced Experiment for Tempo Estimation of Electronic Dance Music,
+Computational Corpus Analysis: A Case Study on Jazz Solos,
+Controlled Vocabularies for Music Metadata,1.0
+"DALI: A Large Dataset of Synchronized Audio, Lyrics and notes, Automatically Created using Teacher-student Machine Learning Paradigm.",1.0
+OpenMIC-2018: An Open Data-set for Multiple Instrument Recognition,1.0
+From Labeled to Unlabeled Data – On the Data Challenge in Automatic Drum Transcription,1.0
+GuitarSet: A Dataset for Guitar Transcription,1.0
+Musical-Linguistic Annotations of Il Lauro Secco,1.0
+VocalSet: A Singing Voice Dataset,1.0
+The NES Music Database: A multi-instrumental dataset with expressive performance attributes,1.0
+Audio-Aligned Jazz Harmony Dataset for Automatic Chord Transcription and Corpus-based Research,1.0
+Methodologies for Creating Symbolic Corpora of Western Music Before 1600,
+Precision of Sung Notes in Carnatic Music,
+Revisiting Singing Voice Detection: A quantitative review and the future outlook,1.0
+Vocals in Music Matter: the Relevance of Vocals in the Minds of Listeners,
+Vocal Melody Extraction with Semantic Segmentation and Audio-symbolic Domain Transfer Learning,1.0
+Empirically Weighting the Importance of Decision Factors for Singing Preference,
+Analysis by Classification: A Comparative Study of Annotated and Algorithmically Extracted Patterns in Symbolic Music Data,1.0
+Generalized Skipgrams for Pattern Discovery in Polyphonic Streams,
+Comparison of Audio Features for Recognition of Western and Ethnic Instruments in Polyphonic Mixtures,
+Instrudive: A Music Visualization System Based on Automatically Recognized Instrumentation,
+Instrument Activity Detection in Polyphonic Music using Deep Neural Networks,
+"Jazz Solo Instrument Classification with Convolutional Neural Networks, Source Separation, and Transfer Learning",
+Aligned Sub-Hierarchies: A Structure-based Approach to the Cover Song Task,
+Audio-to-Score Alignment using Transposition-invariant Features,1.0
+Semi-supervised Lyrics and Solo-singing Alignment,
+Concert Stitch: Organization and Synchronization of Crowd Sourced Recordings,
+A Data-driven Approach to Mid-level Perceptual Musical Feature Modeling,
+Disambiguating Music Artists at Scale with Audio Metric Learning,1.0
+Driftin' Down the Scale: Dynamic Time Warping in the Presence of Pitch Drift and Transpositions,
+End-to-end Learning for Music Audio Tagging at Scale,1.0
+Audio Based Disambiguation of Music Genre Tags,1.0
+Learning Domain-Adaptive Latent Representations of Music Signals Using Variational Autoencoders,1.0
+Learning Interval Representations from Polyphonic Music Sequences,1.0
+Influences on the Social Practices Surrounding Commercial Music Services: A Model for Rich Interactions,
+Investigating Cross-Country Relationship between Users' Social Ties and Music Mainstreaminess,
+Listener Anonymizer: Camouflaging Play Logs to Preserve User's Demographic Anonymity,
+On the Impact of Music on Decision Making in Cooperative Tasks,
+VenueRank: Identifying Venues that Contribute to Artist Popularity,
+The Many Faces of Users: Modeling Musical Preference,
+Representation Learning of Music Using Artist Labels,1.0
+StructureNet: Inducing Structure in Generated Melodies,
+Summarizing and Comparing Music Data and Its Application on Cover Song Identification,
+Transferring the Style of Homophonic Music Using Recurrent Neural Networks and Autoregressive Model,1.0
+MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer,1.0
+Understanding a Deep Machine Listening Model Through Feature Inversion,1.0
+Comparing RNN Parameters for Melodic Similarity,
+Visualization of Audio Data Using Stacked Graphs,
+Two Web Applications for Exploring Melodic Patterns in Jazz Solos,
+"Learning to Listen, Read, and Follow: Score Following as a Reinforcement Learning Game",1.0
+Matrix Co-Factorization for Cold-Start Recommendation,

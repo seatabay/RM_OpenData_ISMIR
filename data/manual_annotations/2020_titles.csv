@@ -1,0 +1,116 @@
+titles,code
+Music Structure Analysis Based on an LSTM-HSMM Hybrid Model,
+Multi-Instrument Music Transcription Based on Deep Spherical Clustering of Spectrograms and Pitchgrams,
+Improving Polyphonic Music Models with Feature-rich Encoding,True
+Practical Evaluation of Repeated Recommendations in Personalized Music Discovery,
+Modeling and Estimating Local Tempo: A Case Study on Chopin's Mazurkas,
+Classifying Leitmotifs in Recordings of Operas by Richard Wagner,
+Composer Style Classification of Piano Sheet Music Images Using Language Model Pretraining,True
+Using Weakly Aligned Score-Audio Pairs to Train Deep Chroma Models for Cross-Modal Music Retrieval,
+Camera-Based Piano Sheet Music Identification,True
+User Perceptions Underlying  Social Music Behavior,
+Perceptual vs. automated judgements of music copyright infringement,True
+SuPP & MaPP: Adaptable Structure-Based Representations for MIR Tasks,True
+Automatic Figured Bass Annotation Using the New Bach Chorales Figured Bass Dataset,
+A corpus-based analysis of syncopated patterns in ragtime,True
+A Method for Analysis of Shared Structure in Large Music Collections using Techniques from Genetic Sequencing and Graph Theory,True
+Investigating U-Nets with various Intermediate Blocks for Spectrogram-based Singing Voice Separation,True
+The Rhythmic Dictator: Does Gamification of Rhythm Dictation Exercises Help?,True
+Learning to Read and Follow Music in Complete Score Sheet Images,True
+Learning to Denoise Historical Music,
+Discourse not Dualism: An Interdisciplinary Dialogue on Sonata Form in Beethoven's Early Piano Sonatas,
+Play Music: User Motivations and Expectations for Non-Specific Voice Queries,
+Measuring disruption in song similarity networks,True
+Uncovering audio patterns in music with Nonnegative Tucker Decomposition for structural segmentation,
+The Jazz Harmony Treebank,True
+A Chorus-Section Detection Method for Lyrics Text,
+POP909: A Pop-Song Dataset for Music Arrangement Generation,
+Chord Jazzification: Learning Jazz Interpretations of Chord Symbols,
+Learning Interpretable Representation for Controllable Polyphonic Music Generation ,True
+Connective Fusion: Learning Transformational Joining of Sequences with Application to Melody Creation,
+PIANOTREE VAE: Structured Representation Learning for Polyphonic Music,True
+Towards Multimodal MIR: Predicting individual differences from music-induced movement,
+Attributes-Aware Deep Music Transformation,
+Multilingual lyrics-to-audio alignment,True
+Hierarchical Musical Instrument Separation,
+Structural Segmentation of Dhrupad Vocal Bandish Audio based on Tempo,True
+Moving in Time: Computational Analysis of Microtiming in Maracatu de Baque Solto,
+Multilingual Music Genre Embeddings for Effective Cross-Lingual Music Item Annotation,True
+Modelling Hierarchical Key Structure With Pitch Scapes,True
+Voice-Leading Schema Recognition Using Rhythm and Pitch Features,True
+Semantically Meaningful Attributes from Co-Listen Embeddings for Playlist Exploration and Expansion,
+Downbeat Tracking with Tempo Invariant Convolutional Neural Networks,
+ASAP: a dataset of aligned scores and performances for piano transcription,True
+Tag2Risk: Harnessing Social Music Tags for Characterizing Depression Risk,
+Content based singing voice source separation via strong conditioning using aligned phonemes,True
+BebopNet: Deep Neural Models for Personalized Jazz Improvisations,
+A Simple Method for User-Driven Music Thumbnailing,True
+PROGRAMMING INEQUALITY: GENDER REPRESENTATION ON CANADIAN COUNTRY RADIO (2005-2019),
+Score-Informed Source Separation of Choral Music,True
+Can't trust the feeling? How open data reveals unexpected behavior of high-level music descriptors,
+Improved Handling of Repeats and Jumps in Audio--Sheet Image Synchronization,True
+Zero-Shot Singing Voice Conversion,
+Dance Beat Tracking from Visual Information Alone,
+Music SketchNet: Controllable Music Generation via Factorized Representations of Pitch and Rhythm,True
+How Music Fans Shape Commercial Music Services:  A Case Study of BTS and ARMY,
+Artist gender representation in music streaming,
+Mood Classification Using Listening Data,True
+Exploring Aligned Lyrics-informed Singing Voice Separation,
+Sesquialtera in the Colombian bambuco: Perception and estimation of beat and meter,True
+Joint analysis of mode and playing technique in Guqin performance with machine learning,
+Score following with hidden tempo using a switching state-space model,
+Semi-supervised learning using teacher-student models for vocal melody extraction,True
+Unsupervised Disentanglement of Pitch and Timbre for Isolated Musical Instrument Sounds,
+Automatic Rank-Ordering of Singing Vocals with Twin-Neural Network,
+Human-AI Co-Creation in Songwriting,
+Analysis of Song/Artist Latent Features and Its Application for Song Search,
+The MIDI Degradation Toolkit: Symbolic Music Augmentation and Correction,True
+MusPy: A Toolkit for Symbolic Music Generation,True
+Ultra-light deep MIR by trimming lottery tickets,True
+Data Cleansing with Contrastive Learning for Vocal Note Event Annotations,True
+Joyful for you and tender for us: the influence of individual characteristics and language on emotion labeling and classification,True
+A Neural Approach for Full-Page Optical Music Recognition of Mensural Documents,
+Multidimensional similarity modelling of complex drum loops using the GrooveToolbox,True
+Modeling perception with hierarchical prediction: Auditory segmentation with deep predictive coding locates candidate evoked potentials in EEG,
+Music FaderNets: Controllable Music Generation Based On High-Level Features via Low-Level Feature Modelling,True
+"Deconstruct, Analyse, Reconstruct: How to improve Tempo, Beat, and Downbeat Estimation",True
+Neural Loop Combiner: Neural Network Models for Assessing the Compatibility of Loops,True
+Rule Mining for Local Boundary Detection in Melodies,True
+Butter Lyrics Over Hominy Grit: Comparing Audio and Psychology-Based Text Features in MIR Tasks,True
+Mode classification and natural units in plainchant,True
+Data Quality Matters: Iterative Corrections on a Corpus of Mendelssohn String Quartets and Implications for MIR Analysis,
+"CONLON: A Pseudo-Song Generator Based on a New Pianoroll, Wasserstein Autoencoders, and Optimal Interpolations",True
+Combining musical features for cover detection,
+The Freesound Loop Dataset and Annotation Tool,True
+Less is more: Faster and better music version identification with embedding distillation,True
+Should we consider the users in contextual music auto-tagging models?,
+Exploring Acoustic Similarity for Novel Music Recommendation,
+Generating Music with a Self-Correcting Non-Chronological Autoregressive Model,
+Multiple F0 Estimation in Vocal Ensembles using Convolutional Neural Networks,True
+DRUMGAN: SYNTHESIS OF DRUM SOUNDS WITH TIMBRAL FEATURE CONDITIONING USING GENERATIVE ADVERSARIAL NETWORKS,True
+Microtask Crowdsourcing for Music Score Transcriptions: An Experiment with Error Detection,
+A Deep Learning Based Analysis-Synthesis Framework For Unison Singing,True
+Essentia.js: A JavaScript Library for Music and Audio Analysis on the Web,True
+Detecting Collaboration Profiles in Success-based Music Genre Networks,
+Deep Learning Based Source Separation Applied To Choir Ensembles,True
+On the Characterization of Expressive Performance in Classical Music: First Results of the Con Espressione Game,True
+Few-shot Drum Transcription in Polyphonic Music,
+dMelodies: A Music Dataset for Disentanglement Learning,True
+Metric learning vs classification for disentangled music representation learning,
+Score-informed Networks for Music Performance Assessment,True
+The multiple voices of musical emotions: source separation for improving music emotion recognition models and their interpretability,True
+Hierarchical Timbre-painting and Articulation Generation,True
+User Insights on Diversity in Music Recommendation Lists,
+From Music Ontology towards Ethno-Music-Ontology,
+A Combination of Local Approaches for Hierarchical Music Genre Classification,
+Modeling Music and Code Knowledge to Support a Co-creative AI Agent for Education,
+Multitask Learning  for Instrument Activation Aware Music Source Separation,True
+The Jazz Transformer on the Front Line: Exploring the Shortcomings of AI-composed Music through Quantitative Measures,True
+Polyphonic Piano Transcription Using Autoregressive Multi-State Note Model,
+"Exact, Parallelizable Dynamic Time Warping Alignment with Linear Memory",True
+Automatic Composition of Guitar Tabs by Transformers and Groove Modeling,
+A Computational Analysis of Real-World DJ Mixes using Mix-To-Track Subsequence Alignment,True
+Explaining Perceived Emotion Predictions in Music: An Attentive Approach,
+Bistate reduction and comparison of drum patterns,
+"Pandemics, music, and collective sentiment: evidence from the outbreak of COVID-19",
+Towards a Formalization of Musical Rhythm,

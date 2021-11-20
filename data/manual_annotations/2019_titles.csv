@@ -1,0 +1,115 @@
+titles,code
+Data Usage in MIR: History & Future Recommendations,
+Music Performance Analysis: A Survey,
+Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come,
+20 Years of Automatic Chord Recognition from Audio,
+Zero-shot Learning for Audio-based Music Classification and Tagging,True
+Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition,True
+An Attention Mechanism for Musical Instrument Recognition,True
+MIDI-Sheet Music Alignment Using Bootleg Score Synthesis,True
+mirdata: Software for Reproducible Usage of Datasets,
+Cover Detection Using Dominant Melody Embeddings,
+Identifying Expressive Semantics in Orchestral Conducting Kinematics,
+The RomanText Format: A Flexible and Standard Method for Representing Roman Numerial Analyses,True
+20 Years of Playlists: A Statistical Analysis on Popularity and Diversity,True
+Identification and Cross-Document Alignment of Measures in Music Score Images,
+"Query-by-Blending: A Music Exploration System Blending Latent Vector Representations of Lyric Word, Song Audio, and Artist",
+Improving Structure Evaluation Through Automatic Hierarchy Expansion,
+Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations,True
+An Initial Computational Model for Musical Schemata Theory,
+Evolution of the Informational Complexity of Contemporary Western Music,True
+Deep Unsupervised Drum Transcription,True
+Estimating Unobserved Audio Features for Target-Based Orchestration,True
+Towards Automatically Correcting Tapped Beat Annotations for Music Recordings,
+Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation,
+Learning Soft-Attention Models for Tempo-invariant Audio-Sheet Music Retrieval,True
+Contributing to New Musicological Theories with Computational Methods: The Case of Centonization in Arab-Andalusian Music,True
+Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast,True
+Towards Explainable Music Emotion Recognition: The Route via Mid-level Features,
+Community-Based Cover Song Detection,True
+Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning,
+Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition,True
+"Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model",
+Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste,
+Guitar Tablature Estimation with a Convolutional Neural Network,True
+Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice,True
+Augmenting Music Listening Experiences on Voice Assistants,
+Coupled Recurrent Models for Polyphonic Music Composition,
+Hit Song Prediction: Leveraging Low- and High-Level Audio Features,
+Da-TACOS: A Dataset for Cover Song Identification and Understanding,True
+Harmonic Syntax in Time: Rhythm Improves Grammatical Models of Harmony,
+Learning to Traverse Latent Spaces for Musical Score Inpainting,True
+Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music,
+"The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale",True
+Data-Driven Song Recognition Estimation Using Collective Memory Dynamics Models,
+Towards Interpretable Polyphonic Transcription with Invertible Neural Networks,True
+Learning to Generate Music With Sentiment,
+Backtracking Search Heuristics for Solving the All-partition Array Problem,True
+Modeling and Learning Structural Breaks in Sonata Forms,
+Auto-adaptive Resonance Equalization using Dilated Residual Networks,
+Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach,
+A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity,True
+JosquIntab: A Dataset for Content-based Computational Analysis of Music in Lute Tablature,True
+A Dataset of Rhythmic Pattern Reproductions and Baseline Automatic Assessment System,True
+Self-Supervised Methods for Learning Semantic Similarity in Music,
+Blending Acoustic and Language Model Predictions for Automatic Music Transcription,True
+Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar,
+A Comparative Study of Neural Models for Polyphonic Music Sequence Transduction,
+Learning Similarity Metrics for Melody Retrieval,True
+Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other,True
+Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?,
+"AIST Dance Video Database: Multi-Genre, Multi-Dancer, and Multi-Camera Database for Dance Information Processing",
+Microtiming Analysis in Traditional Shetland Fiddle Music,
+SUPRA: Digitizing the Stanford University Piano Roll Archive,
+Fast and Flexible Neural Audio Synthesis,
+DeepSRGM - Sequence Classification and Ranking in Indian Classical Music Via Deep Learning,
+Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN,
+Convolutional Composer Classification,
+A Diplomatic Edition of Il Lauro Secco: Ground Truth for OMR of White Mensural Notation,
+"The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music",True
+FMP Notebooks: Educational Material for Teaching and Learning Fundamentals of Music Processing,
+Automatic Assessment of Sight-reading Exercises,True
+Supervised Symbolic Music Style Translation Using Synthetic Data,
+Deep Music Analogy Via Latent Representation Disentanglement,
+Query by Video: Cross-modal Music Retrieval,
+Investigating CNN-based Instrument Family Recognition for Western Classical Music Recordings,
+A Bi-Directional Transformer for Musical Chord Recognition,True
+SAMBASET: A Dataset of Historical Samba de Enredo Recordings for Computational Music Analysis,
+Deep-Rhythm for Global Tempo Estimation in Music,
+Large-vocabulary Chord Transcription Via Chord Structure Decomposition,
+"BandNet: A Neural Network-based, Multi-Instrument Beatles-Style MIDI Music Composition Machine",
+Can We Listen To It Together?: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior ,
+Adversarial Learning for Improved Onsets and Frames Music Transcription,
+Automatic Music Transcription and Ethnomusicology: a User Study,
+LakhNES: Improving Multi-instrumental Music Generation with Cross-domain Pre-training,True
+"Taking Form: A Representation Standard, Conversion Code, and Example Corpora for Recording, Visualizing, and Studying Analyses of Musical Form",True
+Learning Complex Basis Functions for Invariant Representations of Audio,True
+Folded CQT RCNN For Real-time Recognition of Instrument Playing Techniques,
+humdrumR: a New Take on an Old Approach to Computational Musicology,True
+Tunes Together: Perception and Experience of Collaborative Playlists,
+A Holistic Approach to Polyphonic Music Transcription with Neural Networks,True
+Generalized Metrics for Single-f0 Estimation Evaluation,True
+Learning Disentangled Representations of Timbre and Pitch for Musical Instrument Sounds Using Gaussian Mixture Variational Autoencoders,
+The ISMIR Explorer - A Visual Interface for Exploring 20 Years of ISMIR Publications,True
+Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding From Human Annotations,True
+A Study of Annotation and Alignment Accuracy for Performance Comparison in Complex Orchestral Music,
+Mapping Timing Strategies in Drum Performance,
+Improving Singing Aid System for Laryngectomees With Statistical Voice Conversion and VAE-SPACE,
+Approachable Music Composition with Machine Learning at Scale,True
+Scalable Searching and Ranking  for Melodic Pattern Queries,
+Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals,
+Controlling Symbolic Music Generation based on Concept Learning from Domain Knowledge,
+Unmixer: An Interface for Extracting and Remixing Loops,
+Quantifying Disruptive Influence in the AllMusic Guide,True
+Leveraging knowledge bases and parallel annotations for music genre translation,True
+Generating Structured Drum Pattern Using Variational Autoencoder and Self-similarity Matrix,True
+Rendering Music Performance With Interpretation Variations Using Conditional Variational RNN,
+An Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats,
+Quantifying Musical Style: Ranking Symbolic Music based on Similarity to a Style,True
+Audio Query-based Music Source Separation,
+Mosaic Style Transfer Using Sparse Autocorrelograms,True
+Automatic Choreography Generation with Convolutional Encoder-decoder Network,
+Hierarchical Classification Networks for Singing Voice Segmentation and Transcription,True
+VirtuosoNet: A Hierarchical RNN-based System for Modeling Expressive Piano Performance,True
+MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music,True
+A Convolutional Approach to Melody Line Identification in Symbolic Scores,True
